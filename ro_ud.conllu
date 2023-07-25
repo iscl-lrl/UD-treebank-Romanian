@@ -1,0 +1,941 @@
+# sent_id = 1402200491401039874
+# text = Cu toate acestea, tricoul fără sutien creează mai multe șiruri de bărbați decât … exista mașini pe autostrada soarelui ☺️
+# text_en = However, the topless shirt creates more rows of men than ... there are cars on the soarelui highway ☺️
+1 Cu           _   ADP   _   _   4   case       _
+2 toate       _   DET   _   _   3   det        _
+3 acestea      _   PRON  _   _   4   nsubj      _
+4 ,            _   PUNCT _   _   8   punct      _
+5 tricoul      _   NOUN  _   _   8   nsubj      _
+6 fără         _   ADP   _   _   7   case       _
+7 sutien       _   NOUN  _   _   5   nmod       _
+8 creează      _   VERB  _   _   0   root       _
+9 mai          _   ADV   _   _   8   advmod     _
+10 multe       _   ADJ   _   _   11  amod       _
+11 șiruri      _   NOUN  _   _   8   obj        _
+12 de          _   ADP   _   _   11  case       _
+13 bărbați     _   NOUN  _   _   11  nmod       _
+14 decât       _   SCONJ _   _   8   mark       _
+15 …           _   PUNCT _   _   8   punct      _
+16 exista      _   VERB  _   _   8   acl        _
+17 mașini      _   NOUN  _   _   16  obj        _
+18 pe          _   ADP   _   _   17  case       _
+19 autostrada  _   NOUN  _   _   17  nmod       _
+20 soarelui    _   NOUN  _   _   19  nmod       _
+21 ☺️          _   DISCOURSE _   _   8   discourse  _
+
+# sent_id = 1403353415254691847		
+# text = O fată drăguță e roșie în obraji nu în genunchi
+# text_en = 
+1 O         _   DET   _   _   2   det        _
+2 fată      _   NOUN  _   _   5   nsubj      _
+3 drăguță   _   ADJ   _   _   2   amod       _
+4 e         _   AUX   _   _   5   cop        _
+5 roșie     _   ADJ   _   _   0   root       _
+6 în        _   ADP   _   _   7   case       _
+7 obraji    _   NOUN  _   _   5   obl        _
+8 nu        _   PART  _   _   9   advmod     _
+9 în        _   ADP   _   _   10  case       _
+10 genunchi  _   NOUN  _   _   5   obl        _
+
+# sent_id = 1399032344359669773		
+# text = femeia se pune la respect, si castravetii la murat
+# text_en = 
+1 Femeia      _   NOUN  _   _   2   nsubj:pass   _
+2 se          -   PRON  _   _   0   root         _
+3 pune        _   VERB  _   _   2   aux:pass   _
+4 la          _   ADP   _   _   5   case         _
+5 respect     _   NOUN  _   _   3   obl         _
+6 ,           _   PUNCT _   _   2   punct       _
+7 și          _   CCONJ _   _   8   cc          _
+8 castraveții  _   NOUN  _   _   2   conj        _
+9 la          _   ADP   _   _   10  case        _
+10 murat       _   VERB  _   _   8   obl        _
+
+
+# sent_id = 1408878803942793221		
+# text = Ești frumoasă până îl refuzi
+# text_en = 
+1 Ești        _   VERB  _   _   0   root         _
+2 frumoasă    _   ADJ   _   _   1   cop          _
+3 până        _   ADP   _   _   4   case         _
+4 îl          _   PRON  _   _   1   obl          _
+5 refuzi      _   VERB  _   _   1   ccomp        _
+
+# sent_id = 1405853560647061516		
+# text = Nu știu de ce contează atât de mult chipul, cracul și sânul femeii, în fond nu vrei decât sa ajungi intre picioarele ei. Nu ar trebui sa conteze cum arată, gaura au toate.
+# text_en = 
+1 Nu          _   PART  _   _   0   root       _
+2 știu        _   VERB  _   _   1   ccomp      _
+3 de          _   ADP   _   _   4   case       _
+4 ce          _   PRON  _   _   2   obl        _
+5 contează    _   VERB  _   _   1   ccomp      _
+6 atât        _   ADV   _   _   5   advmod     _
+7 de          _   ADP   _   _   8   case       _
+8 mult        _   ADJ   _   _   6   obl        _
+9 chipul      _   NOUN  _   _   5   obl        _
+10 ,           _   PUNCT _   _   2   punct      _
+11 cracul     _   NOUN  _   _   5   conj       _
+12 și          _   CCONJ _   _   11  cc         _
+13 sânul      _   NOUN  _   _   11  conj       _
+14 femeii      _   NOUN  _   _   13  nmod       _
+15 ,           _   PUNCT _   _   2   punct      _
+16 în          _   ADP   _   _   17  case       _
+17 fond        _   NOUN  _   _   5   obl        _
+18 nu          _   PART  _   _   19  advmod     _
+19 vrei        _   VERB  _   _   17  ccomp      _
+20 decât       _   SCONJ _   _   19  mark       _
+21 să          _   PART  _   _   22  mark       _
+22 ajungi      _   VERB  _   _   19  xcomp      _
+23 între        _   ADP   _   _   24  case       _
+24 picioarele  _   NOUN  _   _   22  obl        _
+25 ei          _   PRON  _   _   22  iobj       _
+26 .           _   PUNCT _   _   1   punct      _
+27 Nu          _   ADV   _   _   0   root       _
+28 ar          _   AUX   _   _   29  aux        _
+29 trebui      _   VERB  _   _   27  ccomp      _
+30 să          _   PART  _   _   31  mark       _
+31 conteze     _   VERB  _   _   29  xcomp      _
+32 cum         _   ADV   _   _   31  advmod     _
+33 arată       _   VERB  _   _   31  xcomp      _
+34 ,           _   PUNCT _   _   29  punct      _
+35 gaura       _   NOUN  _   _   31  obj        _
+36 au          _   AUX   _   _   35  aux        _
+37 toate       _   DET   _   _   35  det        _
+38 .           _   PUNCT _   _   27  punct      _
+
+
+# sent_id = 1395482269750632451		
+# text = felul întâi sarmale iar la desert buzele tale
+# text_en = 
+1 felul       _   NOUN  _   _   0   root       _
+2 întâi       _   ADJ   _   _   3   amod       _
+3 sarmale     _   NOUN  _   _   1   obj        _
+4 iar         _   CCONJ _   _   6   cc         _
+5 la          _   ADP   _   _   6   case       _
+6 desert      _   NOUN  _   _   1   conj       _
+7 buzele      _   NOUN  _   _   6   nmod       _
+8 tale        _   PRON  _   _   7   nmod:poss  _
+
+# sent_id = 1402850315452534787		
+# text = Neața, că bună ești deja.
+# text_en = 
+1 Neața     _   NOUN  _   _   2   vocative   _
+2 ,         _   PUNCT _   _   1   punct      _
+3 că        _   SCONJ _   _   5   mark       _
+4 bună      _   ADJ   _   _   5   amod       _
+5 ești      _   VERB  _   _   0   root       _
+6 deja      _   ADV   _   _   5   advmod     _
+
+# sent_id = 1398596114828386307		
+# text = Bărbatul e ca și Păcală, iar femeia o Satană
+# text_en = 
+1 Bărbatul    _   NOUN  _   _   2   nsubj       _
+2 e           _   AUX   _   _   0   root        _
+3 ca          _   ADP   _   _   4   case        _
+4 și          _   CCONJ _   _   5   cc          _
+5 Păcală      _   NOUN  _   _   2   conj        _
+6 ,           _   PUNCT _   _   2   punct       _
+7 iar         _   CCONJ _   _   8   cc          _
+8 femeia      _   NOUN  _   _   2   conj        _
+9 o           _   DET   _   _   10  det         _
+10 Satană     _   NOUN  _   _   8   nsubj       _
+
+# sent_id = 1404090379562008582		
+# text = acum e soare, acum dispare zici ca e barbat
+# text_en = 
+1 acum     _   ADV   _   _   2   advmod      _
+2 e        _   AUX   _   _   0   root        _
+3 soare    _   NOUN  _   _   2   nsubj       _
+4 ,        _   PUNCT _   _   2   punct       _
+5 acum     _   ADV   _   _   2   advmod      _
+6 dispare  _   VERB  _   _   2   conj        _
+7 zici     _   VERB  _   _   2   ccomp       _
+8 ca       _   SCONJ _   _   9   mark        _
+9 e        _   AUX   _   _   7   ccomp       _
+10 barbat  _   NOUN  _   _   9   nsubj       _
+
+
+# sent_id = 1395357877578125320		O femeie frumoasă face cat 10 bărbați bogați 💙💛❤
+# text =
+# text_en = 
+1 O        _   DET       _   _   2   det        _
+2 femeie   _   NOUN      _   _   3   nsubj      _
+3 frumoasă _   ADJ       _   _   2   amod       _
+4 face     _   VERB      _   _   0   root       _
+5 cât      _   SCONJ     _   _   7   mark       _
+6 10       _   NUM       _   _   7   nummod     _
+7 bărbați  _   NOUN      _   _   4   obj        _
+8 bogați   _   ADJ       _   _   7   amod       _
+9 💙       _   DISCOURSE _   _   4   discourse  _
+10 💛      _   DISCOURSE _   _   4   discourse  _
+11 ❤        _   DISCOURSE _   _   4   discourse  _
+
+# sent_id = 1403316828907184129		
+# text = Am impresia ca pasărea ta preferată e păunul,că ești când pă’unul ,când pă’altul
+# text_en = 
+1 Am       _   AUX   _   _   0   root       _
+2 impresia _   NOUN  _   _   1   nsubj      _
+3 că       _   SCONJ _   _   4   mark       _
+4 pasărea  _   NOUN  _   _   2   ccomp      _
+5 ta       _   PRON  _   _   4   nmod:poss  _
+6 preferată _   ADJ   _   _   4   amod       _
+7 e        _   AUX   _   _   1   ccomp      _
+8 păunul   _   NOUN  _   _   9   nsubj      _
+9 ,        _   PUNCT _   _   7   punct      _
+10 că       _   SCONJ _   _   12  mark       _
+11 ești     _   VERB  _   _   12  ccomp      _
+12 când     _   ADV   _   _   11  advmod     _
+13 pă’      pe   ADP   _   _   14  case       _
+14 unul     _   NUM   _   _   12  obj        _
+15 ,        _   PUNCT _   _   17  punct      _
+16 că       _   SCONJ _   _   18  mark       _
+17 ești     _   VERB  _   _   18  ccomp      _
+18 când     _   ADV   _   _   17  advmod     _
+19 pă’      pe   ADP   _   _   20  case       _
+20 altul    _   NUM   _   _   18  obj        _
+21 .        _   PUNCT _   _   1   punct      _
+
+# sent_id = 1394656101522681862		
+# text = La scoala articulezi substantivul si acasa femeia 🤝💪
+# text_en = 
+1 La        _   ADP   _   _   3   case       _
+2 școală    _   NOUN  _   _   3   obl        _
+3 articulezi _   VERB  _   _   0   root       _
+4 substantivul _ NOUN  _   _   3   obj        _
+5 și        _   CCONJ _   _   6   cc         _
+6 acasă     _   ADV   _   _   3   conj       _
+7 femeia    _   NOUN  _   _   3   nsubj      _
+8 🤝💪     _   DISCOURSE     _   _   3   discourse  _
+
+# sent_id = 1409090289348890626		
+# text = (Pentru o fată, reuşita în viaţă nu e o chestiune de studiu şi de energie.) Rostul femeii este să placă, afară de asta nu poate fi fericire.
+# text_en = 
+1 Rostul    _   NOUN  _   _   3   nsubj       _
+2 femeii    _   NOUN  _   _   1   nmod:poss   _
+3 este      _   AUX   _   _   0   root        _
+4 să        _   PART  _   _   5   mark        _
+5 placă     _   VERB  _   _   3   xcomp       _
+6 ,         _   PUNCT _   _   3   punct       _
+7 afară     _   ADV   _   _   8   case        _
+8 de        _   ADP   _   _   5   advmod      _
+9 asta      _   PRON  _   _   5   nmod        _
+10 nu        _   PART  _   _   11  advmod      _
+11 poate     _   AUX   _   _   5   advcl       _
+12 fi        _   AUX   _   _   11  aux         _
+13 fericire  _   NOUN  _   _   11  xcomp       _
+14 .         _   PUNCT _   _   3   punct       _
+
+
+# sent_id = 1398585528690352130		
+# text = Bărbatul are pretenția ca femeia să vorbească doar cu el și el cu încă 10
+# text_en = 
+1 Bărbatul   _   NOUN  _   _   2   nsubj        _
+2 are        _   AUX   _   _   0   root         _
+3 pretenția  _   NOUN  _   _   2   obj          _
+4 ca         _   SCONJ _   _   5   mark         _
+5 femeia     _   NOUN  _   _   3   ccomp        _
+6 să         _   PART  _   _   7   mark         _
+7 vorbească  _   VERB  _   _   5   xcomp        _
+8 doar       _   ADV   _   _   9   advmod       _
+9 cu         _   ADP   _   _   7   advmod       _
+10 el         _   PRON  _   _   7   obl          _
+11 și         _   CCONJ _   _   12  cc           _
+12 el         _   PRON  _   _   7   conj         _
+13 cu         _   ADP   _   _   14  case         _
+14 încă       _   NUM   _   _   15  advmod       _
+15 10         _   NUM   _   _   12  obj          _
+
+
+# sent_id = 1398296798016516097		Utilizator_femeie  Banii se baga la aparate și femeia la produs
+# text = Utilizator_femeie Banii se baga la aparate și femeia la produs
+# text_en = 
+1 Utilizator_femeie   _   PROPN  _   _   2   nsubj   _
+2 ,                   _   PUNCT  _   _   3   punct   _
+3 Banii               _   NOUN   _   _   5   nsubj   _
+4 se                  _   PRON   _   _   5   obj     _
+5 bagă                _   VERB   _   _   0   root    _
+6 la                  _   ADP    _   _   7   case    _
+7 aparate             _   NOUN   _   _   5   obl     _
+8 și                  _   CCONJ  _   _   9   cc      _
+9 femeia              _   NOUN   _   _   7   conj    _
+10 la                 _   ADP    _   _   11  case    _
+11 produs              _   NOUN   _   _   9   nmod    _
+
+
+
+# sent_id = 1407003431345311744		
+# text = Femeia e ca o minge🍂o scoti afara si ți o sparge altu🥲
+# text_en = 
+1 Femeia   _   NOUN  _   _   2   nsubj       _
+2 e        _   AUX   _   _   0   root        _
+3 ca       _   SCONJ _   _   5   mark        _
+4 o        _   DET   _   _   5   det         _
+5 minge    _   NOUN  _   _   2   ccomp       _
+6 🍂       _   NOUN  _   _   5   dep         _  
+7 o        _   PRON  _   _   8   obj         _
+8 scoți    _   VERB  _   _   5   conj        _
+9 afară    _   ADV   _   _   8   advmod      _
+10 și      _   CCONJ _   _   11  cc          _
+11 ți-o     _   PRON  _   _   8   obj         _
+12 sparge   _   VERB  _   _   2   conj        _
+13 altu     _   NOUN  _   _   12  obj         _
+14 🥲      _   DISCOURSE  _   _   13  discourse         _  
+
+
+
+# sent_id = 1409129497060904961		
+# text = Femeia șefa e mai dură decât bărbatul șef.
+# text_en = 
+1 Femeia   _   NOUN  _   _   2   nsubj       _
+2 șefa     _   NOUN  _   _   5   nsubj       _
+3 e        _   AUX   _   _   5   cop         _
+4 mai      _   ADV   _   _   5   advmod      _
+5 dură     _   ADJ   _   _   0   root        _
+6 decât    _   SCONJ _   _   5   mark        _
+7 bărbatul _   NOUN  _   _   5   nsubj       _
+8 șef      _   NOUN  _   _   5   nsubj       _
+9 .        _   PUNCT _   _   5   punct       _
+
+
+# sent_id = 1397221142910443520		
+# text = De ce oare fetele fug doar după bani, nu după iubire?
+# text_en = 
+1 De       _   SCONJ _   _   2   mark        _
+2 ce       _   PRON  _   _   5   nsubj       _
+3 oare     _   PART  _   _   5   advmod      _
+4 fetele   _   NOUN  _   _   5   nsubj       _
+5 fug      _   VERB  _   _   0   root        _
+6 doar     _   ADV   _   _   5   advmod      _
+7 după     _   ADP   _   _   8   case        _
+8 bani     _   NOUN  _   _   5   obl         _
+9 ,        _   PUNCT _   _   8   punct       _
+10 nu       _   PART  _   _   12  advmod      _
+11 după     _   ADP   _   _   12  case        _
+12 iubire   _   NOUN  _   _   5   conj        _
+13 ?        _   PUNCT _   _   5   punct       _
+
+
+# sent_id = 1403713589349912577		
+# text = Utilizator_femeie chiar ești o vampa
+# text_en = 
+1 Utilizator_femeie   _   PROPN     _   _   2   nsubj       _  
+2 Chiar               _   ADV   _   _   3   advmod      _
+3 ești                _   AUX   _   _   0   root        _
+4 o                   _   DET   _   _   5   det         _
+5 vampa               _   NOUN  _   _   3   ccomp       _
+
+# sent_id = 1406623810179248132		
+# text = Asta îmi place la femeile astea măritate, înainte sa te bage în pat, te așează la masă.  (Te hraneste bine, iti oferă doua, trei pahare de vin, iar când pleci acasă, iti dă și bani de buzunar.)
+# text_en = 
+1 Asta       _   PRON  _   _   2   nsubj       _
+2 îmi        _   PRON  _   _   3   iobj        _
+3 place      _   VERB  _   _   0   root        _
+4 la         _   ADP   _   _   5   case        _
+5 femeile    _   NOUN  _   _   3   obl         _
+6 astea      _   DET   _   _   5   det         _
+7 măritate   _   ADJ   _   _   5   amod        _
+8 ,          _   PUNCT _   _   5   punct       _
+9 înainte    _   ADV   _   _   11  mark        _
+10 sa         _   SCONJ _   _   11  mark        _
+11 te         _   PRON  _   _   3   advcl       _
+12 bage       _   VERB  _   _   11  xcomp       _
+13 în         _   ADP   _   _   14  case        _
+14 pat        _   NOUN  _   _   12  obl         _
+15 ,          _   PUNCT _   _   11  punct       _
+16 te         _   PRON  _   _   18  nsubj       _
+17 așează     _   VERB  _   _   11  parataxis   _
+18 la         _   ADP   _   _   19  case        _
+19 masă       _   NOUN  _   _   17  obl         _
+20 .          _   PUNCT _   _   3   punct       _
+
+# sent_id = 1403061000849571843		
+# text = Nu fierbe apa in motor cum fierbe femeia cand nu i raspunzi la mesaje
+# text_en = 
+1 Nu       _   PART  _   _   2   advmod      _
+2 fierbe   _   VERB  _   _   0   root        _
+3 apa      _   NOUN  _   _   2   nsubj       _
+4 in       _   ADP   _   _   5   case        _
+5 motor    _   NOUN  _   _   2   obl         _
+6 cum      _   SCONJ _   _   8   mark        _
+7 fierbe   _   VERB  _   _   8   advcl       _
+8 femeia   _   NOUN  _   _   2   conj        _
+9 cand     _   SCONJ _   _   11  mark        _
+10 nu      _   PART  _   _   11  advmod      _
+11 i        _   PRON  _   _   8   advcl       _
+12 raspunzi _   VERB  _   _   11  advcl       _
+13 la      _   ADP   _   _   14  case        _
+14 mesaje  _   NOUN  _   _   12  obl         _
+
+# sent_id = 1396567794024652801		
+# text = Odată ce îl lași pe bărbat să îți vorbească cu "fă" , te dezonorezi total ca femeie!
+# text_en = 
+1 Odată      _   ADV   _   _   5   advmod      _
+2 ce          _   SCONJ _   _   5   mark        _
+3 îl          _   PRON  _   _   5   iobj        _
+4 lași        _   VERB  _   _   1   advcl       _
+5 pe          _   ADP   _   _   6   case        _
+6 bărbat      _   NOUN  _   _   4   obl         _
+7 să          _   SCONJ _   _   8   mark        _
+8 îți         _   PRON  _   _   9   iobj        _
+9 vorbească   _   VERB  _   _   4   xcomp       _
+10 cu         _   ADP   _   _   11  case        _
+11 'fă'       _   NOUN  _   _   9   obl         _
+12 ,           _   PUNCT _   _   9   punct       _
+13 te          _   PRON  _   _   15  iobj        _
+14 dezonorezi  _   VERB  _   _   15  advcl       _
+15 total       _   ADV   _   _   4   ccomp       _
+16 ca          _   SCONJ _   _   18  mark        _
+17 femeie      _   NOUN  _   _   15  nsubj       _
+18 !           _   PUNCT _   _   4   punct       _
+
+# sent_id = 1398393379889762310		
+# text = Cu o femeie ce nu-i impresionată de bani, puțini bărbați știu ce să facă. 🙂
+# text_en = 
+1 Cu        _   ADP   _   _   2   case        _
+2 o         _   DET   _   _   3   det         _
+3 femeie    _   NOUN  _   _   5   nsubj       _
+4 ce        _   PRON  _   _   5   nsubj       _
+5 nu-i      _   ADV   _   _   7   advmod      _
+6 impresionată  _   ADJ   _   _   5   amod       _
+7 de        _   ADP   _   _   8   case        _
+8 bani      _   NOUN  _   _   5   nmod        _
+9 ,         _   PUNCT _   _   5   punct       _
+10 puțini    _   ADJ   _   _   11  det         _
+11 bărbați   _   NOUN  _   _   12  nsubj       _
+12 știu      _   VERB  _   _   0   root        _
+13 ce        _   PRON  _   _   15  nsubj       _
+14 să        _   PART  _   _   15  mark        _
+15 facă      _   VERB  _   _   12  ccomp       _
+16 .         _   PUNCT _   _   12  punct       _
+17 🙂        _   PUNCT _   _   12  dep         _
+
+
+# sent_id = 1397967488995008516		
+# text = Când o femeie îți răspunde cu "bine" să știi că nu e de bine.
+# text_en = 
+1 Când       _   SCONJ _   _   4   mark        _
+2 o          _   PRON  _   _   4   nsubj       _
+3 femeie     _   NOUN  _   _   4   nsubj       _
+4 îți        _   PRON  _   _   5   iobj        _
+5 răspunde   _   VERB  _   _   0   root        _
+6 cu         _   ADP   _   _   7   case        _
+7 'bine'     _   NOUN  _   _   5   obl         _
+8 să         _   SCONJ _   _   9   mark        _
+9 știi       _   VERB  _   _   5   ccomp       _
+10 că        _   SCONJ _   _   11  mark        _
+11 nu         _   PART  _   _   9   advmod      _
+12 e          _   VERB  _   _   9   ccomp       _
+13 de         _   ADP   _   _   14  case        _
+14 bine       _   NOUN  _   _   12  obl         _
+15 .          _   PUNCT _   _   5   punct       _
+
+# sent_id = 1397463926200274951	.
+# text = cartofii se baga in pamant, iar bărbatul in mormânt
+# text_en = 
+1 cartofii  _  NOUN  _  _  3  nsubj      _
+2 se        _  PRON  _  _  3  iobj       _
+3 baga      _  VERB  _  _  0  root       _
+4 in        _  ADP   _  _  5  case       _
+5 pamant    _  NOUN  _  _  3  obl        _
+6 ,         _  PUNCT _  _  3  punct      _
+7 iar       _  CCONJ _  _  8  cc         _
+8 bărbatul  _  NOUN  _  _  3  conj       _
+9 in        _  ADP   _  _  10 case       _
+10 mormânt   _  NOUN  _  _  3  obl        _
+
+
+# sent_id = 1398263379421282307		
+# text = nu zic că ești grasă, dar pe o scară de la 1 la 10 rupi 9 trepte
+# text_en = 
+1 nu    _  PART  _  _  2  advmod      _
+2 zic   _  VERB  _  _  0  root        _
+3 că    _  SCONJ _  _  2  mark        _
+4 ești  _  VERB  _  _  2  ccomp       _
+5 grasă _  ADJ   _  _  4  acomp       _
+6 ,     _  PUNCT _  _  2  punct       _
+7 dar   _  CCONJ _  _  8  cc          _
+8 pe    _  ADP   _  _  9  case        _
+9 o     _  DET   _  _  10 det         _
+10 scară _  NOUN  _  _  2  conj        _
+11 de    _  ADP   _  _  12 case        _
+12 la    _  ADP   _  _  14 case        _
+13 1     _  NUM   _  _  14 nummod      _
+14 la    _  ADP   _  _  15 case        _
+15 10    _  NUM   _  _  10 nmod        _
+16 rupi  _  VERB  _  _  2  ccomp       _
+17 9     _  NUM   _  _  18 nummod      _
+18 trepte _  NOUN  _  _  16 obj         _
+
+# sent_id = 1405813776805474304		
+# text = Voi ați observat că există femei mai frumoase cu masca?
+# text_en = 
+1 Voi        _  PRON  _  _  2  nsubj       _
+2 ați        _  AUX   _  _  4  aux         _
+3 observat   _  VERB  _  _  4  ccomp       _
+4 că         _  SCONJ _  _  6  mark        _
+5 există     _  VERB  _  _  6  ccomp       _
+6 femei      _  NOUN  _  _  0  root        _
+7 mai        _  ADV   _  _  8  advmod      _
+8 frumoase   _  ADJ   _  _  6  advcl       _
+9 cu         _  ADP   _  _  10 case        _
+10 masca     _  NOUN  _  _  8  obl         _
+11 ?          _  PUNCT _  _  6  punct       _
+
+# sent_id = 1402509643654565893		
+# text = vreau sa vad sub rochie cum arata piersicuta.
+# text_en = 
+1 vreau       _   VERB  _   _   0   root    _
+2 sa          _   PART  _   _   1   aux     _
+3 vad         _   VERB  _   _   1   xcomp   _
+4 sub         _   ADP   _   _   5   case    _
+5 rochie      _   NOUN  _   _   3   obl     _
+6 cum         _   SCONJ _   _   7   mark    _
+7 arata       _   VERB  _   _   3   ccomp   _
+8 piersicuta  _   NOUN  _   _   7   obj     _
+9 .           _   PUNCT _   _   1   punct   _
+
+
+
+# sent_id = 1403409123228667906		
+# text = Sora ta a avut o întindere la coloana vertebrală, au muncit-o prea mulți.
+# text_en = 
+1 Sora      _   NOUN   _   _   2   nsubj       _
+2 ta        _   PRON   _   _   4   nmod:poss   _
+3 a         _   AUX    _   _   4   aux         _
+4 avut      _   VERB   _   _   0   root        _
+5 o         _   DET    _   _   6   det         _
+6 întindere _   NOUN   _   _   4   obj         _
+7 la        _   ADP    _   _   6   case        _
+8 coloana   _   NOUN   _   _   6   nmod        _
+9 vertebrală _  ADJ    _   _   8   amod        _
+10 ,        _   PUNCT  _   _   4   punct       _
+11 au       _   AUX    _   _   14  aux         _
+12 muncit-o  _   VERB   _   _   14  csubj       _
+13 prea      _   ADV    _   _   14  advmod      _
+14 mulți     _   ADJ    _   _   4   conj        _
+15 .        _   PUNCT  _   _   4   punct       _
+
+
+# sent_id = 1397540120874651648
+# text = Femeile bețive sunt o rușine!
+# text_en = Drunk women are a disgrace!
+1 Femeile   _   NOUN   _   _   2   nsubj       _
+2 bețive    _   ADJ    _   _   3   amod        _
+3 sunt      _   VERB   _   _   0   root        _
+4 o         _   DET    _   _   5   det         _
+5 rușine    _   NOUN   _   _   3   obj         _
+6 !         _   PUNCT  _   _   3   punct       _
+
+
+# sent_id = 1408009868393525248	
+# text = ce mi plac fetele care isi iau rochii scurte si cu decolteu sa li se vada sosetele din sutien
+# text_en = 
+1 ce        _   PRON   _   _   2   nsubj    _
+2 mi        _   PRON   _   _   4   obj      _
+3 plac      _   VERB   _   _   4   ccomp    _
+4 fetele    _   NOUN   _   _   0   root     _
+5 care      _   PRON   _   _   6   nsubj    _
+6 isi       _   PRON   _   _   3   nsubj    _
+7 iau       _   VERB   _   _   6   ccomp    _
+8 rochii    _   NOUN   _   _   7   obj      _
+9 scurte    _   ADJ    _   _   8   amod     _
+10 si       _   CCONJ  _   _   11  cc       _
+11 cu       _   ADP    _   _   13  case     _
+12 decolteu _   NOUN   _   _   11  obl      _
+13 sa       _   AUX    _   _   14  mark     _
+14 li       _   PRON   _   _   7   obj      _
+15 se       _   PRON   _   _   16  obj      _
+16 vada     _   VERB   _   _   13  ccomp    _
+17 sosetele _   NOUN   _   _   16  obj      _
+18 din      _   ADP    _   _   19  case     _
+19 sutien  _   NOUN   _   _   17  nmod     _
+
+
+# sent_id = 1402908299788533760		
+# text = ce ma enerveaza fetele alea care au vocile alea de proaste si de miloage…
+# text_en = 
+1 ce      _   PRON  _   _   2   nsubj    _
+2 ma      _   PRON  _   _   4   obj      _
+3 enerveaza  _   VERB  _   _   0   root     _
+4 fetele  _   NOUN  _   _   3   csubj    _
+5 alea    _   DET   _   _   4   det      _
+6 care    _   PRON  _   _   8   nsubj    _
+7 au      _   AUX   _   _   8   aux      _
+8 vocile  _   NOUN  _   _   3   ccomp    _
+9 alea    _   DET   _   _   8   det      _
+10 de      _   ADP   _   _   11  case     _
+11 proaste _  ADJ   _   _   8   amod     _
+12 si      _   CCONJ _   _   13  cc       _
+13 de      _   ADP   _   _   15  case     _
+14 miloage _  ADJ   _   _   13  amod     _
+15 ...     _   PUNCT _   _   3   punct   _
+
+
+# sent_id = 1409540806512451594	general	Este foarte ușor să faci o femeie fericită, trebuie să-i fii: prieten, partener, iubit, frate, tată, profesor, educator, bucătar, mecanic, electrician, sexolog, ginecolog, psiholog, terapeut, și amabil, simpatic, sportiv, iubitor, atent, creativ, sensibil, puternic, înțelegător.
+# text =
+# text_en = 
+1 Este        _   VERB      _   _   0   root         _
+2 foarte      _   ADV       _   _   3   advmod       _
+3 ușor        _   ADJ       _   _   1   xcomp        _
+4 să          _   PART      _   _   5   mark         _
+5 faci        _   VERB      _   _   3   ccomp        _
+6 o           _   DET       _   _   7   det          _
+7 femeie      _   NOUN      _   _   5   obj          _
+8 fericită    _   ADJ       _   _   5   xcomp        _
+9 ,           _   PUNCT     _   _   5   punct        _
+10 trebuie     _   VERB      _   _   5   csubj        _
+11 să          _   PART      _   _   12  mark         _
+12 -i          _   AUX       _   _   10  xcomp        _
+13 fii         _   VERB      _   _   10  ccomp        _
+14 :           _   PUNCT     _   _   10  punct        _
+15 prieten     _   NOUN      _   _   13  conj         _
+16 ,           _   PUNCT     _   _   15  punct        _
+17 partener    _   NOUN      _   _   13  conj         _
+18 ,           _   PUNCT     _   _   17  punct        _
+19 iubit       _   NOUN      _   _   13  conj         _
+20 ,           _   PUNCT     _   _   19  punct        _
+21 frate       _   NOUN      _   _   13  conj         _
+22 ,           _   PUNCT     _   _   21  punct        _
+23 tată        _   NOUN      _   _   13  conj         _
+24 ,           _   PUNCT     _   _   23  punct        _
+25 profesor    _   NOUN      _   _   13  conj         _
+26 ,           _   PUNCT     _   _   25  punct        _
+27 educator    _   NOUN      _   _   13  conj         _
+28 ,           _   PUNCT     _   _   27  punct        _
+29 bucătar     _   NOUN      _   _   13  conj         _
+30 ,           _   PUNCT     _   _   29  punct        _
+31 mecanic     _   NOUN      _   _   13  conj         _
+32 ,           _   PUNCT     _   _   31  punct        _
+33 electrician _   NOUN      _   _   13  conj         _
+34 ,           _   PUNCT     _   _   33  punct        _
+35 sexolog     _   NOUN      _   _   13  conj         _
+36 ,           _   PUNCT     _   _   35  punct        _
+37 ginecolog   _   NOUN      _   _   13  conj         _
+38 ,           _   PUNCT     _   _   37  punct        _
+39 psiholog    _   NOUN      _   _   13  conj         _
+40 ,           _   PUNCT     _   _   39  punct        _
+41 terapeut    _   NOUN      _   _   13  conj         _
+42 ,           _   PUNCT     _   _   41  punct        _
+43 și          _   CCONJ     _   _   44  cc           _
+44 amabil      _   ADJ       _   _   13  conj         _
+45 ,           _   PUNCT     _   _   44  punct        _
+46 simpatic    _   ADJ       _   _   13  conj         _
+47 ,           _   PUNCT     _   _   46  punct        _
+48 sportiv     _   ADJ       _   _   13  conj         _
+49 ,           _   PUNCT     _   _   48  punct        _
+50 iubitor     _   ADJ       _   _   13  conj         _
+51 ,           _   PUNCT     _   _   50  punct        _
+52 atent       _   ADJ       _   _   13  conj         _
+53 ,           _   PUNCT     _   _   52  punct        _
+54 creativ     _   ADJ       _   _   13  conj         _
+55 ,           _   PUNCT     _   _   54  punct        _
+56 sensibil    _   ADJ       _   _   13  conj         _
+57 ,           _   PUNCT     _   _   56  punct        _
+58 puternic    _   ADJ       _   _   13  conj         _
+59 ,           _   PUNCT     _   _   58  punct        _
+60 înțelegător _   ADJ       _   _   13  conj        
+
+
+# sent_id = 1404614205626589184		
+# text = Nu te mai crede secsi, dupa 30 ești uzata.
+# text_en = 
+1 Nu     _   PART   _   _   2   advmod   _
+2 te     _   PRON   _   _   3   obj      _
+3 mai    _   PART   _   _   4   advmod   _
+4 crede  _   VERB   _   _   0   root     _
+5 secsi  _   ADJ    _   _   4   xcomp    _
+6 ,      _   PUNCT  _   _   4   punct    _
+7 dupa   _   ADP    _   _   8   case     _
+8 30     _   NUM    _   _   5   obl      _
+9 ești   _   AUX    _   _   4   ccomp    _
+10 uzata _   ADJ    _   _   9   xcomp    _
+11 .     _   PUNCT  _   _   4   punct    _
+
+# sent_id = 1395465940419088386		Utilizator_femeie, ești foarte sexy
+# text =
+# text_en = 
+1 Utilizator_femeie,  _   PROPN   _   _   2   vocative   _
+2 ești                  _   AUX     _   _   0   root       _
+3 foarte                _   ADV     _   _   4   advmod     _
+4 sexy                  _   ADJ     _   _   2   xcomp      _
+
+
+
+# sent_id = 1405251497718341647		
+# text = De ce vă faceți machiaj de nuntă doar să mergeți până în mall???
+# text_en = 
+1 De    _   ADP     _   _   3   mark    _
+2 ce    _   PRON    _   _   3   obj     _
+3 vă    _   PRON    _   _   5   csubj   _
+4 faceți    _   VERB    _   _   5   xcomp   _
+5 machiaj   _   NOUN    _   _   0   root    _
+6 de    _   ADP     _   _   7   case    _
+7 nuntă    _   NOUN    _   _   5   nmod    _
+8 doar    _   ADV     _   _   10  advmod  _
+9 să    _   PART    _   _   10  mark    _
+10 mergeți   _   VERB    _   _   5   ccomp   _
+11 până   _   SCONJ   _   _   12  mark    _
+12 în     _   ADP     _   _   10  obl     _
+13 mall   _   NOUN    _   _   10  obl     _
+14 ???    _   PUNCT   _   _   5   punct   _
+
+# sent_id = 1410131695085527044		
+# text = Caut și eu 3,4 fete nemachiate care să-mi sperie un dihor din curte că latră câini 😂😗
+# text_en = 
+1 Caut   _   VERB   _   _   0   root       _
+2 și     _   CCONJ  _   _   3   cc         _
+3 eu     _   PRON   _   _   1   nsubj      _
+4 3,4    _   NUM    _   _   3   nummod     _
+5 fete   _   NOUN   _   _   1   obj        _
+6 nemachiate   _   ADJ    _   _   5   amod   _
+7 care   _   PRON   _   _   9   nsubj      _
+8 să     _   PART   _   _   9   mark       _
+9 mi     _   PRON   _   _   5   acl:relcl  _
+10 sperie _   VERB   _   _   1   xcomp      _
+11 un     _   DET    _   _   12  det        _
+12 dihor  _   NOUN   _   _   10  obj        _
+13 din    _   ADP    _   _   14  case       _
+14 curte  _   NOUN   _   _   10  obl        _
+15 că     _   SCONJ  _   _   16  mark       _
+16 latră  _   VERB   _   _   10  ccomp      _
+17 câini  _   NOUN   _   _   16  obj        _
+18 😂😗    _   PUNCT  _   _   1   punct      _
+
+# sent_id = 1408021805177184257		
+# text = femeia la volan este ca o zeita pentru ceilalti...pasagerii se roaga iar pietonii isi fac cruce
+# text_en = 
+1 femeia      _   NOUN  _   _   2   nsubj    _
+2 la          _   ADP   _   _   3   case     _
+3 volan       _   NOUN  _   _   0   root     _
+4 este        _   AUX   _   _   3   cop      _
+5 ca          _   SCONJ _   _   8   mark     _
+6 o           _   DET   _   _   8   det      _
+7 zeita       _   NOUN  _   _   4   xcomp    _
+8 pentru      _   ADP   _   _   3   xcomp    _
+9 ceilalti    _   PRON  _   _   8   obl      _
+10 ...         _   PUNCT _   _   3   punct   _
+11 pasagerii   _   NOUN  _   _   12  nsubj   _
+12 se          _   PRON  _   _   13  nsubj   _
+13 roaga       _   VERB  _   _   3   acl     _
+14 iar         _   CCONJ _   _   15  cc      _
+15 pietonii    _   NOUN  _   _   13  conj    _
+16 isi         _   PRON  _   _   17  nsubj   _
+17 fac         _   VERB  _   _   15  acl     _
+18 cruce       _   NOUN  _   _   17  obj     _
+
+
+# sent_id = 1398562091569659911		
+# text = ce ușor e sa fii fată , tot ce trebuie să faci e să îți pui gene, unghii și să te superi din orice
+# text_en = 
+1 ce        _   DET   _   _   2   det       _
+2 ușor      _   ADJ   _   _   3   advmod    _
+3 este       _   AUX   _   _   0   root      _
+4 sa        _   SCONJ _   _   3   mark      _
+5 fii       _   VERB  _   _   3   xcomp     _
+6 fată      _   NOUN  _   _   5   nsubj     _
+7 ,         _   PUNCT _   _   5   punct     _
+8 tot       _   DET   _   _   9   det       _
+9 ce        _   PRON  _   _   5   nsubj     _
+10 trebuie   _   AUX   _   _   5   aux       _
+11 să        _   SCONJ _   _   5   mark      _
+12 faci      _   VERB  _   _   5   ccomp     _
+13 e         _   AUX   _   _   12  cop       _
+14 să        _   SCONJ _   _   12  mark      _
+15 îți       _   PRON  _   _   16  iobj      _
+16 pui       _   VERB  _   _   12  xcomp     _
+17 gene      _   NOUN  _   _   16  obj       _
+18 ,         _   PUNCT _   _   12  punct     _
+19 unghii    _   NOUN  _   _   16  conj      _
+20 și        _   CCONJ _   _   21  cc        _
+21 să        _   SCONJ _   _   16  mark      _
+22 te        _   PRON  _   _   23  iobj      _
+23 superi    _   VERB  _   _   16  xcomp     _
+24 din       _   ADP   _   _   25  case      _
+25 orice     _   PRON  _   _   23  obl       _
+
+
+# sent_id = 1401460949962403841		
+# text = Daca întrebi o fată dacă are iubit iar ea îți zice "n-am, nici măcar unul", e clar că are mai multe posturi de ocupat decât are autocarul scaune
+# text_en = 
+1 Daca    _   SCONJ   _   _   4   mark       _
+2 întrebi  _   VERB    _   _   4   advcl      _
+3 o        _   DET     _   _   4   det        _
+4 fată     _   NOUN    _   _   0   root       _
+5 dacă     _   SCONJ   _   _   7   mark       _
+6 are      _   VERB    _   _   7   advcl      _
+7 iubit    _   NOUN    _   _   2   ccomp      _
+8 iar      _   CCONJ   _   _   9   cc         _
+9 ea       _   PRON    _   _   2   nsubj      _
+10 îți      _   PRON    _   _   11  iobj       _
+11 zice    _   VERB    _   _   7   ccomp      _
+12 "n-am"  _   PUNCT   _   _   11  punct      _
+13 ,        _   PUNCT   _   _   7   punct      _
+14 nici     _   CCONJ   _   _   16  advmod     _
+15 măcar    _   PART    _   _   16  advmod     _
+16 unul"   _   NUM     _   _   7   obl        _
+17 ,        _   PUNCT   _   _   4   punct      _
+18 e        _   AUX     _   _   4   cop        _
+19 clar     _   ADV     _   _   4   advmod     _
+20 că       _   SCONJ   _   _   24  mark       _
+21 are      _   AUX     _   _   24  aux        _
+22 mai      _   ADV     _   _   24  advmod     _
+23 multe    _   ADJ     _   _   24  amod       _
+24 posturi  _   NOUN    _   _   20  csubj      _
+25 de       _   ADP     _   _   26  case       _
+26 ocupat   _   VERB    _   _   24  nmod       _
+27 decât    _   SCONJ   _   _   28  mark       _
+28 are      _   AUX     _   _   24  advcl      _
+29 autocarul  _   NOUN    _   _   30  nsubj      _
+30 scaune   _   NOUN    _   _   28  obl        _
+
+# sent_id = 1397480607786151939		
+# text = pui poza machiată cu filtru si tot urata esti
+# text_en = 
+1 pui       _   VERB    _   _   0   root       _
+2 poza      _   NOUN    _   _   1   obj        _
+3 machiată  _   ADJ     _   _   2   amod       _
+4 cu        _   ADP     _   _   5   case       _
+5 filtru    _   NOUN    _   _   2   nmod       _
+6 si        _   CCONJ   _   _   7   cc         _
+7 tot       _   ADV     _   _   8   advmod     _
+8 urată  _   ADJ     _   _   1   conj       _
+9 esti      _   AUX     _   _   1   cop        _
+
+
+
+# sent_id = 1407607960906391554		
+# text = laptele se baga în frigider iar bărbatul în gunoi
+# text_en = 
+1 laptele    _   NOUN    _   _   2   nsubj:pass    _
+2 se         _   PRON    _   _   0   root          _
+3 baga       _   VERB    _   _   2   xcomp         _
+4 în         _   ADP     _   _   5   case          _
+5 frigider   _   NOUN    _   _   3   obl           _
+6 iar        _   CCONJ   _   _   7   cc            _
+7 bărbatul   _   NOUN    _   _   2   conj          _
+8 în         _   ADP     _   _   9   case          _
+9 gunoi      _   NOUN    _   _   7   obl           _
+
+# sent_id = 1395382625305497609		
+# text = Nu te crede importantă pentru că vorbești cu mulţi băieţi , ţine minte că marfa ieftina atrage mai mulţi clienţi
+# text_en = 
+1 Nu        _   ADV     _   _   4   advmod       _
+2 te        _   PRON    _   _   4   obj          _
+3 crede     _   VERB    _   _   0   root         _
+4 importantă _   ADJ     _   _   3   ccomp        _
+5 pentru    _   ADP     _   _   6   case         _
+6 că        _   SCONJ   _   _   7   mark         _
+7 vorbești   _   VERB    _   _   4   advcl        _
+8 cu        _   ADP     _   _   9   case         _
+9 mulți     _   ADJ     _   _   7   obl          _
+10 băieți   _   NOUN    _   _   9   nmod         _
+11 ,         _   PUNCT   _   _   7   punct        _
+12 ţine      _   VERB    _   _   3   conj         _
+13 minte     _   NOUN    _   _   12  obj          _
+14 că        _   SCONJ   _   _   15  mark         _
+15 marfa     _   NOUN    _   _   12  csubj        _
+16 ieftina   _   ADJ     _   _   15  amod         _
+17 atrage    _   VERB    _   _   12  ccomp        _
+18 mai       _   ADV     _   _   19  advmod       _
+19 mulți     _   ADJ     _   _   17  obj          _
+20 clienți   _   NOUN    _   _   17  nsubj        _
+
+# sent_id = 1402286045316661251		
+# text = Fete sunt destule, avem nevoie doar de BMW-uri😏
+# text_en = 
+1 Fete      _   NOUN  _   _   2   nsubj      _
+2 sunt      _   AUX   _   _   0   root       _
+3 destule   _   ADJ   _   _   2   amod       _
+4 ,         _   PUNCT _   _   2   punct      _
+5 avem      _   VERB  _   _   2   conj       _
+6 nevoie    _   NOUN  _   _   5   obj        _
+7 doar      _   ADV   _   _   5   advmod     _
+8 de        _   ADP   _   _   9   case       _
+9 BMW-uri   _   NOUN  _   _   7   obl        _
+10 😏      _   PUNCT _   _   2   punct      _
+
+
+# sent_id = 1405905452773355528		
+# text = o mare parte a bărbaților sunt de fapt javre
+# text_en = 
+1 O         _   DET   _   _   2   det        _
+2 mare      _   ADJ   _   _   3   amod       _
+3 parte     _   NOUN  _   _   5   nsubj      _
+4 a         _   ADP   _   _   5   case       _
+5 bărbaților   _   NOUN  _   _   7   nsubj      _
+6 sunt      _   AUX   _   _   0   root       _
+7 de        _   ADP   _   _   8   case       _
+8 fapt      _   NOUN  _   _   6   obl        _
+9 javre    _   NOUN  _   _   8   appos      _
+
+# sent_id = 1406313591758737409				
+# text = Bea puțină apă ca esti cam hot
+# text_en = 
+1 Bea         _   VERB   _   _   0   root        _
+2 puțină     _   DET    _   _   3   det         _
+3 apă         _   NOUN   _   _   1   obj         _
+4 ca          _   SCONJ  _   _   6   mark        _
+5 ești        _   AUX    _   _   6   cop         _
+6 cam         _   ADV    _   _   1   advmod      _
+7 hot  _   ADJ    _   _   6   advcl       _
+
+
+# sent_id = 1403721710017421320				
+# text = Ești frumoasă ca o zi de luni
+# text_en = 
+1 Ești       _   VERB  _   _   0   root       _
+2 frumoasă   _   ADJ   _   _   1   xcomp      _
+3 ca         _   ADP   _   _   4   case       _
+4 o          _   DET   _   _   5   det        _
+5 zi         _   NOUN  _   _   2   obl        _
+6 de         _   ADP   _   _   7   case       _
+7 luni       _   NOUN  _   _   5   nmod       _
+
+
+# sent_id = 1401435913083932673		
+# text = Femeia și condusul sunt ca apa și uleiul	
+# text_en = 
+1 Femeia    _   NOUN   _   _   3   nsubj    _
+2 și        _   CCONJ  _   _   1   cc       _
+3 condusul  _   NOUN   _   _   4   nsubj    _
+4 sunt      _   VERB   _   _   0   root     _
+5 ca        _   SCONJ  _   _   7   mark     _
+6 apa       _   NOUN   _   _   7   nsubj    _
+7 și        _   CCONJ  _   _   6   cc       _
+8 uleiul    _   NOUN   _   _   7   conj     _
+
+
+# sent_id = 1407232742681624576		
+# text = Mașina se conduce cu permis și femeia cu vrăjeală.🙆🏻‍♂️	
+# text_en = 
+1 Mașina     _   NOUN   _   _   2   nsubj:pass    _
+2 se         _   PRON   _   _   2   expl         _
+3 conduce    _   VERB   _   _   0   root         _
+4 cu         _   ADP    _   _   5   case         _
+5 permis     _   NOUN   _   _   3   obl          _
+6 și          _   CCONJ  _   _   3   cc           _
+7 femeia    _   NOUN   _   _   3   conj         _
+8 cu         _   ADP    _   _   9   case         _
+9 vrăjeală   _   NOUN   _   _   7   obl          _
+10 .          _   PUNCT  _   _   3   punct       _
+11 🙆🏻‍♂️     _   DICSCOURSE      _   _   3   discourse   _
+
+
+# sent_id = 1404411498533896193				
+# text = Dacă cineva ți-ar da 200€ pentru că ești urâtă, i-ai lua?
+# text_en = 
+1 Dacă    _   SCONJ   _   _   2   mark     _
+2 cineva  _   PRON    _   _   5   nsubj    _
+3 ți-ar    _   AUX     _   _   5   aux      _
+4 da      _   VERB    _   _   2   ccomp    _
+5 200     _   NUM     _   _   4   obj      _
+6 €       _   SYM     _   _   5   dep      _
+7 pentru  _   ADP     _   _   8   case     _
+8 că      _   SCONJ   _   _   4   mark     _
+9 ești    _   VERB    _   _   8   acl:rel  _
+10 urâtă   _   ADJ     _   _   9   xcomp    _
+11 ,       _   PUNCT   _   _   2   punct    _
+12 i-ai    _   PRON    _   _   13  iobj     _
+13 lua     _   VERB    _   _   0   root     _
+14 ?       _   PUNCT   _   _   13  punct    _
+
