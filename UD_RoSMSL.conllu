@@ -452,7 +452,7 @@
 32	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 27-1406558642342666245
-# text = @Utilizator_fem Ești superbă și arăți minunat ! Te-aș vrea o noapte lângă mine să ne simțim amândoi bine !
+# text = @Utilizator_fem Ești superbă și arăți minunat, te-aș vrea o noapte lângă mine să ne simțim amândoi bine!
 # text_en = @User_fem You're beautiful, and you look wonderful! I'd like you for a night by my side so we can both feel good!
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative	_	_
@@ -460,21 +460,21 @@
 3	superbă	superb	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 4	și	și	CCONJ	_	Polarity=Pos	5	cc	_	_
 5	arăți	arăta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
-6	minunat	minunat	ADV	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	xcomp	_	_
-7	!	!	PUNCT	_	_	3	punct	_	_
-8	Te-	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	10	obj	_	SpaceAfter=No
+6	minunat	minunat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	te-	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	10	obj	_	SpaceAfter=No
 9	aș	avea	AUX	_	Number=Sing|Person=1	10	aux	_	_
-10	vrea	vrea	VERB	_	Tense=Pres|VerbForm=Inf	0	root	_	_
+10	vrea	vrea	VERB	_	Tense=Pres|VerbForm=Inf	3	conj	_	_
 11	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
-12	noapte	noapte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	_
+12	noapte	noapte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	_
 13	lângă	lângă	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	mine	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	10	obl	_	_
 15	să	să	PART	_	Mood=Sub	17	mark	_	_
 16	ne	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	17	expl:pv	_	_
 17	simțim	simți	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 18	amândoi	amândoi	NUM	_	Case=Acc,Nom|Gender=Masc|NumType=Card|Number=Plur|PronType=Tot	19	nummod	_	_
-19	bine	bine	ADV	_	Degree=Pos	10	advmod	_	_
-20	!	!	PUNCT	_	_	10	punct	_	_
+19	bine	bine	ADV	_	Degree=Pos	17	advmod	_	SpaceAfter=No
+20	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 28-1404614205626589184
 # text = Nu te mai crede secsi, după 30 ești uzată.
