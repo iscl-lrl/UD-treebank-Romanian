@@ -447,9 +447,9 @@
 27	mic	mic	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
 28	al	al	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	_
 29	Dilettei	Diletta	PROPN	_	_	26	nmod	_	SpaceAfter=No
-30	,	, PUNCT	_	_	31	punct	_	_
+30	,	,	PUNCT	_	_	31	punct	_	_
 31	prăpădito	prăpădit 	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	vocative	_	SpaceAfter=No
-32	.	. PUNCT	_	_	3	punct	_	_
+32	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 27-1406558642342666245
 # text = @Utilizator_fem Ești superbă și arăți minunat ! Te-aș vrea o noapte lângă mine să ne simțim amândoi bine !
