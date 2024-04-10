@@ -19,7 +19,7 @@ Language family: Indo-European
 
 Genre: Social Media
 
-Corpus: 210  
+Corpus size: 210 samples
 
 ### UD_RoSMSL (Romanian Social Media Sexist Language)
 
