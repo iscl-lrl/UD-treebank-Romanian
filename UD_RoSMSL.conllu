@@ -4879,7 +4879,7 @@
 3	cunoscut	cunoscut	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	_
 4	misogin	misogin	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 5	in	in	ADP	_	AdpType=Prep|Case=Acc|Foreign=Yes	6	case	_	Lang=la
-6	extremis	extremis	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Foreign=Yes	3	nmod	_	Lang=la|SpaceAfter=No
+6	extremis	extremis	NOUN	_	Gender=Masc|Number=Sing|Foreign=Yes	3	nmod	_	Lang=la|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	_
 9	ar	avea	AUX	_	Number=Sing|Person=3	10	aux	_	_
