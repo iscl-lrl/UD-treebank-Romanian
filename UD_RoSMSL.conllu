@@ -4691,37 +4691,37 @@
 23	...	...	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 190-1412017250123583489
-# text = Un infractor...scrântit la minte! Uite circ! Femei legate cu lanț. Mare e grădina Ta,  Doamne... Pulă ăsta era lipit de sărac.
-# text_en = A criminal... out of his mind! Look at this circus! Chained women. Great is thy garden, O Lord... This dick was poor as a church-rat.
+# text = Un infractor, scrântit la minte, uite circ, femei legate cu lanț, mare e grădina Ta, Doamne, pulă ăsta era lipit de sărac.
+# text_en = A criminal, out of his mind, Look at the circus, Women in chains, Your garden is big, God, This dick was stuck to the poor.
 # language_type = sexist reporting
 1	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
 2	infractor	infractor	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-3	...	...	PUNCT	_	_	2	discourse	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
 4	scrântit	scrânti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
 5	la	la	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
 6	minte	minte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-7	!	!	PUNCT	_	_	2	punct	_	_
-8	Uite	uita	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	circ	circ	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
-10	!	!	PUNCT	_	_	8	punct	_	_
-11	Femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	uite	uita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+9	circ	circ	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	2	conj	_	_
 12	legate	lega	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	11	acl	_	_
 13	cu	cu	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	lanț	lanț	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	11	punct	_	_
-16	Mare	mare	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	mare	mare	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	2	conj	_	_
 17	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 18	grădina	grădină	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	_
-19	Ta	tău	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
+19	Ta	tău	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	Doamne	domn	NOUN	_	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	19	appos	_	SpaceAfter=No
-22	...	...	PUNCT	_	_	16	punct	_	_
-23	Pulă	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	26	nsubj	_	_
-24	ăsta	ăsta	DET	_	ase=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	23	det	_	_
+21	Doamne	domn	NOUN	_	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	18	vocative	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	pulă	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	26	nsubj	_	_
+24	ăsta	acesta	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	23	det	_	_
 25	era	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
-26	lipit	lipi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+26	lipit	lipi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	conj	_	_
 27	de	de	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
-28	sărac	sărac	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	advmod	_	SpaceAfter=No
+28	sărac	sărac	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	xcomp	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	26	punct	_	_
 
 # sent_id = 191-1411179235381809152
@@ -4867,7 +4867,7 @@
 14	inseamna	înseamnă	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	4	conj	_	CorrectForm=înseamnă
 15	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	17	mark	_	CorrectForm=că
 16	ii	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	17	cop	_	CorrectForm=îi
-17	curva	curvă	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	14	xcomp	_	CorrectForm=curvă
+17	curva	curvă	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	14	xcomp	_	CorrectForm=curvă|SpaceAfter=No
 18	😭	😭	SYM	_	_	4	discourse	_	_
 
 # sent_id = 195-1412394225686171651
@@ -5323,7 +5323,7 @@
 36	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 206-1399402874514386946
-# text = Comportamentul feminin, standardizat de Ştefan Gheorghidiu, propune imaginea unei fiinţe slabe, neajutorate, ascultătoare şi în permanentă admiraţie faţă de bărbat. bagamias
+# text = Comportamentul feminin, standardizat de Ştefan Gheorghidiu, propune imaginea unei fiinţe slabe, neajutorate, ascultătoare şi în permanentă admiraţie faţă de bărbat, bagamias
 # text_en = The female behavior, standardized by Stefan Gheorghidiu, proposes the image of a weak, helpless, obedient being in constant admiration of the man. Dammit 
 # language_type = sexist reporting
 1	Comportamentul	comportament	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -5350,10 +5350,8 @@
 22	faţă	faţă	ADV	_	_	24	advmod	_	_
 23	de	de	ADP	_	AdpType=Prep|Case=Acc	22	fixed	_	_
 24	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	9	punct	_	_
-26	baga	băga	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=băga
-27	mi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Typo=Yes	26	iobj	_	CorrectForm=mi-
-28	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	26	aux	_	CorrectForm=aş
+25	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	bagamias	băga	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	9	conj	_	CorrectForm=băga-mi-aş
 
 # sent_id = 207-1413014441944354818
 # text = administratora e femeie și jigodia asta a spus " am ajuns să fim conduși de femei " BRO ÎI SPARG DINŢII
