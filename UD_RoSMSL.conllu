@@ -740,11 +740,11 @@
 # text = @Utilizator_fem Superba esti îmi este dor de tine ling curul tau sexy și apetisanta mânca gurita
 # text_en = @User_fem You are gorgeous, I miss you, I lick your sexy and appetizing ass, I eat your mouth
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	vocative	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
 2	Superba	superb	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	CorrectForm=superbă
 3	esti	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	CorrectForm=ești
 4	îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	iobj	_	_
-5	este	fi	aux	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 6	dor	dor	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
 7	de	de	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
 8	tine	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	5	obl:pmod	_	_
@@ -758,41 +758,41 @@
 16	gurita	guriță	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	15	obj	_	CorrectForm=gurița
 
 # sent_id = 42-1401979242137718788
-# text = @Utilizator_fem 2 ore in care ti as face toate placerile , 2 ore in care te as tine numai in pula si excitata , 2 ore in care nu te as lasa nici sa fumezi tig de dupa
+# text = @Utilizator_fem 2 ore in care ti as face toate placerile, 2 ore in care te as tine numai in pula si excitata, 2 ore in care nu te as lasa nici sa fumezi tig de dupa
 # text_en = @User_fem 2 hours in which I would give you all the pleasures, 2 hours in which I would hold you only in the dick and excited, 2 hours in which I would not even let you smoke the after cigarette
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
-2	2	2	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	3	nummod	_	_
+2	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	3	nummod	_	_
 3	ore	oră	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	obl	_	_
 4	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	5	case	_	CorrectForm=în
 5	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	obl	_	_
-6	ti	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Typo=Yes|Strength=Weak|Variant=Short	8	iobj	_	CorrectForm=ți-
+6	ti	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	8	iobj	_	CorrectForm=ți-
 7	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	8	aux	_	CorrectForm=aș
 8	face	face	VERB	_	Tense=Pres|VerbForm=Inf	3	acl	_	_
 9	toate	tot	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	10	det	_	_
 10	placerile	plăcere	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur|Typo=Yes	8	obj	_	CorrectForm=plăcerile|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	2	2	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	13	nummod	_	_
+12	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	13	nummod	_	_
 13	ore	oră	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	10	conj	_	_
 14	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	15	case	_	CorrectForm=în
 15	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	18	obl	_	_
-16	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes|Strength=Weak|Variant=Short	18	obj	_	CorrectForm=te-
+16	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	18	obj	_	CorrectForm=te-
 17	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	18	aux	_	CorrectForm=aș
 18	tine	ține	VERB	_	Tense=Pres|Typo=Yes|VerbForm=Inf	13	acl	_	CorrectForm=ține
 19	numai	numai	ADV	_	Degree=Pos	21	advmod	_	_
 20	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	21	case	_	CorrectForm=în
 21	pula	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	18	obl	_	CorrectForm=pulă
 22	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	23	cc	_	CorrectForm=și
-23	excitata	excitat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	21	conj	_	CorrectForm=excitată
+23	excitata	excitat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	21	conj	_	CorrectForm=excitată|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	_
-25	2	2	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	26	nummod	_	_
+25	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	26	nummod	_	_
 26	ore	oră	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	23	conj	_	_
 27	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	28	case	_	CorrectForm=în
 28	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	32	obl	_	_
 29	nu	nu	PART	_	Polarity=Neg	32	advmod	_	_
-30	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes|Strength=Weak|Variant=Short	32	obj	_	CorrectForm=te-
+30	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	32	obj	_	CorrectForm=te-
 31	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	32	aux	_	CorrectForm=aș
-32	lasa	lăsa	VERB	_	Tense=Pres|VerbForm=Inf|Typo=Yes	26	acl	_	CorrectForm=lăsa
+32	lasa	lăsa	VERB	_	Tense=Pres|Typo=Yes|VerbForm=Inf	26	acl	_	CorrectForm=lăsa
 33	nici	nici	ADV	_	PronType=Neg	35	advmod	_	_
 34	sa	să	PART	_	Mood=Sub|Typo=Yes	35	mark	_	CorrectForm=să
 35	fumezi	fuma	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	32	ccomp	_	_
