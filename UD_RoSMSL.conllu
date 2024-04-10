@@ -2274,7 +2274,7 @@
 8	la	la	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 9	fotbal	fotbal	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	_
 10	/	/	PUNCT	_	_	9	punct	_	SpaceAfter=No
-11	football	football	NOUN	_	Gender=Masc|Number=Sing|Foreign=Yes	9	conj	_	Lang=en
+11	football	football	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	9	conj	_	Lang=en
 12	!	!	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 115-1402929389319471107
@@ -2496,7 +2496,7 @@
 16	fu	cu	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	17	case	_	CorrectForm=cu
 17	unghii	unghie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	13	punct	_	_
-19	BITCH	bitch	NOUN	_	Gender=Fem|Number=Sing|Foreign=Yes	24	vocative	_	Lang=en
+19	BITCH	bitch	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	24	vocative	_	Lang=en
 20	EU	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	24	nsubj	_	_
 21	NICI	nici	ADV	_	PronType=Neg	24	advmod	_	_
 22	MACAR	măcar	ADV	_	Degree=Pos|Typo=Yes	21	fixed	_	CorrectForm=măcar
@@ -3019,13 +3019,13 @@
 # text = as fosta profa de romana would say “de frumoasa esti frumoasa si de desteapta esti frumoasa”
 # text_en = As my Romanian teacher would say, "You are beautiful in your beauty and intelligent in your beauty."
 # language_type = sexist reporting
-1	as	as	ADV	_	PronType=Int,Rel|Foreign=Yes	7	advmod	_	Lang=en
+1	as	as	ADV	_	Foreign=Yes|PronType=Int,Rel	7	advmod	_	Lang=en
 2	fosta	fost	ADJ	_	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	profa	profesor	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	CorrectForm=profă
 4	de	de	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 5	romana	română	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	CorrectForm=română
-6	would	be	AUX	_	Person=3|Number=Sing|Foreign=Yes	7	aux	_	Lang=en
-7	say	say	VERB	_	Tense=Pres|VerbForm=Inf|Foreign=Yes	0	root	_	Lang=en
+6	would	be	AUX	_	Foreign=Yes|Number=Sing|Person=3|Number=Sing	7	aux	_	Lang=en
+7	say	say	VERB	_	Foreign=Yes|Tense=Pres|VerbForm=Inf	0	root	_	Lang=en
 8	“	“	PUNCT	_	_	10	punct	_	SpaceAfter=No
 9	de	de	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
 10	frumoasa	frumoasă	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	12	amod	_	CorrectForm=frumoasă
@@ -3678,8 +3678,8 @@
 17	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	obj	_	_
 18	as	as	ADP	_	AdpType=Prep|Case=Acc|Foreign=Yes	21	mark	_	Lang=en
 19	if	if	ADV	_	Degree=Pos|Foreign=Yes	21	advmod	_	Lang=en
-20	i	I	PRON	_	Number=Sing|Person=1|PronType=Prs|Foreign=Yes	21	nsubj	_	Lang=en
-21	cared	care	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Foreign=Yes	17	advcl	_	Lang=en
+20	i	I	PRON	_	Foreign=Yes|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Lang=en
+21	cared	care	VERB	_	Foreign=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	Lang=en
 
 # sent_id = 163-1404704117415632896
 # text = faptul ca toate fetele o sa purtam fusta maine e asa comunist
@@ -3856,7 +3856,7 @@
 18	etnie	etnie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod	_	_
 19	roma	romă	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	18	amod	_	CorrectForm=romă
 20	la	la	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
-21	chefi	chef	PROPN	_	Gender=Masc|Number=Plur|Foreign=Yes	14	obl	_	Lang=en
+21	chefi	chef	PROPN	_	Foreign=Yes|Gender=Masc|Number=Plur	14	obl	_	Lang=en
 22	la	la	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
 23	cutite	cuțit	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	21	nmod	_	CorrectForm=cuțite|SpaceAfter=No
 24	?	?	PUNCT	_	_	4	punct	_	_
@@ -4207,8 +4207,8 @@
 56	ai	avea	AUX	_	Number=Sing|Person=2	58	aux	_	_
 57	fost	fi	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	58	cop	_	_
 58	niciodata	niciodată	ADV	_	PronType=Neg|Typo=Yes	39	xcomp	_	CorrectForm=niciodată
-59	trust	trust	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Foreign=Yes	19	conj	_	Lang=en
-60	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Foreign=Yes	59	obj	_	Lang=en
+59	trust	trust	VERB	_	Foreign=Yes|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	19	conj	_	Lang=en
+60	me	I	PRON	_	Foreign=Yes|Case=Acc|Number=Sing|Person=1|PronType=Prs	59	obj	_	Lang=en
 
 # sent_id = 176-1407345826062639118
 # text = @KlausIohannis Avem nenumarate cazuri de femei ucise de soti, ex soti, ex iubiti pentru ca politia nu face nimic in cand femeia face plangere si cere protectie impotriva violentei si amenintatilor.  Iar voi guvernantii n-ati facut nimic. Nici n-aveti de gand.  Ipocritule! Ipocritilor! 🤢🤮🤮
@@ -4648,7 +4648,7 @@
 8	își	sine	PRON	_	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak 	9	iobj	_	_
 9	pun	pune	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 10	la	la	ADP	_	AdpType=Prep|Case=Acc	11	case	_	_
-11	story	story	NOUN	_	Gender=Masc|Number=Sing|Foreign=Yes	9	obl	_	Lang=en
+11	story	story	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	9	obl	_	Lang=en
 12	clipuri	clip	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	9	obj	_	_
 13	în	în	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	17	obl	_	_
@@ -4789,7 +4789,7 @@
 33	a	avea	AUX	_	Number=Sing|Person=3	34	aux	_	_
 34	apucat	apuca	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	21	parataxis	_	_
 35	de	de	ADP	_	AdpType=Prep|Case=Acc	36	case	_	_
-36	videochat	videochat	NOUN	_	Gender=Masc|Number=Sing|Foreign=Yes	34	obl	_	Lang=en
+36	videochat	videochat	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	34	obl	_	Lang=en
 37	și	și	CCONJ	_	Polarity=Pos	38	cc	_	_
 38	heroină	heroină	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	45	punct	_	_
@@ -4879,7 +4879,7 @@
 3	cunoscut	cunoscut	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	_
 4	misogin	misogin	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 5	in	in	ADP	_	AdpType=Prep|Case=Acc|Foreign=Yes	6	case	_	Lang=la
-6	extremis	extremis	NOUN	_	Gender=Masc|Number=Sing|Foreign=Yes	3	nmod	_	Lang=la|SpaceAfter=No
+6	extremis	extremis	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	3	nmod	_	Lang=la|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	_
 9	ar	avea	AUX	_	Number=Sing|Person=3	10	aux	_	_
@@ -4898,7 +4898,7 @@
 22	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	23	nsubj	_	_
 23	oscilez	oscila	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 24	intre	între	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	25	case	_	CorrectForm=între
-25	Schadenfreude	Schadenfreude	NOUN	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Foreign=Yes	23	obl	_	Lang=de
+25	Schadenfreude	Schadenfreude	NOUN	_	Case=Acc,Nom|Foreign=Yes|Gender=Fem|Number=Sing	23	obl	_	Lang=de
 26	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	27	cc	_	CorrectForm=și
 27	empatie	empatie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	conj	_	_
 28	feminina	feminin	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	27	amod	_	CorrectForm=feminină|SpaceAfter=No
@@ -5376,7 +5376,7 @@
 15	de	de	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
 16	femei	femei	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	14	obl:agent	_	_
 17	"	"	PUNCT	_	_	11	punct	_	_
-18	BRO	brother	NOUN	_	Gender=Masc|Number=Sing|Foreign=Yes|Abrr=Yes	20	vocative	_	Lang=en
+18	BRO	brother	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	20	vocative	_	Lang=en
 19	ÎI	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	20	iobj	_	_
 20	SPARG	sparge	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	DINŢII	dinte	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	20	obj	_	_
