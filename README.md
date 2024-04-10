@@ -36,9 +36,9 @@ paper: https://aclanthology.org/2022.lrec-1.243/
 ### Data Splits
 
 The treebank will be divided into three parts: 
-- 12.5% for the test set (ro-ud-sl-test.conllu)
-- 12.5% for the development set (ro-ud-sl-dev.conllu)
-- 75% for the training set (ro-ud-sl-train.conllu)
+- 12.5% for the test set (ro-ud-smsl-test.conllu)
+- 12.5% for the development set (ro-ud-smsl-dev.conllu)
+- 75% for the training set (ro-ud-smsl-train.conllu)
 
 The split will be done done randomly. The corpus has been divided into documents containing instances of sexist language found in social media, from Twitter.  
 
