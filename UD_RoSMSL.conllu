@@ -488,7 +488,7 @@
 5	secsi	sexy	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Fem|Number=Sing	4	obj	_	CorrectForm=sexy|SpaceAfter=No|Lang=en
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	după	după	ADP	_	AdpType=Prep|Case=Acc	10	mark	_	_
-8	30	30	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	10	nummod	_	_
+8	30	30	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	10	nummod	_	_
 9	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	uzată	uzat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
@@ -512,7 +512,7 @@
 3	ți-	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	5	iobj	_	SpaceAfter=No
 4	ar	avea	AUX	_	Person=3	5	aux	_	_
 5	da	da	VERB	_	Tense=Pres|VerbForm=Inf	15	parataxis	_	_
-6	200	200	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	7	nummod	_	SpaceAfter=No
+6	200	200	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 7	€	€	NOUN	_	Definite=Ind|Gender=Mas	5	obj	_	_
 8	pentru	pentru	ADP	_	AdpType=Prep|Case=Acc	11	mark	_	_
 9	că	că	SCONJ	_	Polarity=Pos	8	fixed	_	_
@@ -1142,11 +1142,11 @@
 10	scară	scară	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	_
 11	de	de	ADP	_	AdpType=Prep|Case=Acc	13	case	_	_
 12	la	la	ADP	_	AdpType=Prep|Case=Acc	11	fixed	_	_
-13	1	1	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	10	nummod	_	_
+13	1	1	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	10	nummod	_	_
 14	la	la	ADP	_	AdpType=Prep|Case=Acc	15	case	_	_
-15	10	10	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	16	nummod	_	_
+15	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	rupi	rupe	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
-17	9	9	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	18	nummod	_	_
+17	9	9	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	trepte	treaptă	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	16	obj	_	_
 
 # sent_id = 61-1408022242458583042
@@ -1746,7 +1746,7 @@
 12	.	.	PUNCT	_	_	2	punct	_	_
 13	Schiloadele	schilod	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	25	nsubj	_	_
 14	de	de	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
-15	12	12	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	16	nummod	_	_
+15	12	12	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	kile	kil	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	13	nmod	_	_
 17	fara	fără	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	18	case	_	CorrectForm=fără
 18	țațe	țâță	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur|Typo=Yes	13	nmod	_	CorrectForm=țâțe
@@ -1850,7 +1850,7 @@
 3	frumoasă	frumos	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 4	face	face	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	cât	cât	ADV	_	PronType=Int,Rel	7	advmod	_	_
-6	10	10	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	7	nummod	_	_
+6	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	bărbați	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	4	obj	_	_
 8	bogați	bogat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
 9	💙	💙	SYM	_	_	4	discourse	_	SpaceAfter=No
@@ -2062,9 +2062,9 @@
 1	Caut	căuta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	și	și	CCONJ	_	Polarity=Pos	3	advmod	_	_
 3	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	1	nsubj	_	_
-4	3	3	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	7	nummod	_	SpaceAfter=No
+4	3	3	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	4	4	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	4	conj	_	_
+6	4	4	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	4	conj	_	_
 7	fete	fată	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	_
 8	nemachiate	nemachiat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 9	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	nsubj	_	_
@@ -2395,7 +2395,7 @@
 2	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cel	cel	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	5	advmod	_	_
 4	puțin	puțin	ADV	_	Degree=Pos	3	fixed	_	_
-5	3	3	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	6	nummod	_	_
+5	3	3	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	6	nummod	_	_
 6	feministe	feminist	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	2	obj	_	_
 7	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	_
 8	asculta	asculta	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	6	acl	_	CorrectForm=ascultă
@@ -2729,7 +2729,7 @@
 4	prietenă	prieten	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
 5	frumoasa	frumos	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 6	pe	pe	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
-7	7	7	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	8	nummod	_	_
+7	7	7	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
 8	cămile	cămilă	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	obl	_	_
 
 # sent_id = 135-1397431107193348096
@@ -3154,7 +3154,7 @@
 52	mai	mai	ADV	_	_	53	advmod	_	_
 53	ies	ieși	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	34	conj	_	_
 54	dupa	după	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	55	case	_	CorrectForm=după
-55	9	9	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	53	nummod	_	_
+55	9	9	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	53	nummod	_	_
 56	din	din	ADP	_	AdpType=Prep|Case=Acc	57	case	_	_
 57	incinta	incintă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	53	obl	_	_
 58	acestui	acest	DET	_	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	59	det	_	_
@@ -3190,7 +3190,7 @@
 23	crede	crede	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	_
 24	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	28	mark	_	CorrectForm=că
 25	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	26	case	_	CorrectForm=în
-26	6	6	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	27	nummod	_	SpaceAfter=No
+26	6	6	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	SpaceAfter=No
 27	$	$	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	28	obl	_	_
 28	primeste	primi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	23	conj	_	CorrectForm=primește
 29	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	31	advmod	_	CorrectForm=și
@@ -3256,12 +3256,12 @@
 24	pe	pe	ADP	_	AdpType=Prep|Case=Acc	25	case	_	_
 25	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	obj	_	_
 26	la	la	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
-27	2,5	2.5	NUM	_	NumForm=Digit|NumType=Card|Number=Sing|Typo=Yes	28	nummod	_	CorrectForm=2.5
+27	2,5	2.5	NUM	_	Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	28	nummod	_	CorrectForm=2.5
 28	ani	an	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	22	obl	_	_
 29	de	de	ADP	_	AdpType=Prep|Case=Acc	30	case	_	_
 30	închisoare	închisoare	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	28	nmod	_	_
 31	și	și	CCONJ	_	Polarity=Pos	33	cc	_	_
-32	12000	12000	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	33	nummod	_	SpaceAfter=No
+32	12000	12000	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	33	nummod	_	SpaceAfter=No
 33	euro	euro	NOUN	_	Definite=Ind|Gender=Masc	28	conj	_	_
 34	amendă	amendă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	_
@@ -3639,7 +3639,7 @@
 35	au	avea	AUX	_	Number=Plur|Person=3	36	aux	_	_
 36	ajuns	ajunge	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	27	conj	_	_
 37	la	la	ADP	_	AdpType=Prep|Case=Acc	38	case	_	_
-38	20	20	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	36	nummod	_	_
+38	20	20	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	36	nummod	_	_
 39	de	de	ADP	_	AdpType=Prep|Case=Acc	41	case	_	_
 40	la	la	ADP	_	AdpType=Prep|Case=Acc	39	fixed	_	_
 41	începutul	început	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	36	obl	_	_
@@ -3885,7 +3885,7 @@
 11	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
 12	banca	bancă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	_
 13	stăteau	sta	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
-14	2	2	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	15	nummod	_	_
+14	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	15	nummod	_	_
 15	bărbati	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	13	nsubj	_	CorrectForm=bărbați
 16	și	și	CCONJ	_	Polarity=Pos	18	cc	_	_
 17	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	18	expl:pv	_	_
@@ -4556,7 +4556,7 @@
 3	a	avea	AUX	_	Number=Sing|Person=3	4	aux	_	_
 4	sunat	suna	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 5	la	la	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
-6	112	112	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	4	nummod	_	SpaceAfter=No
+6	112	112	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	4	nummod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	după	după	ADP	_	AdpType=Prep|Case=Acc	11	mark	_	_
 9	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	fixed	_	_
@@ -4569,7 +4569,7 @@
 16	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
 17	fetiță	fetiță	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	_
 18	de	de	DET	_	AdpType=Prep|Case=Acc	20	case	_	_
-19	10	10	NUM	_	NumForm=Digit|NumType=Card|Number=Sing	20	nummod	_	_
+19	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	20	nummod	_	_
 20	ani	an	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	nmod	_	_
 21	într-	întru	ADP	_	AdpType=Prep|Case=Acc|Variant=Short	23	case	_	SpaceAfter=No
 22	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
