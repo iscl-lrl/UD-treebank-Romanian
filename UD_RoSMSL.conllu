@@ -381,7 +381,7 @@
 8	dau	da	VERB	_	Mood=Sub|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 9	mulți	mult	DET	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	8	det	_	_
 
-# sent_id = 24-1403316828907184129		
+# sent_id = 24-1403316828907184129
 # text = Am impresia ca pasărea ta preferată e păunul,că ești când pă’unul ,când pă’altul
 # text_en = I have the impression that your favorite bird is the peacock because you are sometimes on to one, sometimes on to another
 # language_type = sexist direct
@@ -477,7 +477,7 @@
 19	bine	bine	ADV	_	Degree=Pos	10	advmod	_	_
 20	!	!	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 28-1404614205626589184		
+# sent_id = 28-1404614205626589184
 # text = Nu te mai crede secsi, după 30 ești uzată.
 # text_en = Don't consider yourself sexy anymore; after 30, you're worn out.
 # language_type = sexist direct
@@ -493,7 +493,7 @@
 10	uzată	uzat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 29-1395465940419088386		
+# sent_id = 29-1395465940419088386
 # text = @Utilizator_fem, ești foarte sexy
 # text_en = @User_fem, you are very sexy.
 # language_type = sexist direct
@@ -503,7 +503,7 @@
 4	foarte	foarte	ADV	_	_	5	advmod	_	_
 5	sexy	sexy	ADJ	_	 Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 
-# sent_id = 30-1404411498533896193				
+# sent_id = 30-1404411498533896193
 # text = Dacă cineva ți-ar da 200€ pentru că ești urâtă, i-ai lua?
 # text_en = If someone gave you 200€ because you're ugly, would you take it?
 # language_type = sexist direct
@@ -594,7 +594,7 @@
 14	😋	🍒	SYM	_	_	12	discourse	_	SpaceAfter=No
 15	♥️	🍒	SYM	_	_	12	discourse	_	_
 
-# sent_id = 35-1405251497718341647		
+# sent_id = 35-1405251497718341647
 # text = De ce vă faceți machiaj de nuntă doar să mergeți până în mall???
 # text_en = Why do you do wedding makeup just to go to the mall???
 # language_type = sexist direct
@@ -726,7 +726,7 @@
 15	frumoasă	frumoasă	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 40-1403713589349912577		
+# sent_id = 40-1403713589349912577
 # text = @Utilizator_fem chiar ești o vampă
 # text_en = @User_fem, you really are a whore
 # language_type = sexist direct
@@ -1094,7 +1094,7 @@
 18	tine	tu	DET	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	16	obl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 58-1402509643654565893		
+# sent_id = 58-1402509643654565893
 # text = vreau sa vad sub rochie cum arata piersicuta.
 # text_en = I want to see how the peach looks under the dress.
 # language_type = sexist direct
@@ -1126,7 +1126,7 @@
 12	😍	😍	SYM	_	_	4	discourse	_	SpaceAfter=No
 13	💓	💓	SYM	_	_	4	discourse	_	_
 
-# sent_id = 60-1398263379421282307		
+# sent_id = 60-1398263379421282307
 # text = nu zic că ești grasă, dar pe o scară de la 1 la 10 rupi 9 trepte
 # text_en = I'm not saying you're fat, but on a scale from 1 to 10, you break 9 steps.
 # language_type = sexist direct
@@ -1162,7 +1162,7 @@
 7	tine	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	5	obl	_	_
 8	🥵	🥵	SYM	_	_	2	discourse	_	_
 
-# sent_id = 62-1402850315452534787		
+# sent_id = 62-1402850315452534787
 # text = Neața, că bună ești deja.
 # text_en = Morning, because good you're already.
 # language_type = sexist direct
@@ -1195,7 +1195,7 @@
 3	provocatoare	provocator	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem	0	root	_	_
 4	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
 
-# sent_id = 65-1397480607786151939		
+# sent_id = 65-1397480607786151939
 # text = Pui poza machiată cu filtru și tot urâtă ești
 # text_en = You post a photo with makeup and a filter, and you're still ugly.
 # language_type = sexist direct
@@ -1209,7 +1209,7 @@
 8	urâtă	urâtă	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	_
 9	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
 
-# sent_id = 66-1406313591758737409				
+# sent_id = 66-1406313591758737409
 # text = Bea puțină apă că ești cam hot
 # text_en = Drink some water because you're a bit hot
 # language_type = sexist direct
@@ -1221,7 +1221,7 @@
 6	cam	cam	ADV	_	_	7	advmod	_	_
 7	hot	hot	ADJ	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	1	ccomp	_	_
 
-# sent_id = 67-1395382625305497609		
+# sent_id = 67-1395382625305497609	
 # text = Nu te crede importantă pentru că vorbești cu mulți băieți, ţine minte că marfa ieftină atrage mai mulţi clienţi
 # text_en = Don't think you're important just because you talk to many boys, remember that cheap goods attract more clients.
 # language_type = sexist direct
@@ -1246,7 +1246,7 @@
 19	mulţi	mult	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	20	det	_	_
 20	clienţi	client	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	obj	_	_
 
-# sent_id = 68-1403721710017421320				
+# sent_id = 68-1403721710017421320	
 # text = Ești frumoasă ca o zi de luni
 # text_en = You are beautiful like a Monday.
 # language_type = sexist direct
@@ -1258,7 +1258,7 @@
 6	de	de	ADP	_	AdpType=Prep|Case=Acc	7	case	_	_
 7	luni	luni	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
 
-# sent_id = 69-1398296798016516097		
+# sent_id = 69-1398296798016516097
 # text = @Utilizator_fem Banii se bagă la aparate și femeia la produs
 # text_en = @User_fem Money goes into machines, and women are for prostitution.
 # language_type = sexist direct
@@ -1358,7 +1358,7 @@
 32	îndrăgostită	îndrăgostit	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	31	obj	_	SpaceAfter=No
 33	?	?	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 74-1405853560647061516		
+# sent_id = 74-1405853560647061516
 # text = Nu știu de ce contează atât de mult chipul, cracul și sânul femeii, în fond nu vrei decât să ajungi între picioarele ei. Nu ar trebui să conteze cum arată, gaură au toate.
 # text_en = I don't know why the face, legs, and breasts of a woman matter so much, in the end, you just want to get between her legs. It shouldn't matter how she looks; they all have a hole
 # language_type = sexist descriptive
@@ -1413,7 +1413,7 @@
 6	clasă	clasă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	..	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 76-1405905452773355528		
+# sent_id = 76-1405905452773355528
 # text = o mare parte a bărbaților sunt de fapt javre
 # text_en = A big part of men are actually scoundrels
 # language_type = sexist descriptive
@@ -1427,7 +1427,7 @@
 8	fapt	fapt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	fixed	_	_
 9	javre	javră	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
 
-# sent_id = 77-1407232742681624576		
+# sent_id = 77-1407232742681624576
 # text = Mașina se conduce cu permis și femeia cu vrăjeală.🙆🏻‍♂️	
 # text_en = A car is driven with a license, and a woman with slick talk.🙆🏻‍♂️
 # language_type = sexist descriptive
@@ -1485,7 +1485,7 @@
 13	sandviș	sandviș	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
 14	!	!	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 80-1401435913083932673		
+# sent_id = 80-1401435913083932673
 # text = Femeia și condusul sunt ca apa și uleiul	
 # text_en = Woman and driving are like water and oil.
 # language_type = sexist descriptive
@@ -1498,7 +1498,7 @@
 7	și	și	CCONJ	_	Polarity=Pos	8	cc	_	_
 8	uleiul	ulei	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	_
 
-# sent_id = 81-1402286045316661251		
+# sent_id = 81-1402286045316661251
 # text = Fete sunt destule, avem nevoie doar de BMW-uri😏
 # text_en = There are plenty of girls; we only need BMWs😏
 # language_type = sexist descriptive 
@@ -1513,7 +1513,7 @@
 9	BMW-uri	BMW	PROPN	_	Number=Plur	5	obl	_	SpaceAfter=No
 10	😏	😏	SYM	_	_	3	discourse	_	_
 
-# sent_id = 82-1407607960906391554		
+# sent_id = 82-1407607960906391554
 # text = Laptele se bagă în frigider iar bărbatul în gunoi.
 # text_en = Milk is put away in the fridge, and the man in the trash.
 # language_type = sexist descriptive
@@ -1593,7 +1593,7 @@
 6	terorizat	terorizat	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	5	orphan	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 87-1409540806512451594		
+# sent_id = 87-1409540806512451594
 # text = Este foarte ușor să faci o femeie fericită, trebuie să-i fii: prieten, partener, iubit, frate, tată, profesor, educator, bucătar, mecanic, electrician, sexolog, ginecolog, psiholog, terapeut, și amabil, simpatic, sportiv, iubitor, atent, creativ, sensibil, puternic, înțelegător.
 # text_en = It's very easy to make a woman happy; you need to be for her: friend, partner, lover, brother, father, teacher, educator, chef, mechanic, electrician, sexologist, gynecologist, psychologist, therapist, and kind, friendly, athletic, loving, attentive, creative, sensitive, strong, understanding.
 # language_type = sexist descriptive
@@ -1675,7 +1675,7 @@
 10	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	supărate	supărat	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	7	ccomp	_	_
 
-# sent_id = 89-1401460949962403841		
+# sent_id = 89-1401460949962403841
 # text = Dacă întrebi o fată dacă are iubit iar ea îți zice 'n-am, nici măcar unul', e clar că are mai multe posturi de ocupat decât are autocarul scaune
 # text_en = If you ask a girl if she has a boyfriend and she says 'I don't, not even one,' it's clear she has more positions to fill than the bus has seats.
 # language_type = sexist descriptive
@@ -1841,7 +1841,7 @@
 7	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	orphan	_	_
 8	💪	💪	SYM	_	_	3	discourse	_	_
 
-# sent_id = 96-1395357877578125320		
+# sent_id = 96-1395357877578125320
 # text = O femeie frumoasă face cât 10 bărbați bogați 💙💛❤
 # text_en = A beautiful woman is worth as much as 10 wealthy men 💙💛❤
 # language_type = sexist descriptive
@@ -1857,7 +1857,7 @@
 10	💛	💛	SYM	_	_	4	discourse	_	SpaceAfter=No
 11	❤	❤	SYM	_	_	4	discourse	_	_
 
-# sent_id = 97-1398585528690352130		
+# sent_id = 97-1398585528690352130
 # text = Bărbatul are pretenția ca femeia să vorbească doar cu el și el cu încă 10
 # text_en = The man expects the woman to speak only with him, while he talks to another 10.
 # language_type = sexist descriptive
@@ -1877,7 +1877,7 @@
 14	încă	încă	ADV	_	Degree=Pos	15	advmod	_	_
 15	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	obl	_	_
 
-# sent_id = 98-1394656101522681862		
+# sent_id = 98-1394656101522681862
 # text = La școală articulezi substantivul și acasă femeia 🤝💪
 # text_en = At school, you decline the noun, and at home, you beat the woman 🤝💪
 # language_type = sexist descriptive
@@ -1903,7 +1903,7 @@
 6	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	_
 7	evapora	evapora	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=evaporă
 
-# sent_id = 100-1409090289348890626		
+# sent_id = 100-1409090289348890626
 # text = Pentru o fată, reuşita în viață nu e o chestiune de studiu şi de energie. Rostul femeii este să placă, afară de asta nu poate fi fericire.
 # text_en = For a girl, success in life is not a matter of studying and effort. A woman's purpose is to please, apart from that, there can be no happiness.
 # language_type = sexist descriptive
@@ -2002,7 +2002,7 @@
 57	stradă	stradă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	49	obl	_	SpaceAfter=No
 58	.	.	PUNCT	_	_	49	punct	_	_
 
-# sent_id = 102-1398562091569659911		
+# sent_id = 102-1398562091569659911
 # text = ce ușor e sa fii fată , tot ce trebuie să faci e să îți pui gene, unghii și să te superi din orice
 # text_en = How easy it is to be a girl, all you have to do is put on eyelashes, nails, and get upset over anything
 # language_type = sexist descriptive
@@ -2032,7 +2032,7 @@
 24	din	din	ADP	_	AdpType=Prep|Case=Acc	25	case	_	_
 25	orice	orice	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	23	obl	_	_
 
-# sent_id = 103-1408021805177184257		
+# sent_id = 103-1408021805177184257
 # text = femeia la volan este ca o zeita pentru ceilalti...pasagerii se roaga iar pietonii isi fac cruce
 # text_en = A woman behind the wheel is like a goddess to others... passengers pray, and pedestrians cross themselves
 # language_type = sexist descriptive
@@ -2055,7 +2055,7 @@
 17	fac	face	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
 18	cruce	cruce	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obj	_	_
 
-# sent_id = 104-1410131695085527044		
+# sent_id = 104-1410131695085527044
 # text = Caut și eu 3,4 fete nemachiate care să-mi sperie un dihor din curte că latră câini 😂😗
 # text_en = I'm also looking for 3 or 4 unmade-up girls to scare a ferret in my yard because the dogs are barking 😂😗
 # language_type = sexist descriptive
@@ -2143,7 +2143,7 @@
 13	plăcere	plăcere	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 108-1405813776805474304		
+# sent_id = 108-1405813776805474304
 # text = Voi ați observat că există femei mai frumoase cu masca?
 # text_en = Have you noticed that there are women who look more beautiful with a mask?
 # language_type = sexist descriptive
@@ -2365,7 +2365,7 @@
 19	detalii	detaliu	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	obl	_	_
 20	:))	:))	SYM	_	_	17	discourse	_	_
 
-# sent_id = 119-1397967488995008516		
+# sent_id = 119-1397967488995008516
 # text = Când o femeie îți răspunde cu "bine" să știi că nu e de bine.
 # text_en = When a woman responds with 'fine,' you know it's not good.
 # language_type = sexist descriptive
@@ -2411,7 +2411,7 @@
 18	/	/	PUNCT	_	_	17	punct	_	_
 19	personalitate	personalitate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	conj	_	_
 
-# sent_id = 121-1404090379562008582		
+# sent_id = 121-1404090379562008582
 # text = acum e soare, acum dispare zici ca e barbat
 # text_en = Now it's sunny, now it is not, you'd think it's a man.
 # language_type = sexist descriptive
@@ -3502,7 +3502,7 @@
 41	de	de	ADP	_	AdpType=Prep|Case=Acc	42	case	_	_
 42	mentalitate	mentalitate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	39	nmod	_	_
 
-# sent_id = 156-1408878803942793221		
+# sent_id = 156-1408878803942793221
 # text = Ești frumoasă până îl refuzi
 # text_en = You are beautiful until you reject him
 # language_type = sexist reporting
