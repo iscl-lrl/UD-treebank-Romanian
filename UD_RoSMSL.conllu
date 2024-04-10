@@ -3833,38 +3833,38 @@
 39	"	"	PUNCT	_	_	36	punct	_	_
 
 # sent_id = 167-1398197799666262017
-# text = de ce se caca asa tare pe ei astia pe instagram ca a castigat o femeie de etnie roma la chefi la cutite? ah da uitasem ce fel sunt romanii
+# text = de ce se caca asa tare pe ei astia pe instagram ca a castigat o femeie de etnie roma la chefi la cutite, ah da uitasem ce fel sunt romanii
 # text_en = Why are these people on Instagram so upset that a Roma woman won on 'Chefi la cuțite'? Oh right, I forgot what Romanians are like.
 # language_type = sexist reporting
-1	de	de	ADP	_	AdpType=Prep|Case=Acc	4	advmod	_	_
+1	de	de	ADP	_	AdpType=Prep|Case=Acc	4	mark	_	_
 2	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
 3	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
-4	caca	căca	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=cacă
+4	caca	căca	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	25	advcl	_	CorrectForm=cacă
 5	asa	așa	ADV	_	Degree=Pos|Typo=Yes	6	advmod	_	CorrectForm=așa
 6	tare	tare	ADV	_	Degree=Pos	4	advmod	_	_
 7	pe	pe	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
 8	ei	eu	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	obj	_	_
-9	astia	ăsta	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem|Typo=Yes	4	nsubj	_	CorrectForm=ăștia
-10	pe	pe	DET	_	AdpType=Prep|Case=Acc	11	case	_	_
-11	instagram	Instagram	PROPN	_	_	4	obj	_	_
+9	astia	acesta	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem|Typo=Yes	4	nsubj	_	CorrectForm=ăștia
+10	pe	pe	ADP	_	AdpType=Prep|Case=Acc	11	case	_	_
+11	instagram	Instagram	PROPN	_	_	4	obl	_	_
 12	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	14	mark	_	CorrectForm=că
 13	a	avea	AUX	_	Number=Sing|Person=3	14	aux	_	_
-14	castigat	câștiga	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	4	ccomp:pmod	_	CorrectForm=câștigat
-15	o	o	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
+14	castigat	câștiga	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	4	advcl	_	CorrectForm=câștigat
+15	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
 16	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obj	_	_
 17	de	de	ADP	_	AdpType=Prep|Case=Acc	18	case	_	_
 18	etnie	etnie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod	_	_
-19	roma	romă	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	18	amod	_	CorrectForm=romă
+19	roma	roma	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	18	amod	_	CorrectForm=romă
 20	la	la	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
 21	chefi	chef	PROPN	_	Foreign=Yes|Gender=Masc|Number=Plur	14	obl	_	Lang=en
 22	la	la	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
-23	cutite	cuțit	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	21	nmod	_	CorrectForm=cuțite|SpaceAfter=No
-24	?	?	PUNCT	_	_	4	punct	_	_
+23	cutite	cuțit	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	14	obl	_	CorrectForm=cuțite|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
 25	ah	ah	INTJ	_	_	0	root	_	_
-26	da	da	ADV	_	Degree=Pos	27	cc	_	_
-27	uitasem	uita	VERB	_	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	25	conj	_	_
+26	da	da	ADV	_	Degree=Pos	25	ccomp	_	_
+27	uitasem	uita	VERB	_	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	25	ccomp	_	_
 28	ce	ce	DET	_	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Int,Rel	29	det	_	_
-29	fel	fel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	27	obl	_	_
+29	fel	fel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	31	nsubj	_	_
 30	sunt	fi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
 31	romanii	roman	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Typo=Yes	27	ccomp	_	CorrectForm=românii
 
