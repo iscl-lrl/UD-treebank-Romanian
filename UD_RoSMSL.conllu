@@ -3856,7 +3856,7 @@
 18	etnie	etnie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nmod	_	_
 19	roma	roma	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	18	amod	_	CorrectForm=romă
 20	la	la	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
-21	chefi	chef	PROPN	_	Foreign=Yes|Gender=Masc|Number=Plur	14	obl	_	Lang=en
+21	chefi	chef	PROPN	_	Foreign=Yes	14	obl	_	Lang=en
 22	la	la	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
 23	cutite	cuțit	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	14	obl	_	CorrectForm=cuțite|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
@@ -3865,7 +3865,7 @@
 27	uitasem	uita	VERB	_	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	25	ccomp	_	_
 28	ce	ce	DET	_	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Int,Rel	29	det	_	_
 29	fel	fel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	31	nsubj	_	_
-30	sunt	fi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
+30	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
 31	romanii	roman	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Typo=Yes	27	ccomp	_	CorrectForm=românii
 
 # sent_id = 168-1404820962558763017
