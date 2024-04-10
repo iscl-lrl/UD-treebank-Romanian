@@ -2509,15 +2509,15 @@
 29	OJĂ	ojă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	obl	_	_
 
 # sent_id = 125-1407003431345311744		
-# text = Femeia e ca o minge🍂o scoti afara si ți o sparge altu🥲
-# text_en = A woman is like a ball🍂you take it out and someone else breaks it for you🥲
+# text = Femeia e ca o minge 🍂 o scoti afara si ți o sparge altu🥲
+# text_en = A woman is like a ball 🍂 you take it out and someone else breaks it for you🥲
 # language_type = sexist descriptive
 1	Femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
 2	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	ca	ca	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 4	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
-5	minge	minge	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-6	🍂 	🍂	NOUN	_	_	5	nmod	_	SpaceAfter=No
+5	minge	minge	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+6	🍂 	🍂	SYM	_	_	5	nmod	_	_
 7	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	obj	_	_
 8	scoti	scoate	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	5	csubj	_	CorrectForm=scoți
 9	afara	afară	ADV	_	Degree=Pos|Typo=Yes	8	advmod	_	CorrectForm=afară
