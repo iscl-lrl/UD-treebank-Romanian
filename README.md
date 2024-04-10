@@ -1,29 +1,11 @@
 # UD-treebank-Romanian
-Romanian UD treebank 
-
-Language: Romanian (code: ro) 
-
-Language family: Indo-European
-
-                    Italic
-                    
-                      Latino-Faliscan
-                      
-                            Romance
-                            
-                              Eastern Romance
-                              
-                                Daco-Romance
-                                
-                                    Romanian
-
-Genre: Social Media
-
-Corpus size: 210 samples
 
 ### UD_RoSMSL (Romanian Social Media Sexist Language)
 
 ### Summary
+Genre: Social Media
+
+Corpus size: 210 samples
 
 The Romanian Social Media Sexist Language UD treebank (called UD_RoSMSL) is the reference treebank in UD format for Romanian sexist language.
 
@@ -49,6 +31,24 @@ The split will be done done randomly. The corpus has been divided into documents
 - Token count: 
 - Dep. relations: 
 - POS tags: 
-- Category=value feature pairs: 
+- Category=value feature pairs:
+
+### Language Family
+
+Language: Romanian (code: ro) 
+
+Language family: Indo-European
+
+                    Italic
+                    
+                      Latino-Faliscan
+                      
+                            Romance
+                            
+                              Eastern Romance
+                              
+                                Daco-Romance
+                                
+                                    Romanian
 
 
