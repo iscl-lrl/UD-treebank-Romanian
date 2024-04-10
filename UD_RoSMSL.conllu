@@ -2570,7 +2570,7 @@
 4	la	la	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 5	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	_
 6	astea	acest	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Postnom|PronType=Dem	5	det	_	_
-7	măritate	măritat 	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+7	măritate	măritat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	înainte	înainte	ADV	_	Degree=Pos	12	mark	_	_
 10	sa	să	PART	_	Mood=Sub|Typo=Yes	12	mark	_	CorrectForm=să
@@ -2580,7 +2580,7 @@
 14	pat	pat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	12	punct	_	_
 16	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	17	expl:pv	_	_
-17	așează	așeza	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	conj	_	CorrectForm= așază
+17	așează	așeza	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	conj	_	CorrectForm=așază
 18	la	la	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
 19	masă	masă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	_
@@ -2591,7 +2591,7 @@
 25	,	,	PUNCT	_	_	27	punct	_	_
 26	iti	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes	27	iobj	_	CorrectForm=îți
 27	oferă	oferi	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	23	parataxis	_	_
-28	doua	doi	NUM	_	Gender=Masc|NumForm=Word|NumType=Card|Number=Plur|Typo=Yes	31	nummod	_	CorrectForm=două|SpaceAfter=No
+28	doua	doi	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|Typo=Yes	31	nummod	_	CorrectForm=două|SpaceAfter=No
 29	,	,	PUNCT	_	_	28	punct	_	_
 30	trei	trei	NUM	_	Gender=Masc|NumForm=Word|NumType=Card|Number=Plur	28	conj	_	_
 31	pahare	pahar	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	27	obj	_	_
