@@ -327,7 +327,7 @@
 # language_type = sexist direct
 1	ia	lua	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	vocative	_	_
-3	sărăci	sărăcie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	appos	_	_
+3	sărăci	sărăcie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
 4	-o	ea	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	ia	lua	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
@@ -351,7 +351,7 @@
 # text = încep să mă topesc după tine, cum s-a topit butter într-o oră
 # text_en = I'm starting to melt for you, like butter melted in an hour.
 # language_type = sexist direct
-1	încep	începe _	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	încep	începe VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	să	să	PART	_	Mood=Sub	4	mark	_	_
 3	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	expl:pv	_	_
 4	topesc	topi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
@@ -368,40 +368,40 @@
 15	oră	ora	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	_
 
 # sent_id = 23-1408279285631262720
-# text = @Utilizator_fem Unde vrei pupicii ? Vreau să dau mulți
-# text_en = @User_fem Where do you want the little kisses? I want to give many.
+# text = @Utilizator_fem Unde vrei pupicii, vreau să dau mulți
+# text_en = @User_fem Where do you want the little kisses, I want to give many.
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative	_	_
 2	Unde	unde	ADV	_	PronType=Int,Rel	3	advmod	_	_
-3	vrei	vrea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	pupicii	pupic	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	_
-5	?	?	PUNCT	_	_	3	punct	_	_
-6	Vreau	vrea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-7	să	să	PART	_	Mood=Sub	6	mark	_	CorrectForm=să-ți
+3	vrei	vrea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+4	pupicii	pupic	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	vreau	vrea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	să	să	PART	_	Mood=Sub	8	mark	_	_
 8	dau	da	VERB	_	Mood=Sub|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
-9	mulți	mult	DET	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	8	det	_	_
+9	mulți	mult	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	8	obj	_	_
 
 # sent_id = 24-1403316828907184129
-# text = Am impresia ca pasărea ta preferată e păunul,că ești când pă’unul ,când pă’altul
+# text = Am impresia ca pasărea ta preferată e păunul, că ești când pă’ unul, când pă’ altul
 # text_en = I have the impression that your favorite bird is the peacock because you are sometimes on to one, sometimes on to another
 # language_type = sexist direct
-1	Am	avea	AUX	_	Person=1|Number=Sing	0	root	_	_
+1	Am	avea	AUX	_	Number=Sing|Person=1	0	root	_	_
 2	impresia	impresie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
 3	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	8	mark	_	CorrectForm=că
 4	pasărea	pasăre	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
 5	ta	tău	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
-6	preferată	preferat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing 	4	amod	_	_
+6	preferată	preferat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 7	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	păunul	păun	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	acl	_	_
+8	păunul	păun	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	acl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
-10	 că	că	SCONJ	_	Polarity=Pos	11	mark	_	_
+10	că	că	SCONJ	_	Polarity=Pos	11	mark	_	_
 11	ești	fi	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 12	când	când	ADV	_	PronType=Int,Rel	11	advmod	_	_
-13	pă’	pe	ADP	_	AdpType=Prep|Case=Acc	14	case	_	SpaceAfter=No
+13	pă’	pe	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	unul	unu	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	când	când	ADV	_	PronType=Int,Rel	18	advmod	_	_
-17	pă’	pe	ADP	_	AdpType=Prep|Case=Acc	18	case	_	SpaceAfter=No
+17	pă’	pe	ADP	_	AdpType=Prep|Case=Acc	18	case	_	_
 18	altul	alt	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	obl	_	_
 
 # sent_id = 25-1408189290572652546
@@ -419,7 +419,6 @@
 # text_en = @User_fem You kiss Diletta's ass, a cheap and two-bit woman, a whore, a prostitute, you would like to be close to Diletta, you miserable.
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative	_	_
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative	_	_
 2	O	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	3	expl	_	_
 3	pupi	pupa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	în	în	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
@@ -430,8 +429,8 @@
 9	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	appos	_	_
 10	ieftină	ieftin	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
 11	și	și	CCONJ	_	Polarity=Pos	14	cc	_	_
-12	de	de	ADP	_	AdpType=Prep|Case=Ac	14	case	_	_
-13	doi	doi	NUM	_	Gender=Masc|NumForm=Word|NumType=Card|Number=Plur	14	nummod	_	_
+12	de	de	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
+13	doi	doi	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	_
 14	banii	ban	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	9	conj	_	CorrectForm=bani|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	curva	curvă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	conj	_	CorrectForm=curvă|SpaceAfter=No
@@ -448,9 +447,9 @@
 27	mic	mic	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
 28	al	al	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	_
 29	Dilettei	Diletta	PROPN	_	_	26	nmod	_	SpaceAfter=No
-30	,	,	PUNCT	_	punct	31	punct	_	_
+30	,	, PUNCT	_	_	31	punct	_	_
 31	prăpădito	prăpădit 	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	vocative	_	SpaceAfter=No
-32	.	. 	PUNCT	_	_	3	punct	_	_  
+32	.	. PUNCT	_	_	3	punct	_	_
 
 # sent_id = 27-1406558642342666245
 # text = @Utilizator_fem Ești superbă și arăți minunat ! Te-aș vrea o noapte lângă mine să ne simțim amândoi bine !
