@@ -5402,7 +5402,7 @@
 15	de	de	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
 16	autobus	autobuz	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	14	nmod	_	CorrectForm=autobuz
 17	și	și	CCONJ	_	Polarity=Pos	20	cc	_	_
-18	unu	unul	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind|Abrr=Yes	20	nsubj	_	CorrectForm=unul
+18	unu	unul	PRON	_	Abrr=Yes|Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	CorrectForm=unul
 19	o	avea	AUX	_	Number=Sing|Person=3|Typo=Yes	20	aux	_	CorrectForm=a
 20	trecut	trece	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
 21	pe	pe	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
@@ -5468,3 +5468,5 @@
 20	de	de	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
 21	morminte	mormânt	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
 22	...	...	PUNCT	_	_	12	punct	_	_
+
+
