@@ -2508,7 +2508,7 @@
 28	CU	cu	ADP	_	AdpType=Prep|Case=Acc	29	case	_	_
 29	OJĂ	ojă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	obl	_	_
 
-# sent_id = 125-1407003431345311744		
+# sent_id = 125-1407003431345311744
 # text = Femeia e ca o minge 🍂 o scoti afara si ți o sparge altu🥲
 # text_en = A woman is like a ball 🍂 you take it out and someone else breaks it for you🥲
 # language_type = sexist descriptive
@@ -2528,7 +2528,7 @@
 14	altu	alt	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind|Typo=Yes	13	nsubj	_	CorrectForm=altul|SpaceAfter=No
 15	🥲	🥲	SYM	_	_	5	discourse	_	_
 
-# sent_id = 126-1409129497060904961		
+# sent_id = 126-1409129497060904961
 # text = Femeia șefa e mai dură decât bărbatul șef.
 # text_en = The female boss is tougher than the male boss.
 # language_type = sexist descriptive 
@@ -2542,7 +2542,7 @@
 8	șef	șef	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 127-1397221142910443520		
+# sent_id = 127-1397221142910443520
 # text = De ce oare fetele fug doar după bani, nu după iubire?
 # text_en = Why do girls only run for money, not for love?
 # language_type = sexist descriptive 
@@ -2560,7 +2560,7 @@
 12	iubire	iubire	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
 13	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 128-1406623810179248132		
+# sent_id = 128-1406623810179248132
 # text = Asta îmi place la femeile astea măritate, înainte sa te bage în pat, te așează la masă.  (Te hraneste bine, iti oferă doua, trei pahare de vin, iar când pleci acasă, iti dă și bani de buzunar.)
 # text_en = That's what I like about these married women, before they put you in bed, they sit you down at the table. (She feeds you well, offers you two or three glasses of wine, and when you go home, and she also gives you pocket money.)
 # language_type = sexist descriptive
@@ -2612,7 +2612,7 @@
 46	.	.	PUNCT	_	_	41	punct	_	SpaceAfter=No
 47	)	)	PUNCT	_	_	23	punct	_	_
 
-# sent_id = 129-1403061000849571843		
+# sent_id = 129-1403061000849571843
 # text = Nu fierbe apa in motor cum fierbe femeia cand nu-i raspunzi la mesaje
 # text_en = Water doesn't boil in the engine like the woman boils when you don't answer her messages
 # language_type = sexist descriptive
@@ -2654,7 +2654,7 @@
 17	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
 18	🧝	🧝	SYM	_	_	2	discourse	_	_
 
-# sent_id = 131-1396567794024652801		
+# sent_id = 131-1396567794024652801
 # text = Odată ce îl lași pe bărbat să îți vorbească cu "fă" , te dezonorezi total ca femeie!
 # text_en = Once you let the man talk to you with "fă", you totally dishonor yourself as a woman!
 # language_type = sexist descriptive
@@ -2679,7 +2679,7 @@
 19	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
 20	!	!	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 132-1398393379889762310		
+# sent_id = 132-1398393379889762310
 # text = Cu o femeie ce nu-i impresionată de bani, puțini bărbați știu ce să facă. 🙂
 # text_en = With a woman who is not impressed by money, few men know what to do. 🙂
 # language_type = sexist descriptive
@@ -2747,7 +2747,7 @@
 9	cu	cu	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
 10	pumni	pumn	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	8	orphan	_	_
 
-# sent_id = 136-1403409123228667906		
+# sent_id = 136-1403409123228667906
 # text = Sora ta a avut o întindere la coloana vertebrală, au muncit-o prea mulți.
 # text_en = Your sister had a spinal strain; she was overworked by many.
 # language_type = sexist descriptive
@@ -2779,7 +2779,7 @@
 5	rușine	rușine	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 138-1402908299788533760		
+# sent_id = 138-1402908299788533760
 # text = ce ma enerveaza fetele alea care au vocile alea de proaste si de miloage…
 # text_en = What annoys me are those girls who have those dumb and annoying voices...
 # language_type = sexist descriptive
@@ -2813,7 +2813,7 @@
 8	cu	cu	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 9	palme	palmă	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	7	orphan	_	_
 
-# sent_id = 140-1408009868393525248	
+# sent_id = 140-1408009868393525248
 # text = ce mi plac fetele care isi iau rochii scurte si cu decolteu sa li se vada sosetele din sutien
 # text_en = I like girls who wear short dresses with cleavage to show their bra socks.
 # language_type = sexist descriptive
