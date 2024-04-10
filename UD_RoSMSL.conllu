@@ -99,7 +99,7 @@
 
 # sent_id = 7-1407351009127632896
 # text = @Utilizator_fem1  @Utilizator_fem2  @Utilizator_fem3  Așa regină frumoasă și suavă mai rar îți e dat să vezi 😏🥰👏🏻
-# text_en = @User_fem1  @User_fem2  @User_fem3  Such a beautiful and graceful queen, it's rare to see 😏🥰👏🏻
+# text_en = @User_fem1  @User_fem2  @User_fem3  Such a beautiful and graceful queen, it is rare to see 😏🥰👏🏻
 # language_type = sexist direct
 1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	13	vocative	_	_
 2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	13	vocative	_	_
