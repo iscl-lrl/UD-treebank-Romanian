@@ -500,10 +500,10 @@
 2	,	,	PUNCT	_	_	5	punct	_	_
 3	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	foarte	foarte	ADV	_	_	5	advmod	_	_
-5	sexy	sexy	ADJ	_	 Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+5	sexy	sexy	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 
 # sent_id = 30-1404411498533896193
-# text = Dacă cineva ți-ar da 200€ pentru că ești urâtă, i-ai lua?
+# text = Dacă cineva ți-ar da 200 € pentru că ești urâtă, i-ai lua?
 # text_en = If someone gave you 200€ because you're ugly, would you take it?
 # language_type = sexist direct
 1	Dacă	dacă	SCONJ	_	Polarity=Pos	5	mark	_	_
@@ -512,7 +512,7 @@
 4	ar	avea	AUX	_	Person=3	5	aux	_	_
 5	da	da	VERB	_	Tense=Pres|VerbForm=Inf	15	parataxis	_	_
 6	200	200	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
-7	€	€	NOUN	_	Definite=Ind|Gender=Mas	5	obj	_	_
+7	€	euro	NOUN	_	Definite=Ind|Gender=Mas	5	obj	_	_
 8	pentru	pentru	ADP	_	AdpType=Prep|Case=Acc	11	mark	_	_
 9	că	că	SCONJ	_	Polarity=Pos	8	fixed	_	_
 10	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	_
@@ -558,12 +558,12 @@
 # text = @Utilizator_fem Ahhhhh ce bună ești drăguța 💋 💋 👅👅🔥🔥😍😍
 # text_en = @User_fem Ahhhhh, you're so good, cutie 💋 💋 👅👅🔥🔥😍😍
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	xcomp	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
 2	Ahhhhh	Ah	INTJ	_	_	0	root	_	_
-3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	advmod	_	_
+3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 4	bună	bun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	_
 5	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
-6	drăguța	drăguț	NOUN	_	Case=Voc|Gender=Fem|Number=Sing|Person=3	2	conj	_	_
+6	drăguța	drăguță	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	vocative	_	_
 7	💋	💋	SYM	_	_	2	discourse	_	_
 8	💋	💋	SYM	_	_	2	discourse	_	_
 9	👅	👅	SYM	_	_	2	discourse	_	SpaceAfter=No
@@ -574,7 +574,7 @@
 14	😍	😍	SYM	_	_	2	discourse	_	_
 
 # sent_id = 34-1408261725116379140
-# text = @Utilizator_fem Sânii tăi nu au nevoie de așa ceva 😍 Sunt perfecți 🍒😋♥️
+# text = @Utilizator_fem Sânii tăi nu au nevoie de așa ceva 😍 sunt perfecți 🍒😋♥️
 # text_en = @User_fem Your breasts don't need such things 😍 They are perfect 🍒😋♥️
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative	_	_
@@ -586,8 +586,8 @@
 7	de	de	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 8	așa	așa	ADV	_	Degree=Pos	9	advmod	_	_
 9	ceva	ceva	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	5	obl:pmod	_	_
-10	😍	😍	SYM	_	_	11	discourse	_	_
-11	Sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	😍	😍	SYM	_	_	12	discourse	_	_
+11	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	perfecți	perfect	ADJ	_	Definite=Ind|Degree=Sup|Gender=Masc|Number=Plur	9	acl	_	_
 13	🍒	🍒	SYM	_	_	12	discourse	_	SpaceAfter=No
 14	😋	🍒	SYM	_	_	12	discourse	_	SpaceAfter=No
@@ -613,7 +613,7 @@
 14	???	???	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 36-1403544239825379331
-# text = @Utilizator_fem Greu de determinat având în vedere că nu îți pot măsura formele din nicio poză. Văzusem deși că ești slăbuță într-o poză 😏🤫
+# text = @Utilizator_fem Greu de determinat având în vedere că nu îți pot măsura formele din nicio poză, văzusem deși că ești slăbuță într-o poză 😏🤫
 # text_en = @User_fem Difficult to determine, considering I can't measure your shapes from any picture. However, I had seen that you're slim in one picture 😏🤫
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
@@ -626,23 +626,23 @@
 8	că	că	SCONJ	_	Polarity=Pos	11	mark	_	_
 9	nu	nu	PART	_	Polarity=Neg	11	advmod	_	_
 10	îți	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	11	expl:poss	_	_
-11	pot	putea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+11	pot	putea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 12	măsura	măsura	VERB	_	Tense=Pres|VerbForm=Inf	11	ccomp	_	_
 13	formele	formă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	12	obj	_	_
 14	din	din	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
 15	nicio	nici_un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Neg	16	det	_	_
 16	poză	poză	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	_
-18	Văzusem	vedea	VERB	_	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	0	root	_	_
+17	,	,	PUNCT	_	_	11	punct	_	_
+18	văzusem	vedea	VERB	_	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	2	csubj	_	_
 19	deși	deși	SCONJ	_	Polarity=Pos	22	mark	_	_
-20	că	că	PART	_	Polarity=Pos	22	mark	_	_
+20	că	că	SCONJ	_	Polarity=Pos	22	mark	_	_
 21	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	slăbuță	slab	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	ccomp	_	_
 23	într-	întru	ADP	_	AdpType=Prep|Case=Acc	25	case	_	SpaceAfter=No
 24	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
 25	poză	poză	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	obl	_	_
-26	😏	😏	SYM	_	_	18	discourse	_	SpaceAfter=No
-27	🤫	🤫	SYM	_	_	18	discourse	_	_
+26	😏	😏	SYM	_	_	2	discourse	_	SpaceAfter=No
+27	🤫	🤫	SYM	_	_	2	discourse	_	_
 
 # sent_id = 37-1410439705666146304
 # text = @Utilizator_fem AI OCHII FRUMOȘI ȘI SÂNII FRUMOȘI ȘI FUNDULET FRUMOS  ȘI BUZE FRUMOSE PUPICI DULCI ȘI TE ADOR PUPICI DULCI PUPICI DULCI
