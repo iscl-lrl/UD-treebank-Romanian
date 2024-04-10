@@ -589,9 +589,9 @@
 10	😍	😍	SYM	_	_	12	discourse	_	_
 11	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	perfecți	perfect	ADJ	_	Definite=Ind|Degree=Sup|Gender=Masc|Number=Plur	9	acl	_	_
-13	🍒	🍒	SYM	_	_	12	discourse	_	SpaceAfter=No
-14	😋	🍒	SYM	_	_	12	discourse	_	SpaceAfter=No
-15	♥️	🍒	SYM	_	_	12	discourse	_	_
+13	🍒	🍒	SYM	_	_	5	discourse	_	_
+14	😋	😋	SYM	_	_	5	discourse	_	_
+15	♥️	♥️	SYM	_	_	5	discourse	_	_
 
 # sent_id = 35-1405251497718341647
 # text = De ce vă faceți machiaj de nuntă doar să mergeți până în mall???
