@@ -322,30 +322,30 @@
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 21-1410027389254574087
-# text = ia mă sărăci-o, ia arată-mi ce magie faci! de unde o scoți? din fund? vibes
+# text = ia mă sărăci-o, ia arată-mi ce magie faci, de unde o scoți, din fund, vibes
 # text_en = Come on, you poor, show me what magic you do! Where do you get it from? From the bottom? Vibes.
 # language_type = sexist direct
 1	ia	lua	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	obj	_	_
-3	sărăci	sărăcie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	1	obj	_	CorrectForm=sărăcie|SpaceAfter=No
-4	-o	ea	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	1	obj	_	SpaceAfter=No
+2	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	vocative	_	_
+3	sărăci	sărăcie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	appos	_	_
+4	-o	ea	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	ia	lua	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
-7	arată	arata	VERB	_	Mood=Imp|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+7	arată	arată	VERB	_	Mood=Imp|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	SpaceAfter=No
 8	-mi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	7	iobj	_	_
 9	ce	ce	DET	_	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Int,Rel	10	det	_	_
 10	magie	magie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
 11	faci	face	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
-12	!	!	PUNCT	_	_	7	punct	_	_
-13	de	de	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	de	de	ADP	_	AdpType=Prep|Case=Ac	14	case	_	_
 14	unde	unde	ADV	_	PronType=Int,Rel	16	advmod	_	_
-15	o	el	DET	_	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	16	obj	_	_
-16	scoți	scoate	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
-17	?	?	PUNCT	_	_	16	punct	_	_
-18	din	din	ADP	 _	 AdpType=Prep|Case=Acc	19	case	_	_
+15	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	16	obj	_	_
+16	scoți	scoate	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	din	din	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
 19	fund	fund	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
-20	?	?	PUNCT	_	_	19	punct	_	_
-21	vibes	vibe	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Plur	1	discourse	_	Lang=en
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	vibes	vibe	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	16	xcomp	_	Lang=en
 
 # sent_id = 22-1394703896883482627
 # text = încep să mă topesc după tine, cum s-a topit butter într-o oră
