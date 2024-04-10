@@ -575,7 +575,7 @@
 
 # sent_id = 34-1408261725116379140
 # text = @Utilizator_fem Sânii tăi nu au nevoie de așa ceva 😍 sunt perfecți 🍒😋♥️
-# text_en = @User_fem Your breasts don't need such things 😍 They are perfect 🍒😋♥️
+# text_en = @User_fem Your breasts don't need such things 😍 they are perfect 🍒😋♥️
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative	_	_
 2	Sânii	sâni	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
