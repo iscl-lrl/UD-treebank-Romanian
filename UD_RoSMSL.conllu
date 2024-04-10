@@ -351,7 +351,7 @@
 # text = încep să mă topesc după tine, cum s-a topit butter într-o oră
 # text_en = I'm starting to melt for you, like butter melted in an hour.
 # language_type = sexist direct
-1	încep	începe VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	încep	începe	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	să	să	PART	_	Mood=Sub	4	mark	_	_
 3	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	expl:pv	_	_
 4	topesc	topi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
