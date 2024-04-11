@@ -4842,7 +4842,7 @@
 36	fac	face	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 37	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	38	det	_	_
 38	unalive	live	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing|Typo=Yes	36	obj	_	CorrectForm=live|Lang=en
-39	ptc	pentru_că	SCONJ	_	Polarity=Pos|Abbr=Yes	40	mark	_	CorrectForm=pentru că
+39	ptc	pentru_că	SCONJ	_	Abbr=Yes|Polarity=Pos	40	mark	_	CorrectForm=pentru că
 40	urasc	urî	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	36	advcl	_	CorrectForm=urăsc
 41	asta	acesta	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	40	obj	_	_
 
