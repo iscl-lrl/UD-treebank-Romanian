@@ -589,8 +589,8 @@
 10	😍	😍	SYM	_	_	12	discourse	_	_
 11	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	perfecți	perfect	ADJ	_	Definite=Ind|Degree=Sup|Gender=Masc|Number=Plur	9	acl	_	_
-13	🍒	🍒	SYM	_	_	5	discourse	_	_
-14	😋	😋	SYM	_	_	5	discourse	_	_
+13	🍒	🍒	SYM	_	_	5	discourse	_	SpaceAfter=No
+14	😋	😋	SYM	_	_	5	discourse	_	SpaceAfter=No
 15	♥️	♥️	SYM	_	_	5	discourse	_	_
 
 # sent_id = 35-1405251497718341647
@@ -665,7 +665,7 @@
 15	DULCI	dulce	ADJ	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	14	amod	_	_
 16	ȘI	și	CCONJ	_	Polarity=Pos	18	cc	_	_
 17	TE	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	18	obj	_	_
-18	ADOR	adora	VERB	_	 Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+18	ADOR	adora	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
 19	PUPICI	pupic	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	18	obj	_	_
 20	DULCI	dulce	ADJ	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	19	amod	_	_
 21	PUPICI	pupic	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	18	obj	_	_
@@ -681,7 +681,7 @@
 4	ESTI	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	2	cop	_	CorrectForm=ești
 5	ȘI	și	CCONJ	_	Polarity=Pos	6	conj	_	_
 6	SEXSY	sexy	ADJ	_	Foreign=Yes|Gender=Fem|Number=Sing|Typo=Yes	2	conj	_	CorrectForm=sexy|Lang=en
-7	ȘI	și	CCONJ	_	Polarity=Pos	6	conj	_	_
+7	ȘI	și	CCONJ	_	Polarity=Pos	8	cc	_	_
 8	AI	avea	AUX	_	Number=Sing|Person=2	2	conj	_	_
 9	OCHII	ochi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	_
 10	FRUMOȘI	frumos	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
@@ -797,7 +797,7 @@
 35	fumezi	fuma	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	32	ccomp	_	_
 36	tig	țigară	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	35	obj	_	CorrectForm=țigara
 37	de	de	ADP	_	AdpType=Prep|Case=Acc	38	case	_	_
-38	dupa	după	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	36	advmod	_	CorrectForm=după
+38	dupa	după	ADV	_	AdpType=Prep|Case=Acc|Typo=Yes	36	advmod	_	CorrectForm=după
 
 # sent_id = 43-1395996421208297472
 # text = @Utilizator_fem Eu o am, tu ești uda?
@@ -806,7 +806,7 @@
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative	_	_
 2	Eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	4	nsubj	_	_
 3	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	4	expl	_	_
-4	am	avea	VERB	_	Person=1|Number=Sing	0	root	_	SpaceAfter=No
+4	am	avea	VERB	_	Number=Sing|Person=1	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	nsubj	_	_
 7	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -818,7 +818,7 @@
 # text_en = @User_fem WoW This ass has beeen recently broken!
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
-2	WoW	wow	INTJ	_	Foreign=Yes	0	root	_	Lang=en
+2	WoW	wow	INTJ	_	_	0	root	_	Lang=en
 3	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	spart	sparge	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	_
 5	de	de	ADP	_	AdpType=Prep|Case=Acc	4	advmod	_	_
@@ -882,7 +882,7 @@
 23	la	la	ADP	_	AdpType=Prep|Case=Acc	22	fixed	_	_
 24	picioare	picior	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	21	nmod	_	_
 25	și	și	CCONJ	_	Polarity=Pos	26	cc	_	_
-26	talpa	talpă	NOUN	_	ase=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	conj	_	_
+26	talpa	talpă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	18	conj	_	_
 27	acestui	acest	DET	_	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	28	det	_	_
 28	picior	picior	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	26	nmod	_	_
 29	de	de	ADP	_	AdpType=Prep|Case=Acc	30	case	_	_
@@ -910,8 +910,8 @@
 # text = @Utilizator_fem Simona ești  cea mai frumoasă și sexy
 # text_en = @User_fem Simona, you are the most beautiful and sexy
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative	_	_
-2	Simona	Simona	PROPN	_	_	3	vocative	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	6	vocative	_	_
+2	Simona	Simona	PROPN	_	_	6	vocative	_	_
 3	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	cea	cel	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
 5	mai	mai	ADV	_	_	6	advmod	_	_
@@ -920,7 +920,7 @@
 8	sexy	sexy	NOUN	_	Case=Acc,Nom|Definite=Def|Degree=Pos|Foreign=Yes|Gender=Fem|Number=Sing	6	conj	_	_
 
 # sent_id = 49-1402070535425740814
-# text = @Utilizator_fem Ai un cur bun îmi place vrei sa  vb în privat de u de esti baby🥰🥰
+# text = @Utilizator_fem Ai un cur bun îmi place vrei sa  vb în privat de unde esti baby🥰🥰
 # text_en = @User_fem You have a nice ass, I like it, do you want to see me in private, where are you from, baby?
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
@@ -936,9 +936,9 @@
 11	în	în	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
 12	privat	privat	ADJ	_	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	_
 13	de	de	ADP	_	AdpType=Prep|Case=Acc	16	advmod	_	_
-14	u de	unde	ADV	_	PronType=Int,Rel|Typo=Yes	13	fixed	_	CorrectForm=unde
+14	unde	unde	ADV	_	PronType=Int,Rel|Typo=Yes	13	fixed	_	_
 15	esti	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	16	cop	_	CorrectForm=ești
-16	baby	baby	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	12	acl	_	Lang=enSpace|SpaceAfter=No
+16	baby	baby	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	12	acl	_	Lang=en|SpaceAfter=No
 17	🥰	🥰	SYM	_	_	2	discourse	_	SpaceAfter=No
 18	🥰	🥰	SYM	_	_	2	discourse	_	_
 
@@ -969,7 +969,7 @@
 # text_en = @User_fem What a whore you are
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative	_	_
-2	ce	ce	PRON	_	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Int,Rel	3	nsubj	_	_
+2	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
 3	tarfa	târfa	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=târfă
 4	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
 
@@ -1023,14 +1023,14 @@
 6	dorește	dori	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
 7	orice	orice	DET	_	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Ind	8	det	_	_
 8	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
-9	!	!	PUNCT	_	_    2  punct	_  _
+9	!	!	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 55-1400292046427111427
 # text = @Utilizator_fem Oooooo, sa ne si dam drumul pe sanii tai!
 # text_en = @User_fem Oooooo, let's also cum on your breasts!
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
-2	Oooooo	Oooooo	INTJ	_	_	0	root	_	_
+2	Oooooo	Oooooo	INTJ	_	_	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
 4	sa	să	PART	_	Mood=Sub|Typo=Yes	7	mark	_	CorrectForm=să
 5	ne	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	7	iobj	_	_
