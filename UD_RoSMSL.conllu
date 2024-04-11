@@ -1336,8 +1336,8 @@
 11	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	obj	_	_
 12	are	avea	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 13	să	să	PART	_	Mood=Sub	15	mark	_	SpaceAfter=No
-14	-ți	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	15	iobj	_	SpaceAfter=No
-15	zică	zice	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+14	-ți	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	15	iobj	_	_
+15	zică	zice	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	să	să	PART	_	Mood=Sub	19	mark	_	_
 18	fii	fi	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	_
@@ -1384,8 +1384,8 @@
 21	să	să	PART	_	Mood=Sub	22	mark	_	_
 22	ajungi	ajunge	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
 23	între	între	ADP	_	AdpType=Prep|Case=Acc	24	case	_	_
-24	picioarele	picior	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	22	obl	_	SpaceAfter=No
-25	ei	lui	PRON	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
+24	picioarele	picior	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	22	obl	_	_
+25	ei	lui	PRON	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	_
 27	Nu	nu	PART	_	Polarity=Neg	29	advmod	_	_
 28	ar	avea	AUX	_	Person=3	29	aux	_	_
@@ -1405,9 +1405,9 @@
 # text_en = What ugly girls I have in class..
 # language_type = sexist descriptive
 1	Ce	ce	DET	_	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Int,Rel	2	det	_	_
-2	fete	fată	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	_	_
-3	urâte	urât	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
-4	am	avea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	fete	fată	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
+3	urâte	urât	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
+4	am	avea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	în	în	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
 6	clasă	clasă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	..	.	PUNCT	_	_	3	punct	_	_
@@ -1427,7 +1427,7 @@
 9	javre	javră	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
 
 # sent_id = 77-1407232742681624576
-# text = Mașina se conduce cu permis și femeia cu vrăjeală.🙆🏻‍♂️	
+# text = Mașina se conduce cu permis și femeia cu vrăjeală.🙆🏻‍♂️
 # text_en = A car is driven with a license, and a woman with slick talk.🙆🏻‍♂️
 # language_type = sexist descriptive
 1	Mașina	mașină	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
@@ -1457,7 +1457,7 @@
 9	lângă	lângă	ADP	_	AdpType=Prep|Case=Acc	8	fixed	_	_
 10	tine	tine	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	7	nmod	_	_
 11	a	avea	AUX	_	Number=Sing|Person=3	13	aux	_	_
-12	fost	fi	AUX	_	Gender=Fem|Number=Sing|VerbForm=Part	13	cop	_	_
+12	fost	fi	AUX	_	Number=Sing|VerbForm=Part	13	cop	_	_
 13	taxi	taxi	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	advcl	_	_
 14	toată	tot	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	15	det	_	_
 15	viața	viață	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
@@ -1477,7 +1477,7 @@
 6	este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 7	să	să	PART	_	Mood=Sub	8	mark	_	_
 8	vezi	vedea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	csubj	_	_
-9	o	un	DET	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	det	_	_
+9	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
 10	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
 11	frumoasă	frumos	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
 12	făcută	face	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
@@ -1485,7 +1485,7 @@
 14	!	!	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 80-1401435913083932673
-# text = Femeia și condusul sunt ca apa și uleiul	
+# text = Femeia și condusul sunt ca apa și uleiul
 # text_en = Woman and driving are like water and oil.
 # language_type = sexist descriptive
 1	Femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -1503,7 +1503,7 @@
 # language_type = sexist descriptive 
 1	Fete	fată	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	_	_
 2	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	destule	destul	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
+3	destule	destul	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	avem	avea	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
 6	nevoie	nevoie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	fixed	_	_
@@ -1550,7 +1550,7 @@
 7	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	_
 8	permisul	permis	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
 9	din	din	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
-10	prima	prim	NUM	_	Case=Acc,Nom|Definite=Def|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	8	nummod	_	_
+10	prima	prim	NUM	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	8	nummod	_	_
 11	?	?	PUNCT	_	_	2	punct	_	_
 12	-	-	PUNCT	_	_	16	punct	_	_
 13	Ca	ca	ADV	_	_	16	mark	_	_
@@ -1606,10 +1606,10 @@
 8	fericită	fericit	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	trebuie	trebui	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
-11	să	să	PART	_	Mood=Sub	15	mark	_	SpaceAfter=No
-12	-i	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	15	iobj	_	_
+11	să-	să	PART	_	Mood=Sub	15	mark	_	SpaceAfter=No
+12	i	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	15	iobj	_	_
 13	fii	fi	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	SpaceAfter=No
-14	 :	:	PUNCT	_	_	15	punct	_	_
+14	:	:	PUNCT	_	_	15	punct	_	_
 15	prieten	prieten	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	csubj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	partener	partener	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
@@ -1638,7 +1638,7 @@
 40	,	,	PUNCT	_	_	41	punct	_	_
 41	terapeut	terapeut	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	44	punct	_	_
-43	și	și	Clist	_	Polarity=Pos	44	cc	_	_
+43	și	și	CCONJ	_	Polarity=Pos	44	cc	_	_
 44	amabil	amabil	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	46	punct	_	_
 46	simpatic	simpatic	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	44	list	_	SpaceAfter=No
@@ -1680,7 +1680,7 @@
 # language_type = sexist descriptive
 1	Dacă	dacă	SCONJ	_	Polarity=Pos	2	mark	_	_
 2	întrebi	întreba	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	advcl	_	_
-3	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	4	case	_	_
+3	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	fată	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
 5	dacă	dacă	SCONJ	_	Polarity=Pos	6	mark	_	_
 6	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -1703,7 +1703,7 @@
 23	că	că	SCONJ	_	Polarity=Pos	24	mark	_	_
 24	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	csubj	_	_
 25	mai	mai	ADV	_	_	26	advmod	_	_
-26	multe	mult	DET	_	Gender=Masc|Number=Plur|Degree=Pos	27	det	_	_
+26	multe	mult	DET	_	Gender=Masc|Number=Plur	27	det	_	_
 27	posturi	post	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	24	obj	_	_
 28	de	de	ADP	_	AdpType=Prep|Case=Acc	29	case	_	_
 29	ocupat	ocupa	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	27	acl	_	_
@@ -1722,7 +1722,7 @@
 4	și	și	CCONJ	_	Polarity=Pos	3	fixed	_	_
 5	Păcală	Păcală	PROPN	_	_	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	_
-7	iar	iar	CCONJ	_	Polarity=Pos	5	cc	_	_
+7	iar	iar	CCONJ	_	Polarity=Pos	8	cc	_	_
 8	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	_
 9	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
 10	Satană	satană	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	conj	_	_
@@ -1809,7 +1809,7 @@
 2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	14	vocative	_	_
 3	Dacă	dacă	SCONJ	_	Polarity=Pos	6	mark	_	_
 4	a	avea	AUX	_	Number=Sing|Person=3	6	aux	_	_
-5	fost	fi	AUX	_	Gender=Fem|Number=Sing|VerbForm=Part	6	cop	_	_
+5	fost	fi	AUX	_	Number=Sing|VerbForm=Part	6	cop	_	_
 6	curvă	curvă	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	advcl	_	_
 7	și	și	CCONJ	_	Polarity=Pos	9	cc	_	_
 8	a	avea	AUX	_	Number=Sing|Person=3	9	aux	_	_
@@ -1836,8 +1836,8 @@
 3	articulezi	articula	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	substantivul	substantiv	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
 5	și	și	CCONJ	_	Polarity=Pos	6	cc	_	_
-6	acasă	acasă	ADV	_	Degree=Pos	3	obl	_	_
-7	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	orphan	_	_
+6	acasă	acasă	ADV	_	Degree=Pos	3	advmod	_	_
+7	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
 8	💪	💪	SYM	_	_	3	discourse	_	_
 
 # sent_id = 96-1395357877578125320
