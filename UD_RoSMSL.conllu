@@ -4815,7 +4815,7 @@
 9	baietii	băiat	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Typo=Yes	18	nsubj	_	CorrectForm=băieții
 10	de	de	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
 11	la	la	ADP	_	AdpType=Prep|Case=Acc	10	fixed	_	_
-12	poli	politehnică	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Abbr=Yes	9	nmod	_	CorrectForm=politehnică
+12	poli	politehnică	NOUN	_	Abbr=Yes|Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	CorrectForm=politehnică
 13	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	14	case	_	CorrectForm=în
 14	timpul	timp	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
 15	lor	lui	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
