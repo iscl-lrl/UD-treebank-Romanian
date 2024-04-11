@@ -1220,7 +1220,7 @@
 6	cam	cam	ADV	_	_	7	advmod	_	_
 7	hot	hot	ADJ	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	1	ccomp	_	_
 
-# sent_id = 67-1395382625305497609	
+# sent_id = 67-1395382625305497609
 # text = Nu te crede importantă pentru că vorbești cu mulți băieți, ţine minte că marfa ieftină atrage mai mulţi clienţi
 # text_en = Don't think you're important just because you talk to many boys, remember that cheap goods attract more clients.
 # language_type = sexist direct
@@ -1245,7 +1245,7 @@
 19	mulţi	mult	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	20	det	_	_
 20	clienţi	client	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	obj	_	_
 
-# sent_id = 68-1403721710017421320	
+# sent_id = 68-1403721710017421320
 # text = Ești frumoasă ca o zi de luni
 # text_en = You are beautiful like a Monday.
 # language_type = sexist direct
