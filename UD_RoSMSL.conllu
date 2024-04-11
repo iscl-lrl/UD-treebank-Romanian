@@ -4540,7 +4540,7 @@
 17	sexist	sexist	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	17	punct	_	_
 19	Ne-	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak|Variant=Short	21	obj	_	SpaceAfter=No
-20	am	avea	AVEA	_	Person=1|Number=Plur	21	aux	_	_
+20	am	avea	AVEA	_	Number=Plur|Person=1	21	aux	_	_
 21	dilit	dili	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 22	toti	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind|Typo=Yes	21	nsubj	_	CorrectForm=toți|SpaceAfter=No
 23	?	?	PUNCT	_	_	21	punct	_	SpaceAfter=No
@@ -4599,7 +4599,7 @@
 16	😂	😂	SYM	_	_	4	discourse	_	SpaceAfter=No
 17	😂	😂	SYM	_	_	4	discourse	_	_
 18	Ne-	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak|Variant=Short	20	obj	_	SpaceAfter=No
-19	am	avea	AUX	_	Person=1|Number=Plur	20	aux	_	_
+19	am	avea	AUX	_	Number=Plur|Person=1	20	aux	_	_
 20	dus	duce	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 21	pe	pe	ADP	_	AdpType=Prep|Case=Acc	22	case	_	_
 22	pulă	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	_
