@@ -5325,6 +5325,9 @@
 # text = Comportamentul feminin, standardizat de Ştefan Gheorghidiu, propune imaginea unei fiinţe slabe, neajutorate, ascultătoare şi în permanentă admiraţie faţă de bărbat, bagamias
 # text_en = The female behavior, standardized by Stefan Gheorghidiu, proposes the image of a weak, helpless, obedient being in constant admiration of the man. Dammit 
 # language_type = sexist reporting
+# 26	baga	băga	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Typo=Yes	0	root	_	CorrectForm=băga
+# 27	mi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Typo=Yes	26	iobj	_	CorrectForm=mi-
+# 28	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	26	aux	_	CorrectForm=aş
 1	Comportamentul	comportament	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 2	feminin	feminin	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
