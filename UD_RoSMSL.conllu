@@ -2271,7 +2271,7 @@
 6	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	7	expl:pv	_	_
 7	uiți	uita	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 8	la	la	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
-9	fotbal	fotbal	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	_
+9	fotbal	fotbal	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 10	/	/	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	football	football	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	9	conj	_	Lang=en
 12	!	!	PUNCT	_	_	9	punct	_	_
@@ -2320,7 +2320,7 @@
 # text_en = Get your head straight and don't forget that the ball is kicked with the foot and the man with the fist 💪🏻
 # language_type = sexist descriptive
 1	bagati	bagă	VERB	_	Mood=Imp|Number=Plur|Person=2|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=băgați
-2	va	tu	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak|Variant=Short|Typo=Yes	1	expl:poss	_	CorrectForm=-vă
+2	va	tu	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	1	expl:poss	_	CorrectForm=-vă
 3	mintiile	minte	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur|Typo=Yes	1	obj	_	CorrectForm=mințile
 4	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	5	case	_	CorrectForm=în
 5	cap	cap	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
@@ -2508,7 +2508,7 @@
 29	OJĂ	ojă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	27	obl	_	_
 
 # sent_id = 125-1407003431345311744
-# text = Femeia e ca o minge 🍂  o scoti afara si ți o sparge altu🥲
+# text = Femeia e ca o minge 🍂 o scoti afara si ți o sparge altu🥲
 # text_en = A woman is like a ball 🍂 you take it out and someone else breaks it for you🥲
 # language_type = sexist descriptive
 1	Femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -2631,13 +2631,13 @@
 14	mesaje	mesaj	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	12	obl	_	_
 
 # sent_id = 130-1397169759448453124
-# text = Femeia trebuie să învețe mai întâi să fie femeie , și după aceea să devină Om...🧝
+# text = Femeia trebuie să învețe mai întâi să fie femeie, și după aceea să devină Om...🧝
 # text_en = A woman must first learn to be a woman, and then to become a Human Being...🧝
 # language_type = sexist descriptive
 1	Femeia	femeie	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
 2	trebuie	trebui	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	să	să	PART	_	Mood=Sub	4	mark	_	_
-4	învețe	învăța	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	nsubj	_	_
+4	învețe	învăța	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 5	mai	mai	ADV	_	_	6	advmod	_	_
 6	întâi	întâi	ADV	_	Degree=Pos	4	advmod	_	_
 7	să	să	PART	_	Mood=Sub	9	mark	_	_
@@ -2686,8 +2686,8 @@
 2	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
 3	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	_
 4	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj:pass	_	_
-5	nu-	nu	PART	_	Polarity=Neg	7	mark	_	SpaceAfter=No
-6 i	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	7	aux:pass	_	_
+5	nu	nu	PART	_	Polarity=Neg	7	mark	_	SpaceAfter=No
+6 -i	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	7	aux:pass	_	_
 7	impresionată	impresiona	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	3	acl	_	_
 8	de	de	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 9	bani	ban	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	7	obl:agent	_	SpaceAfter=No
@@ -2910,7 +2910,7 @@
 # language_type = sexist reporting
 1	Nu	nu	PART	_	Polarity=Neg	2	advmod	_	_
 2	pot	putea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	să	să	SCONJ	_	Mood=Sub	5	mark	_	_
+3	să	să	PART	_	Mood=Sub	5	mark	_	_
 4	îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	iobj	_	_
 5	dau	da	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	seama	seamă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	fixed	_	_
