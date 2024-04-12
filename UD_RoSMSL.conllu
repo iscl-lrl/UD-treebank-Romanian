@@ -1062,9 +1062,9 @@
 14	.	.	PUNCT	_	_	10	punct	_	_
 15	Ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	cop	_	_
 16	doar	doar	ADV	_	Degree=Pos	17	advmod	_	_
-17	ușoară	ușor	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+17	ușoară	ușor	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	parataxis	_	_
 18	:))))	:))	SYM	_	_	17	discourse	_	_
-19	Sper	spera	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	Sper	spera	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
 20	că	că	SCONJ	_	Polarity=Pos	21	mark	_	_
 21	înțelegi	înțelege	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	ccomp	_	SpaceAfter=No
 22	《♡》	《♡》	SYM	_	_	19	discourse	_	_
@@ -1329,7 +1329,7 @@
 4	pare	părea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 6	E	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	destul	destul	ADV	_	Degree=Pos	0	root	_	_
+7	destul	destul	ADV	_	Degree=Pos	4	parataxis	_	_
 8	s-	să	PART	_	Mood=Sub|Variant=Short	10	mark	_	SpaceAfter=No
 9	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	10	obj	_	_
 10	asculți	asculta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	csubj	_	_
@@ -1389,7 +1389,7 @@
 26	.	.	PUNCT	_	_	2	punct	_	_
 27	Nu	nu	PART	_	Polarity=Neg	29	advmod	_	_
 28	ar	avea	AUX	_	Person=3	29	aux	_	_
-29	trebui	trebui	VERB	_	Tense=Pres|VerbForm=Inf	0	root	_	_
+29	trebui	trebui	VERB	_	Tense=Pres|VerbForm=Inf	2	parataxis	_	_
 30	să	să	PART	_	Mood=Sub	31	mark	_	_
 31	conteze	conta	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	29	csubj	_	_
 32	cum	cum	ADV	_	PronType=Int,Rel	33	advmod	_	_
@@ -1610,7 +1610,7 @@
 12	i	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	15	iobj	_	_
 13	fii	fi	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	SpaceAfter=No
 14	:	:	PUNCT	_	_	15	punct	_	_
-15	prieten	prieten	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	csubj	_	SpaceAfter=No
+15	prieten	prieten	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	partener	partener	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
@@ -1755,7 +1755,7 @@
 22	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
 23	cele	cel	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|PronType=Dem	24	det	_	_
 24	mai	mai	ADV	_	_	25	advmod	_	_
-25	sexy	sexy	ADJ	_	Definite=Ind|Degree=Pos|Number=Plur	0	root	_	SpaceAfter=No
+25	sexy	sexy	ADJ	_	Definite=Ind|Degree=Pos|Number=Plur	2	parataxis	_	SpaceAfter=No
 26	...	...	PUNCT	_	_	25	punct	_	_
 
 # sent_id = 92-1410266569138130954
@@ -1822,7 +1822,7 @@
 15	?	?	PUNCT	_	_	14	punct	_	_
 16	Încet	încet	ADV	_	Degree=Pos	18	advmod	_	_
 17	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	18	expl:pv	_	_
-18	duce	duce	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	duce	duce	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	_
 19	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	20	advmod	_	CorrectForm=și
 20	creierul	creier	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	18	punct	_	_
@@ -1925,7 +1925,7 @@
 17	.	.	PUNCT	_	_	11	punct	_	_
 18	Rostul	rost	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	_
 19	femeii	femeie	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	18	nmod	_	CorrectForm=femeiii
-20	este	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	este	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 21	să	să	PART	_	Mood=Sub	22	mark	_	_
 22	placă	plăcea	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	20	xcomp	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	28	punct	_	_
@@ -1962,7 +1962,7 @@
 18	de	de	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
 19	succes	succes	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	9	acl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
-21	Machiate	machiat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+21	Machiate	machiat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	1	parataxis	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	_
 23	vopsite	vopsi	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	21	conj	_	_
 24	la	la	ADP	_	AdpType=Prep|Case=Acc	25	case	_	_
@@ -1978,7 +1978,7 @@
 34	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	33	det	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	33	punct	_	_
 36	sunt	fi	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	37	cop	_	_
-37	sigur	sigur	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+37	sigur	sigur	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	_
 38	că	că	SCONJ	_	Polarity=Pos	40	mark	_	_
 39	le	el	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	40	iobj	_	_
 40	vedeți	vedea	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	37	csubj	_	_
@@ -1990,7 +1990,7 @@
 46	foarte	foarte	ADV	_	_	47	advmod	_	_
 47	rar	rar	ADV	_	Degree=Pos	49	advmod	_	_
 48	mai	mai	ADV	_	_	49	advmod	_	_
-49	vezi	vedea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+49	vezi	vedea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 50	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	51	det	_	_
 51	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	49	obj	_	_
 52	naturală	natural	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	SpaceAfter=No
@@ -2359,7 +2359,7 @@
 14	.	.	PUNCT	_	_	2	punct	_	_
 15	Diavolul	diavol	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	_
 16	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	17	expl:pv	_	_
-17	ascunde	ascunde	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	ascunde	ascunde	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 18	în	în	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
 19	detalii	detaliu	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	obl	_	_
 20	:))	:))	SYM	_	_	17	discourse	_	_
@@ -2443,7 +2443,7 @@
 12	.	.	PUNCT	_	_	2	punct	_	_
 13	Este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
-15	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+15	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	parataxis	_	_
 16	absolut	absolut	ADV	_	Degree=Pos	17	advmod	_	_
 17	dezgustătoare	dezgustător	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem	15	amod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	24	punct	_	_
@@ -2500,7 +2500,7 @@
 21	NICI	nici	ADV	_	PronType=Neg	24	advmod	_	_
 22	MACAR	măcar	ADV	_	Degree=Pos|Typo=Yes	21	fixed	_	CorrectForm=măcar
 23	NU	nu	PART	_	Polarity=Neg	24	advmod	_	_
-24	STIU	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=știu
+24	STIU	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	13	parataxis	_	CorrectForm=știu
 25	SĂ	să	PART	_	Mood=Sub	27	mark	_	_
 26	MĂ	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	27	expl:pv	_	_
 27	DAU	da	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	ccomp	_	_
@@ -2585,7 +2585,7 @@
 20	.	.	PUNCT	_	_	3	punct	_	_
 21	(	(	PUNCT	_	_	23	punct	_	SpaceAfter=No
 22	Te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	23	expl:pv	_	_
-23	hraneste	hrăni	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=hrănește
+23	hraneste	hrăni	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	parataxis	_	CorrectForm=hrănește
 24	bine	bine	ADV	_	Degree=Pos	23	advmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	27	punct	_	_
 26	iti	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes	27	iobj	_	CorrectForm=îți
@@ -2855,7 +2855,7 @@
 13	organul	organ	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	_
 14	sexual	sexual	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	_
-16	Ai	ai	INTJ	_	_	0	root	_	_
+16	Ai	ai	INTJ	_	_	3	parataxis	_	_
 17	de	de	ADP	_	AdpType=Prep|Case=Acc	18	case	_	_
 18	scula	sculă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	obl	_	_
 19	lui	lui	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
@@ -2937,7 +2937,7 @@
 27	.	.	PUNCT	_	_	2	punct	_	_
 28	Cum	cum	ADV	_	PronType=Int,Rel	30	advmod	_	_
 29	nu	nu	PART	_	Polarity=Neg	30	advmod	_	_
-30	pot	putea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+30	pot	putea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 31	să	să	PART	_	Mood=Sub	33	mark	_	_
 32	îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	33	iobj	_	_
 33	dau	da	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	ccomp	_	_
@@ -2969,7 +2969,7 @@
 4	de	de	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 5	preot	preot	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
-7	Zice	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	Zice	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 8	că	că	SCONJ	_	Polarity=Pos	21	mark	_	_
 9	fetele	fată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	21	nsubj	_	_
 10	dispărute	dispărut	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
@@ -2994,7 +2994,7 @@
 29	,	,	PUNCT	_	_	25	punct	_	SpaceAfter=No
 30	fetele	fată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	32	nsubj	_	_
 31	nu	nu	PART	_	Polarity=Neg	32	advmod	_	_
-32	pățeau	păți	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+32	pățeau	păți	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 33	nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	32	obj	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	37	punct	_	SpaceAfter=No
 35	și	și	CCONJ	_	Polarity=Pos	37	cc	_	_
@@ -3009,7 +3009,7 @@
 44	😡	😡	SYM	_	_	32	discourse	_	_
 45	Preotul	preot	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	47	nsubj	_	_
 46	îi	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	47	expl:poss	_	_
-47	ia	lua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+47	ia	lua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 48	apărarea	apărare	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	47	obj	_	_
 49	criminalului	criminal	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	47	iobj	_	SpaceAfter=No
 50	.	.	PUNCT	_	_	47	punct	_	_
@@ -3055,7 +3055,7 @@
 12	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	list	_	_
 13	trofeu	trofeu	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	_
-15	Lumea	lume	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+15	Lumea	lume	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
 16	:	:	PUNCT	_	_	17	punct	_	_
 17	de	de	ADP	_	AdpType=Prep|Case=Acc	19	advmod	_	_
 18	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	17	fixed	_	_
@@ -3132,7 +3132,7 @@
 31	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	32	det	_	_
 32	final	final	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	34	obl	_	_
 33	am	avea	AUX	_	Person=1	34	aux	_	_
-34	ajuns	ajunge	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
+34	ajuns	ajunge	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	8	parataxis	_	_
 35	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	37	advmod	_	CorrectForm=și
 36	la	la	ADP	_	AdpType=Prep|Case=Acc	37	case	_	_
 37	hotel	hotel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	34	obl	_	_
@@ -3250,7 +3250,7 @@
 19	.	.	PUNCT	_	_	4	punct	_	_
 20	Justiția	justiție	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	22	nsubj	_	_
 21	a	avea	AUX	_	Number=Sing|Person=3	22	aux	_	_
-22	condamnat	condamna	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
+22	condamnat	condamna	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	parataxis	_	SpaceAfter=No
 23	-o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	22	expl	_	_
 24	pe	pe	ADP	_	AdpType=Prep|Case=Acc	25	case	_	_
 25	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	obj	_	_
@@ -3271,7 +3271,7 @@
 40	.	.	PUNCT	_	_	22	punct	_	_
 41	Azi	azi	ADV	_	Degree=Pos	43	advmod	_	_
 42	a	avea	AUX	_	Number=Sing|Person=3	43	aux	_	_
-43	intrat	intra	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+43	intrat	intra	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	parataxis	_	_
 44	în	în	ADP	_	AdpType=Prep|Case=Acc	45	case	_	_
 45	închisoare	închisoare	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	43	obl	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	43	punct	_	_
@@ -3295,7 +3295,7 @@
 13	.	.	PUNCT	_	_	4	punct	_	_
 14	Proiectul	proiect	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nsubj	_	_
 15	a	avea	AUX	_	Number=Sing|Person=3	16	aux	_	_
-16	stârnit	stârni	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+16	stârnit	stârni	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	parataxis	_	_
 17	furie	furie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	inclusiv	inclusiv	ADV	_	Degree=Pos	21	advmod	_	_
@@ -3333,7 +3333,7 @@
 22	fără	fără	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
 23	sutien	sutien	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
-25	avem	avea	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	avem	avea	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
 26	întotdeauna	întotdeauna	ADV	_	Degree=Pos	25	advmod	_	_
 27	dreptate	dreptate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No
@@ -3343,7 +3343,7 @@
 32	,	,	PUNCT	_	_	31	punct	_	_
 33	i-	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	35	iobj	_	SpaceAfter=No
 34	am	avea	AUX	_	Person=1	35	aux	_	_
-35	scris	scrie	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
+35	scris	scrie	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	parataxis	_	SpaceAfter=No
 36	:	:	PUNCT	_	_	35	punct	_	_
 37	“	“	PUNCT	_	_	42	punct	_	SpaceAfter=No
 38	când	când	ADV	_	PronType=Int,Rel	42	advmod	_	_
@@ -3356,7 +3356,7 @@
 45	”	”	PUNCT	_	_	42	punct	_	_
 46	Mi-	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	48	iobj	_	SpaceAfter=No
 47	a	avea	AUX	_	Number=Sing|Person=3	48	aux	_	_
-48	trimis	trimite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+48	trimis	trimite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	parataxis	_	_
 49	❤️	❤️	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	48	obj	_	_
 50	uite	uita	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	48	ccomp	_	_
 51	de	de	ADP	_	AdpType=Prep|Case=Acc	52	case	_	_
@@ -3396,7 +3396,7 @@
 20	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 21	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	23	det	_	_
 22	MARE	mare	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	23	amod	_	_
-23	prostie	prostie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+23	prostie	prostie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	parataxis	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	28	punct	_	_
 25	una	unul	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	28	nsubj	_	_
 26	n-	nu	PART	_	Polarity=Neg|Variant=Short	28	mark	_	SpaceAfter=No
@@ -3540,7 +3540,7 @@
 4	adolescentă	adolescent	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 5	a	avea	AUX	_	Number=Sing|Person=3	7	aux	_	_
 6	fost	fi	AUX	_	Gender=Fem|Number=Sing|VerbForm=Part	7	aux:pas	_	_
-7	violată	violat 	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+7	violată	violat 	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	parataxis	_	_
 8	de	de	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
 9	toți	tot	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	10	det	_	_
 10	bărbații	bărbat	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	obl:agent	_	_
@@ -3583,14 +3583,14 @@
 4	din	din	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 5	armata	armată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
 6	norvegiană	norvegian	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-7	dorm	dormi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dorm	dormi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 8	cu	cu	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 9	bărbații	bărbat	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	colegii	coleg	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	9	appos	_	_
 12	lor	lui	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	_
-14	Asta	acesta	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+14	Asta	acesta	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	parataxis	_	_
 15	ca	ca	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
 16	urmare	urmare	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	_
 17	a	al	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	_
@@ -3607,7 +3607,7 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 5	Nici	nici	ADV	_	PronType=Neg	7	advmod	_	_
 6	nu	nu	PART	_	Polarity=Neg	7	advmod	_	_
-7	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 8	cum	cum	ADV	_	PronType=Int,Rel	11	advmod	_	_
 9	să	să	PART	_	Mood=Sub	11	mark	_	_
 10	mă	mă	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	11	expl:pv	_	_
@@ -3627,7 +3627,7 @@
 24	.	.	PUNCT	_	_	7	punct	_	_
 25	Azi	azi	ADV	_	Degree=Pos	27	advmod	_	_
 26	au	avea	AUX	_	Number=Plur|Person=3	27	aux	_	_
-27	dat	da	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+27	dat	da	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	_
 28	alt	alt	DET	_	Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Ind	29	det	_	_
 29	caz	caz	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	27	obj	_	_
 30	de	de	ADP	_	AdpType=Prep|Case=Acc	32	case	_	_
@@ -3650,7 +3650,7 @@
 47	din	din	ADP	_	AdpType=Prep|Case=Acc	48	case	_	_
 48	vină	vină	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	46	nmod	_	_
 49	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	50	expl	_	_
-50	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+50	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 51	justiția	justiție	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	50	nsubj	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	50	punct	_	_
 
@@ -3733,7 +3733,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 5	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 6	judecător	judecător	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	zicea	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	zicea	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	12	punct	_	_
 9	vulpea	vulpe	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	_
 10	asta	acesta	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	9	det	_	_
@@ -3755,7 +3755,7 @@
 26	multe	mult	DET	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	28	det	_	_
 27	alte	alt	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Ind	28	det	_	_
 28	mizerii	mizerie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	29	nsubj	_	_
-29	vorbeau	vorbi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+29	vorbeau	vorbi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
 30	și	și	CCONJ	_	_	31	cc	_	_
 31	râdeau	râde	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	29	conj	_	_
 32	de	de	ADP	_	AdpType=Prep|Case=Acc	33	case	_	_
@@ -3765,11 +3765,11 @@
 36	unul	unul	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	39	nsubj	_	_
 37	nu	nu	PART	_	Polarity=Neg	39	advmod	_	_
 38	a	avea	AUX	_	Number=Sing|Person=3	39	aux	_	_
-39	pățit	păți	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+39	pățit	păți	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	parataxis	_	_
 40	nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	39	xcomp	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	39	punct	_	_
 42	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	43	det	_	_
-43	justiție	justiție	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+43	justiție	justiție	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	parataxis	_	_
 44	de	de	ADP	_	AdpType=Prep|Case=Acc	45	case	_	_
 45	rahat	rahat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	43	nmod	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	51	punct	_	_
@@ -3991,7 +3991,7 @@
 23	'	'	PUNCT	_	_	26	punct	_	SpaceAfter=No
 24	I	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	26	iobj	_	SpaceAfter=No
 25	-AI	avea	AUX	_	Number=Sing|Person=2	26	aux	_	_
-26	PERMIS	permite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root 	_	_
+26	PERMIS	permite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis 	_	_
 27	SA	să	PART	_	Mood=Sub|Typo=Yes	29	mark	_	CorrectForm=să
 28	TE	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	29	obj	_	_
 29	BATA	bate	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	26	ccomp	_	CorrectForm=bată
@@ -4041,7 +4041,7 @@
 6	din	din	ADP	_	AdpType=Prep|Case=Acc	7	case	_	_
 7	Iași	Iași	PROPN	_	_	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
-9	Bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	Bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	dat	da	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	9	acl	_	_
 12	jos	jos	ADV	_	Degree=Pos	11	advmod	_	_
@@ -4166,7 +4166,7 @@
 16	.	.	PUNCT	_	_	4	punct	_	_
 17	nu	nu	PART	_	Polarity=Neg	19	advmod	_	_
 18	mai	mai	ADV	_	_	19	advmod	_	_
-19	traim	trăi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=trăim
+19	traim	trăi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	4	parataxis	_	CorrectForm=trăim
 20	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	21	case	_	CorrectForm=în
 21	era	eră	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	obl	_	_
 22	medievala	medieval	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	21	amod	_	CorrectForm=medievală
@@ -4252,12 +4252,12 @@
 37	guvernantii	guvernant	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Typo=Yes	36	appos	_	CorrectForm=guvernanții
 38	n-	nu	PART	_	Polarity=Neg|Variant=Short	40	advmod	_	SpaceAfter=No
 39	ati	avea	AUX	_	Number=Plur|Person=2|Typo=Yes	40	aux	_	CorrectForm=ați
-40	facut	face	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	0	root	_	CorrectForm=făcut
+40	facut	face	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	2	parataxis	_	CorrectForm=făcut
 41	nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	40	obj	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	40	punct	_	_
 43	Nici	nici	ADV	_	PronType=Neg	45	advmod	_	_
 44	n-	nu	PART	_	Polarity=Neg|Variant=Short	45	advmod	_	SpaceAfter=No
-45	aveti	avea	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=-aveți
+45	aveti	avea	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	2	parataxis	_	CorrectForm=-aveți
 46	de	de	ADP	_	AdpType=Prep|Case=Acc	45	fixed	_	_
 47	gand	gând	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	45	fixed	_	CorrectForm=gând|SpaceAfter=No
 48	.	.	PUNCT	_	_	45	punct	_	_
@@ -4286,10 +4286,10 @@
 11	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	14	nsubj	_	_
 12	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
-14	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+14	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 16	-	-	PUNCT	_	_	17	punct	_	_
-17	societate	societate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+17	societate	societate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	_	_
 18	tâmpită	tâmpit	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
 
 # sent_id = 178-1401875736999387136
@@ -4305,7 +4305,7 @@
 7	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 9	esti	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	10	cop	_	CorrectForm=ești
-10	mândria	mândrie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+10	mândria	mândrie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	parataxis	_	_
 11	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
 12	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
 13	"	"	PUNCT	_	_	6	punct	_	_
@@ -4316,11 +4316,11 @@
 18	nu	nu	PART	_	Polarity=Neg	21	advmod	_	_
 19	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	21	expl:pv	_	_
 20	mai	mai	ADV	_	_	21	advmod	_	_
-21	f*te	fute	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=fute
+21	f*te	fute	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	6	parataxis	_	CorrectForm=fute
 22	la	la	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
 23	creieri	creier	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No
 24	!	!	PUNCT	_	_	21	punct	_	_
-25	Lasă	lasă	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
+25	Lasă	lasă	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	6	parataxis	_	SpaceAfter=No
 26	-mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	25	obj	_	_
 27	în	în	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
 28	p*la	pulă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	25	obl	_	CorrectForm=pula
@@ -4330,7 +4330,7 @@
 32	tot	tot	ADV	_	Degree=Pos	35	advmod	_	_
 33	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	35	nsubj	_	_
 34	este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
-35	aia	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+35	aia	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	parataxis	_	_
 36	ciudată	ciudat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	SpaceAfter=No
 37	....	....	PUNCT	_	_	35	punct	_	SpaceAfter=No
 38	🙄	🙄	SYM	_	_	35	discourse	_	SpaceAfter=No
@@ -4341,7 +4341,7 @@
 # text_en = A Romanian pimp in the United Kingdom, caught by authorities after making shocking statements: 'I live like a lord from the money made by the girls'...
 # language_type = sexist reporting
 1	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
-2	proxenet	proxenet	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	19	nsubj	_	_
+2	proxenet	proxenet	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 3	român	român	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 4	din	din	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 5	Marea	mare	PROPN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -4358,7 +4358,7 @@
 16	șocante	șocant	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	SpaceAfter=No
 17	:	:	PUNCT	_	_	19	punct	_	_
 18	„	„	PUNCT	_	_	19	punct	_	SpaceAfter=No
-19	Trăiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	Trăiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 20	ca	ca	ADP	_	AdpType=Prep|Case=Acc	22	case	_	_
 21	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	22	det	_	_
 22	lord	lord	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	_
@@ -4382,7 +4382,7 @@
 6	.	.	PUNCT	_	_	2	punct	_	_
 7	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
 8	femeie	femeie	NOUN	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	9	nsubj	_	_
-9	ucide	ucide	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	ucide	ucide	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 10	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
 11	barbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	9	obj	_	CorrectForm=bărbat
 12	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	13	cc	_	CorrectForm=și
@@ -4391,12 +4391,12 @@
 15	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	nevinovata	nevinovat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	13	ccomp	_	CorrectForm=nevinovată|SpaceAfter=No
 17	.	.	PUNCT	_	_	9	punct	_	_
-18	Sustinuta	susține	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	0	root	_	CorrectForm=Susținută
+18	Sustinuta	susține	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	2	parataxis	_	CorrectForm=Susținută
 19	de	de	ADP	_	AdpType=Prep|Case=Acc	20	case	_	_
 20	extremistele	extremist	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	18	obl:agent	_	_
 21	feministe	feminist	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	18	punct	_	_
-23	Sper	spera	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	Sper	spera	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 24	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	27	mark	_	CorrectForm=că
 25	instanta	instanță	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	27	nsubj	_	CorrectForm=instanța
 26	sa	să	PART	_	Mood=Sub|Typo=Yes	27	mark	_	CorrectForm=să
@@ -4417,7 +4417,7 @@
 41	nu	nu	PART	_	Polarity=Neg	44	advmod	_	_
 42	este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
 43	decat	decât	ADV	_	Typo=Yes	44	advmod	_	CorrectForm=decât
-44	fascista	fascist	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=fascistă
+44	fascista	fascist	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	2	parataxis	_	CorrectForm=fascistă
 45	sau	sau	CCONJ	_	_	46	cc	_	_
 46	comunista	comunist	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	44	conj	_	CorrectForm=comunistă|SpaceAfter=No
 47	.	.	PUNCT	_	_	44	punct	_	_
@@ -4452,7 +4452,7 @@
 8	Disciplina	disciplină	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	_
 9	asta	ăst	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	8	det	_	_
 10	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	11	expl:pv	_	_
-11	predă	preda	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	predă	preda	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 12	de	de	ADP	_	AdpType=Prep|Case=Acc	11	advmod	_	_
 13	când	când	ADV	_	PronType=Int,Rel	12	fixed	_	_
 14	haul	hău	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Typo=Yes	11	obl	_	CorrectForm=hăul
@@ -4494,7 +4494,7 @@
 6	România	România	PROPN	_	_	5	flat	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	1	punct	_	_
 8	Maria	Maria	PROPN	_	_	9	nsubj	_	_
-9	sare	sări	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	sare	sări	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 10	în	în	ADP	_	AdpType=Prep|Case=Acc	11	case	_	_
 11	apărarea	apărare	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	obl	_	_
 12	Elenei	Elena	PROPN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	_
@@ -4502,7 +4502,7 @@
 14	.	.	PUNCT	_	_	9	punct	_	_
 15	„	„	PUNCT	_	_	17	punct	_	SpaceAfter=No
 16	Ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	cop	_	_
-17	bădăran	bădăran	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+17	bădăran	bădăran	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	țipi	țipa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	conj	_	_
 20	la	la	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
@@ -4537,11 +4537,11 @@
 14	Ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	17	nsubj	_	_
 15	dracu	drac	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	_
 16	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
-17	sexist	sexist	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+17	sexist	sexist	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	17	punct	_	_
 19	Ne-	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak|Variant=Short	21	obj	_	SpaceAfter=No
 20	am	avea	AUX	_	Person=1	21	aux	_	_
-21	dilit	dili	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+21	dilit	dili	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	4	parataxis	_	_
 22	toti	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind|Typo=Yes	21	nsubj	_	CorrectForm=toți|SpaceAfter=No
 23	?	?	PUNCT	_	_	21	punct	_	SpaceAfter=No
 24	😅	😅	SYM	_	_	21	discourse	_	_
@@ -4600,7 +4600,7 @@
 17	😂	😂	SYM	_	_	4	discourse	_	_
 18	Ne-	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak|Variant=Short	20	obj	_	SpaceAfter=No
 19	am	avea	AUX	_	Number=Plur|Person=1	20	aux	_	_
-20	dus	duce	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+20	dus	duce	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	parataxis	_	_
 21	pe	pe	ADP	_	AdpType=Prep|Case=Acc	22	case	_	_
 22	pulă	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	_
 
@@ -4619,7 +4619,7 @@
 9	.	.	PUNCT	_	_	5	punct	_	_
 10	„	„	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	Femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj	_	_
-12	erau	fi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	erau	fi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	parataxis	_	_
 13	la	la	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	dispoziția	dispoziție	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl	_	_
 15	lui	lui	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
@@ -4695,30 +4695,30 @@
 # language_type = sexist reporting
 1	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
 2	infractor	infractor	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	scrântit	scrânti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
+3	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	scrântit	scrânti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	_
 5	la	la	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
 6	minte	minte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	4	punct	_	_
-8	uite	uita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+7	!	!	PUNCT	_	_	2	punct	_	_
+8	Uite	uita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 9	circ	circ	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	2	conj	_	_
+10	!	!	PUNCT	_	_	11	punct	_	_
+11	Femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	2	parataxis	_	_
 12	legate	lega	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	11	acl	_	_
 13	cu	cu	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	lanț	lanț	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	mare	mare	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	2	conj	_	_
+16	Mare	mare	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	2	parataxis	_	_
 17	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 18	grădina	grădină	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	_
 19	Ta	tău	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	Doamne	domn	NOUN	_	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	18	vocative	_	SpaceAfter=No
-22	,	,	PUNCT	_	_	23	punct	_	_
-23	pulă	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	26	nsubj	_	_
+21	Doamne	domn	NOUN	_	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	18	appos	_	SpaceAfter=No
+22	...	...	PUNCT	_	_	23	punct	_	_
+23	Pulă	pulă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	26	nsubj	_	_
 24	ăsta	acesta	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	23	det	_	_
 25	era	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
-26	lipit	lipi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	conj	_	_
+26	lipit	lipi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	_
 27	de	de	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
 28	sărac	sărac	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	26	xcomp	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	26	punct	_	_
@@ -4736,11 +4736,11 @@
 7	În	în	DET	_	AdpType=Prep|Case=Acc	8	case	_	_
 8	România	România	PROPN	_	_	10	obl	_	_
 9	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj	_	_
-10	treiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=trăiesc
+10	treiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	2	parataxis _	CorrectForm=trăiesc
 11	chiar	chiar	ADV	_	Degree=Pos	12	advmod	_	_
 12	bine	bine	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	10	punct	_	_
-14	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+14	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 15	mai	mai	ADV	_	_	16	advmod	_	_
 16	multe	mult	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	17	amod	_	_
 17	drepturi	drept	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	14	obj	_	_
@@ -4773,7 +4773,7 @@
 18	.	.	PUNCT	_	_	4	punct	_	_
 19	Mulți	mult	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	21	nsubj	_	_
 20	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
-21	traumatizați	traumatiza	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+21	traumatizați	traumatiza	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	4	parataxis _	SpaceAfter=No
 22	:	:	PUNCT	_	_	27	punct	_	_
 23	Mickey	Mickey	PROPN	_	_	27	nsubj	_	_
 24	Mouse	Mouse	PROPN	_	_	23	flat	_	_
@@ -4895,7 +4895,7 @@
 20	.	.	PUNCT	_	_	17	punct	_	_
 21	Iar	iar	ADV	_	_	23	cc	_	_
 22	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	23	nsubj	_	_
-23	oscilez	oscila	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	oscilez	oscila	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	parataxis	_	_
 24	intre	între	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	25	case	_	CorrectForm=între
 25	Schadenfreude	Schadenfreude	NOUN	_	Case=Acc,Nom|Foreign=Yes|Gender=Fem|Number=Sing	23	obl	_	Lang=de
 26	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	27	cc	_	CorrectForm=și
@@ -4918,7 +4918,7 @@
 9	„	„	PUNCT	_	_	12	punct	_	SpaceAfter=No
 10	Mi-	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	12	iobj	_	SpaceAfter=No
 11	a	avea	AUX	_	Number=Sing|Person=3	12	aux	_	_
-12	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
+12	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	SpaceAfter=No
 13	-o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	12	expl	_	_
 14	chiar	chiar	ADP	_	Degree=Pos	15	advmod	_	_
 15	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	12	nsubj	_	SpaceAfter=No
@@ -4962,7 +4962,7 @@
 18	pe	pe	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
 19	facebook	Facebook	PROPN	_	Foreign=Yes	17	obl	_	Lang=en|SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	_
-21	Intreb	întreba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=Întreb
+21	Intreb	întreba	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	3	parataxis	_	CorrectForm=Întreb
 22	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	23	advmod	_	CorrectForm=și
 23	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	21	nsubj	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
@@ -4987,7 +4987,7 @@
 43	usa	ușă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	36	obl	_	CorrectForm=ușă|SpaceAfter=No
 44	,	,	PUNCT	_	_	36	punct	_	_
 45	tot	tot	ADV	_	_	46	advmod	_	_
-46	primesc	primi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+46	primesc	primi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 47	amenda	amendă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	46	obj	_	CorrectForm=amendă|SpaceAfter=No
 48	,	,	PUNCT	_	_	46	punct	_	_
 49	nu	nu	PART	_	Polarity=Neg	46	conj	_	SpaceAfter=No
@@ -5055,7 +5055,7 @@
 31	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	21	punct	_	_
 33	Irinel	Irinel	PROPN	_	_	34	nsubj	_	_
-34	recunoaște	recunoaște	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+34	recunoaște	recunoaște	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	21	parataxis	_	_
 35	într-	întru	ADP	_	AdpType=Prep|Case=Acc|Variant=Short	36	case	_	SpaceAfter=No
 36	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	37	det	_	_
 37	final	final	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	34	obl	_	_
@@ -5099,7 +5099,7 @@
 6	am	avea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 7	carucior	cărucior	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	6	obj	_	CorrectForm=cărucior|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-9	vad	vedea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=văd
+9	vad	vedea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	1	parataxis	_	CorrectForm=văd
 10	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	13	mark	_	CorrectForm=că
 11	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	barbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	13	nsubj	_	CorrectForm=bărbat
@@ -5109,7 +5109,7 @@
 16	dupa	după	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	17	case	_	CorrectForm=după
 17	fisa	fisă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	13	obl	_	CorrectForm=fisă|SpaceAfter=No
 18	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
-19	zic	zice	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	zic	zice	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 20	lui	lui	PRON	_	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	19	iobj	_	SpaceAfter=No
 21	:	:	PUNCT	_	_	26	punct	_	_
 22	acest	acest	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	23	det	_	_
@@ -5119,7 +5119,7 @@
 26	fisa	fisă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	19	parataxis	_	CorrectForm=fisă|SpaceAfter=No
 27	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
 28	a	avea	AUX	_	Number=Sing|Person=3	29	aux	_	_
-29	facut	face	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	0	root	_	CorrectForm=făcut
+29	facut	face	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	1	parataxis	_	CorrectForm=făcut
 30	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	31	det	_	_
 31	fata	față	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	29	obj	_	CorrectForm=față|SpaceAfter=No
 32	:	:	PUNCT	_	_	34	punct	_	SpaceAfter=No
@@ -5133,7 +5133,7 @@
 40	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	34	nsubj	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	29	punct	_	SpaceAfter=No
 42	boul	bou	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	43	nsubj	_	_
-43	ia	lua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+43	ia	lua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 44	caruciorul	cărucior	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Typo=Yes	43	obj	_	CorrectForm=căruciorul|SpaceAfter=No
 45	,	,	PUNCT	_	_	54	punct	_	_
 46	nici	nici	ADV	_	PronType=Neg	48	advmod	_	_
@@ -5203,7 +5203,7 @@
 24	😐	😐	SYM	_	_	14	discourse	_	_
 25	nu	nu	PART	_	Polarity=Neg	27	advmod	_	_
 26	mai	mai	ADV	_	_	27	advmod	_	_
-27	criticați	critica	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	_
+27	criticați	critica	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	14	parataxis	_	_
 28	fetele	fată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	27	obj	_	_
 29	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	31	mark	_	CorrectForm=că
 30	s	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|Variant=Short|VerbForm=Fin	31	cop	_	CorrectForm=-s
@@ -5239,7 +5239,7 @@
 18	tema	temă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	_
 19	asta	acesta	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	18	det	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	8	punct	_	_
-21	Care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	0	root	_	SpaceAfter=No
+21	Care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	parataxis	_	SpaceAfter=No
 22	-i	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	21	cop	_	_
 23	baiul	bai	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	21	nsubj	_	SpaceAfter=No
 24	?	?	PUNCT	_	_	21	punct	_	_
@@ -5248,7 +5248,7 @@
 27	și	și	CCONJ	_	Polarity=Pos	28	cc	_	_
 28	Germania	Germania	PROPN	_	_	26	conj	_	_
 29	am	avea	AUX	_	Number=Sing|Person=1	30	aux	_	_
-30	văzut	vedea	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+30	văzut	vedea	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	parataxis	_	_
 31	mămici	mămică	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	30	obj	_	_
 32	alăptând	alăpta	VERB	_	VerbForm=Ger	31	acl	_	_
 33	în	în	ADP	_	AdpType=Prep|Case=Acc	34	case	_	_
@@ -5265,10 +5265,10 @@
 44	nimeni	nimeni	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	47	nsubj	_	_
 45	nu	nu	PART	_	Polarity=Neg	47	advmod	_	_
 46	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	47	expl:pv	_	_
-47	holba	holba	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+47	holba	holba	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	47	punct	_	_
 49	Nu	nu	PART	_	Polarity=Neg	50	advmod	_	_
-50	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+50	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
 51	de	de	ADP	_	AdpType=Prep|Case=Acc	55	mark	_	_
 52	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	51	fixed	_	_
 53	noi	eu	PRON	_	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Strength=Strong	55	nsubj	_	_
@@ -5350,7 +5350,7 @@
 23	de	de	ADP	_	AdpType=Prep|Case=Acc	22	fixed	_	_
 24	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	_
 25	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	bagamias	băga	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	9	conj	_	CorrectForm=băga-mi-aş
+26	bagamias	băga	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	9	parataxis	_	CorrectForm=băga-mi-aş
 
 # sent_id = 207-1413014441944354818
 # text = administratora e femeie și jigodia asta a spus " am ajuns să fim conduși de femei " BRO ÎI SPARG DINŢII
@@ -5375,7 +5375,7 @@
 17	"	"	PUNCT	_	_	11	punct	_	_
 18	BRO	brother	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	20	vocative	_	Lang=en
 19	ÎI	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	20	iobj	_	_
-20	SPARG	sparge	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	SPARG	sparge	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 21	DINŢII	dinte	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	20	obj	_	_
 
 # sent_id = 208-1411688540191272961
