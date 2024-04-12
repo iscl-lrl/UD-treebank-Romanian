@@ -4210,7 +4210,7 @@
 60	me	I	PRON	_	Foreign=Yes|Case=Acc|Number=Sing|Person=1|PronType=Prs	59	obj	_	Lang=en
 
 # sent_id = 176-1407345826062639118
-# text = @KlausIohannis Avem nenumarate cazuri de femei ucise de soti, ex soti, ex iubiti pentru ca politia nu face nimic in cand femeia face plangere si cere protectie impotriva violentei si amenintatilor.  Iar voi guvernantii n-ati facut nimic. Nici n-aveti de gand.  Ipocritule! Ipocritilor! 🤢🤮🤮
+# text = @KlausIohannis Avem nenumarate cazuri de femei ucise de soti, ex soti, ex iubiti pentru ca politia nu face nimic in cand femeia face plangere si cere protectie impotriva violentei si amenintatilor. Iar voi guvernantii n-ati facut nimic. Nici n-aveti de gand. Ipocritule! Ipocritilor! 🤢🤮🤮
 # text_en = @KlausIohannis We have countless cases of women killed by husbands, ex-husbands, ex-boyfriends because the police do nothing when the woman files a complaint and asks for protection against violence and threats. And you, the government, have done nothing. Nor do you intend to. Hypocrite! Hypocrites! 🤢🤮🤮
 # language_type = sexist reporting
 1	@KlausIohannis	@KlausIohannis	PROPN	_	_	2	vocative	_	_
@@ -4223,10 +4223,10 @@
 8	de	de	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 9	soti	soț	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	7	obl:agent	_	CorrectForm=soți|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
-11	ex	ex	ADP	_	AdpType=Pref|Typo=Yes	12	compound	_	CorrectForm=ex-|SpaceAfter=No
+11	ex	ex	ADP	_	AdpType=Prep|Typo=Yes	12	compound	_	CorrectForm=ex-
 12	soti	soț	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	9	list	_	CorrectForm=soți|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
-14	ex	ex	ADP	_	AdpType=Pref|Typo=Yes	15	compound	_	CorrectForm=ex-|SpaceAfter=No
+14	ex	ex	ADP	_	AdpType=Prep|Typo=Yes	15	compound	_	CorrectForm=ex-
 15	iubiti	iubit	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	9	list	_	CorrectForm=iubiți
 16	pentru	pentru	ADP	_	AdpType=Prep|Case=Acc	20	mark	_	_
 17	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	16	fixed	_	CorrectForm=că
@@ -4252,7 +4252,7 @@
 37	guvernantii	guvernant	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Typo=Yes	36	appos	_	CorrectForm=guvernanții
 38	n-	nu	PART	_	Polarity=Neg|Variant=Short	40	advmod	_	SpaceAfter=No
 39	ati	avea	AUX	_	Number=Plur|Person=2|Typo=Yes	40	aux	_	CorrectForm=ați
-40	facut	face	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Typo=Yes	0	root	_	CorrectForm=făcut
+40	facut	face	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	0	root	_	CorrectForm=făcut
 41	nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	40	obj	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	40	punct	_	_
 43	Nici	nici	ADV	_	PronType=Neg	45	advmod	_	_
@@ -4303,7 +4303,7 @@
 5	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	zâna	zână	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 7	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
+8	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 9	esti	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	10	cop	_	CorrectForm=ești
 10	mândria	mândrie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 11	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
@@ -4457,19 +4457,19 @@
 13	când	când	ADV	_	PronType=Int,Rel	12	fixed	_	_
 14	haul	hău	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Typo=Yes	11	obl	_	CorrectForm=hăul
 15	în	în	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
-16	Ro	România	PROPN	_	Abbr=Yes	11	obl	_	SpaceAfter=No
+16	Ro	România	PROPN	_	_	11	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	pe	pe	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
 19	câmpuri	câmp	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
-21	prin	prin	ADV	_	AdpType=Prep|Case=Acc	22	case	_	_
+21	prin	prin	ADP	_	AdpType=Prep|Case=Acc	22	case	_	_
 22	boscheti	boschet	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	19	conj	_	CorrectForm=boscheți
 23	și	și	CCONJ	_	Polarity=Pos	27	cc	_	_
 24	de	de	ADP	_	AdpType=Prep|Case=Acc	27	advmod	_	_
 25	obicei	obicei	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	24	fixed	_	_
 26	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	27	expl:pv	_	_
 27	numește	numi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
-28	#	#	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	#	#	PUNCT	_	_	29	punct	_	_
 29	viol	viol	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	27	obj	_	_
 30	sau	sau	CCONJ	_	Polarity=Pos	32	cc	_	_
 31	"	"	PUNCT	_	_	32	punct	_	SpaceAfter=No
@@ -4479,7 +4479,7 @@
 35	te-	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	37	obj	_	SpaceAfter=No
 36	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	37	aux	_	CorrectForm=aș
 37	fute	fute	VERB	_	Tense=Pres|VerbForm=Inf	32	advcl	_	SpaceAfter=No
-38	!	!	PUNCT	_	_	32	punct	_	SpaceAfter=No
+38	!	!	PUNCT	_	_	32	punct	_	_
 39	"	"	PUNCT	_	_	32	punct	_	_
 
 # sent_id = 183-1406260057197711368
@@ -4540,8 +4540,8 @@
 17	sexist	sexist	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	17	punct	_	_
 19	Ne-	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak|Variant=Short	21	obj	_	SpaceAfter=No
-20	am	avea	AVEA	_	Number=Plur|Person=1	21	aux	_	_
-21	dilit	dili	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+20	am	avea	AUX	_	Person=1	21	aux	_	_
+21	dilit	dili	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 22	toti	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind|Typo=Yes	21	nsubj	_	CorrectForm=toți|SpaceAfter=No
 23	?	?	PUNCT	_	_	21	punct	_	SpaceAfter=No
 24	😅	😅	SYM	_	_	21	discourse	_	_
@@ -4567,7 +4567,7 @@
 15	abuzează	abuza	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
 16	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
 17	fetiță	fetiță	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obj	_	_
-18	de	de	DET	_	AdpType=Prep|Case=Acc	20	case	_	_
+18	de	de	ADP	_	AdpType=Prep|Case=Acc	20	case	_	_
 19	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	20	nummod	_	_
 20	ani	an	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	nmod	_	_
 21	într-	întru	ADP	_	AdpType=Prep|Case=Acc|Variant=Short	23	case	_	SpaceAfter=No
@@ -4644,7 +4644,7 @@
 5	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	cele	cel	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	0	root	_	_
 7	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	_
-8	își	sine	PRON	_	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak 	9	iobj	_	_
+8	își	sine	PRON	_	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	iobj	_	_
 9	pun	pune	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 10	la	la	ADP	_	AdpType=Prep|Case=Acc	11	case	_	_
 11	story	story	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	9	obl	_	Lang=en
@@ -4670,7 +4670,7 @@
 3	după	după	ADP	_	AdpType=Prep|Case=Acc	10	mark	_	_
 4	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	fixed	_	_
 5	ministrul	ministru	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	_
-6	ucrainean	ucrainean	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing 	5	amod	_	_
+6	ucrainean	ucrainean	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 7	al	al	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
 8	Apărării	apărare	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 9	a	avea	AUX	_	Number=Sing|Person=3	10	aux	_	_
@@ -4678,7 +4678,7 @@
 11	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	obj	_	_
 12	din	din	ADP	_	AdpType=Prep|Case=Acc	13	case	_	_
 13	armată	armată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	_
-14	să	să	SCONJ	_	Mood=Sub	15	mark	_	_
+14	să	să	PART	_	Mood=Sub	15	mark	_	_
 15	defileze	defila	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
 16	pe	pe	ADP	_	AdpType=Prep|Case=Acc	17	case	_	_
 17	tocuri	toc	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
