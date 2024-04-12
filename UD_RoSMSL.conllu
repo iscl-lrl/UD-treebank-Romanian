@@ -613,7 +613,7 @@
 14	???	???	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 36-1403544239825379331
-# text = @Utilizator_fem Greu de determinat având în vedere că nu îți pot măsura formele din nicio poză, văzusem deși că ești slăbuță într-o poză 😏🤫
+# text = @Utilizator_fem  @Utilizator_fem Greu de determinat având în vedere că nu îți pot măsura formele din nicio poză. Văzusem deși că ești slăbuță într-o poză 😏🤫
 # text_en = @User_fem Difficult to determine, considering I can't measure your shapes from any picture. However, I had seen that you're slim in one picture 😏🤫
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
@@ -2654,7 +2654,7 @@
 18	🧝	🧝	SYM	_	_	2	discourse	_	_
 
 # sent_id = 131-1396567794024652801
-# text = Odată ce îl lași pe bărbat să îți vorbească cu "fă" , te dezonorezi total ca femeie!
+# text = Odată ce îl lași pe bărbat să îți vorbească cu "fă", te dezonorezi total ca femeie!
 # text_en = Once you let the man talk to you with "fă", you totally dishonor yourself as a woman!
 # language_type = sexist descriptive
 1	Odată	odată	ADV	_	Degree=Pos	4	mark	_	_
@@ -2669,7 +2669,7 @@
 10	cu	cu	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
 11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	fă	fă	INTJ	_	_	9	obl	_	SpaceAfter=No
-13	"	"	PUNCT	_	_	12	punct	_	_
+13	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	16	obj	_	_
 16	dezonorezi	dezonora	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3096,7 +3096,7 @@
 19	"	"	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 148-1409266712973910016
-# text = In drum spre casa parca totul era gresit, numai barbati ciudati si masini care mergeau mega incet pe langa noi, am zis ca mor de inima  Intr un final am ajuns si la hotel adineauri, dar nici acum nu m am linistit sa moara masa, nu mai ies dupa 9 din incinta acestui hotel niciodata 
+# text = In drum spre casa parca totul era gresit, numai barbati ciudati si masini care mergeau mega incet pe langa noi, am zis ca mor de inima. Intr un final am ajuns si la hotel adineauri, dar nici acum nu m am linistit sa moara masa, nu mai ies dupa 9 din incinta acestui hotel niciodata 
 # text_en = On the way home, it seemed like everything was wrong, only strange men and cars that were going super slow beside us, I thought I was going to have a heart attack. Eventually, we arrived at the hotel a little while ago, but even now I haven't calmed down, for heaven's sake, I will never leave this hotel building after 9 again.
 # language_type = sexist reporting
 1	In	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	2	case	_	CorrectForm=în
@@ -3161,7 +3161,7 @@
 60	niciodata	niciodată	ADV	_	Typo=Yes	53	advmod	_	CorrectForm=niciodată
 
 # sent_id = 149-1408388872577466375
-# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure , se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “ NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc, apoi sa imi lase comentarii pe aici nasoale
+# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure, se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc, apoi sa imi lase comentarii pe aici nasoale
 # text_en = 🙄 god, beware of the one who subscribes to women just to swear at them, a fool subscribed yesterday who thinks that for $6 he also gets a blowjob, etc. and when I told him that "I DO NOT DO ESCORT SERVICES" he started harassing me curse etc., then leave me nasty comments here
 # language_type = sexist reporting
 1	🙄	🙄	SYM	_	_	3	discourse	_	_
@@ -3190,7 +3190,7 @@
 24	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	28	mark	_	CorrectForm=că
 25	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	26	case	_	CorrectForm=în
 26	6	6	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	SpaceAfter=No
-27	$	$	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	28	obl	_	_
+27	$	dolar	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	28	obl	_	_
 28	primeste	primi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	23	conj	_	CorrectForm=primește
 29	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	31	advmod	_	CorrectForm=și
 30	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	31	det	_	_
@@ -3306,7 +3306,7 @@
 24	...	...	PUNCT	_	_	16	punct	_	_
 
 # sent_id = 152-1403948378141212673
-# text = O prietena mai intimă și zurlie îmi răspunde la un mesaj de ieri: “Noi, femeile cu bluză și fără sutien, avem întotdeauna dreptate.”   Find bărbat, i-am scris: “când sunteți fără sutien aveți întodeauna dreptate”   Mi-a trimis ❤️ uite de aia o iubesc eu ca pe o soră🥰
+# text = O prietena mai intimă și zurlie îmi răspunde la un mesaj de ieri: “Noi, femeile cu bluză și fără sutien, avem întotdeauna dreptate.” Find bărbat, i-am scris: “când sunteți fără sutien aveți întodeauna dreptate” Mi-a trimis ❤️ uite de aia o iubesc eu ca pe o soră🥰
 # text_en = A more intimate and left-handed friend responds to a post I made yesterday, "We blouse-wearing, bra-less women are always right."   Being a man, I wrote to her: "when you're bra-less you're always right" She sent me ❤️ that's why I love her like a sister🥰
 # language_type = sexist reporting
 1	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
@@ -3676,9 +3676,9 @@
 16	aiba	avea	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=aibă
 17	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	obj	_	_
 18	as	as	SCONJ	_	Foreign=Yes	21	mark	_	Lang=en
-19	if	if	ADV	_	Degree=Pos|Foreign=Yes	21	advmod	_	Lang=en
-20	i	I	PRON	_	Foreign=Yes|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Lang=en
-21	cared	care	VERB	_	Foreign=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	Lang=en
+19	if	if	ADV	_	Foreign=Yes	21	advmod	_	Lang=en
+20	i	I	PRON	_	Foreign=Yes|Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Lang=en
+21	cared	care	VERB	_	Foreign=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	17	advcl	_	Lang=en
 
 # sent_id = 163-1404704117415632896
 # text = faptul ca toate fetele o sa purtam fusta maine e asa comunist
@@ -3788,7 +3788,7 @@
 59	.	.	PUNCT	_	_	43	punct	_	_
 
 # sent_id = 166-1397638937431191554
-# text = Săptămâna asta eu cu câteva colege am ieșit afară în pauză să ne luăm mâncare ( pentru că era pauză) și cum mergeam noi pe stradă am auzit unu' în spatele nostru zicând " mamă ce bulane"
+# text = Săptămâna asta eu cu câteva colege am ieșit afară în pauză să ne luăm mâncare (pentru că era pauză) și cum mergeam noi pe stradă am auzit unu' în spatele nostru zicând "mamă ce bulane"
 # text_en = This week, a few colleagues and I went out during the break to get some food (because it was break time), and as we were walking down the street, we heard someone behind us saying, 'Wow, what beautiful legs'.
 # language_type = sexist reporting
 1	Săptămâna	săptămână	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	_
@@ -3869,7 +3869,7 @@
 
 # sent_id = 168-1404820962558763017
 # text = mergeam si eu liniștită spre gara și mai departe pe o banca stăteau 2 bărbati și se holbau la mine asa ciudat și face unu "cea mai frumoasa fata" 🤢🤮
-# text_en = I was walking calmly towards the train station, and further along, two men were sitting on a bench, staring at me strangely, and one of them said, 'the most beautiful girl.' 🤢🤮
+# text_en = I was walking calmly towards the train station, and further along, two men were sitting on a bench, staring at me strangely, and one of them said, 'the most beautiful girl' 🤢🤮
 # language_type = sexist reporting
 1	mergeam	merge	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	3	advmod	_	CorrectForm=și
@@ -4690,7 +4690,7 @@
 23	...	...	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 190-1412017250123583489
-# text = Un infractor, scrântit la minte, uite circ, femei legate cu lanț, mare e grădina Ta, Doamne, pulă ăsta era lipit de sărac.
+# text = Un infractor...scrântit la minte! Uite circ! Femei legate cu lanț. Mare e grădina Ta,  Doamne... Pulă ăsta era lipit de sărac.
 # text_en = A criminal, out of his mind, Look at the circus, Women in chains, Your garden is big, God, This dick was stuck to the poor.
 # language_type = sexist reporting
 1	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
@@ -4870,7 +4870,7 @@
 18	😭	😭	SYM	_	_	4	discourse	_	_
 
 # sent_id = 195-1412394225686171651
-# text = Fetita unui cunoscut misogin in extremis, care ar sexualiza si picioarele unei mese, a ajuns la adolescenta.   Iar eu oscilez intre Schadenfreude si empatie feminina.
+# text = Fetita unui cunoscut misogin in extremis, care ar sexualiza si picioarele unei mese, a ajuns la adolescenta. Iar eu oscilez intre Schadenfreude si empatie feminina.
 # text_en = The daughter of a notorious misogynist in extremis, who would even sexualize the legs of a table, has reached her teens. And I oscillate between Schadenfreude and feminine empathy.
 # language_type = sexist reporting
 1	Fetita	fetiță	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	17	nsubj	_	CorrectForm=Fetița
@@ -4996,7 +4996,7 @@
 52	.	.	PUNCT	_	_	46	punct	_	_
 
 # sent_id = 198-1407589987378466819
-# text = @Utilizator_x1 @Utilizator_x2 Sa vina  Alaltaieri unu cu drujba i-a tăiat capul soției așa ca toporul este arta
+# text = @Utilizator_x1 @Utilizator_x2 Sa vina Alaltaieri unu cu drujba i-a tăiat capul soției așa ca toporul este arta
 # text_en = @User_x1 @User_x2 Come the day before yesterday, one with a chainsaw chopped off his wife's head like an axe, it's art
 # language_type = sexist reporting
 1	@Utilizator_x1	@Utilizator_x1	PROPN	_	_	11	vocative	_	_
