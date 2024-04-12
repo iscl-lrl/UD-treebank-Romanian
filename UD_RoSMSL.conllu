@@ -641,8 +641,8 @@
 23	într-	întru	ADP	_	AdpType=Prep|Case=Acc	25	case	_	SpaceAfter=No
 24	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
 25	poză	poză	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	obl	_	_
-26	😏	😏	SYM	_	_	18	discourse:emo	_	_
-27	🤫	🤫	SYM	_	_	18	discourse:emo	_	_
+26	😏	😏	SYM	_	_	2	discourse:emo	_	SpaceAfter=No
+27	🤫	🤫	SYM	_	_	2	discourse:emo	_	_
 
 # sent_id = 37-1410439705666146304
 # text = @Utilizator_fem AI OCHII FRUMOȘI ȘI SÂNII FRUMOȘI ȘI FUNDULET FRUMOS  ȘI BUZE FRUMOSE PUPICI DULCI ȘI TE ADOR PUPICI DULCI PUPICI DULCI
