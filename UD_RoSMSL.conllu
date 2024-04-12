@@ -2980,12 +2980,12 @@
 15	găsită	găsit	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
 16	moartă	mort	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	15	xcomp	_	_
 17	,	,	PUNCT	_	_	14	punct	_	SpaceAfter=No
-18	este	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+18	este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 19	din	din	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
 20	cauza	cauză	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	fixed	_	_
 21	femeii	femeie	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	7	ccomp	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	7	punct	_	_
-23	Dacă	dacă	ADV	_	Polarity=Pos	25	mark	_	_
+23	Dacă	dacă	ADV	_	_	25	mark	_	_
 24	nu	nu	PART	_	Polarity=Neg	25	advmod	_	_
 25	dădea	da	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	advcl	_	_
 26	divorț	divorț	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	25	obj	_	_
@@ -2995,7 +2995,7 @@
 30	fetele	fată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	32	nsubj	_	_
 31	nu	nu	PART	_	Polarity=Neg	32	advmod	_	_
 32	pățeau	păți	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
-33	nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	32	obj	_	SpaceAfter=No
+33	nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	32	obj	_	_
 34	,	,	PUNCT	_	_	37	punct	_	SpaceAfter=No
 35	și	și	CCONJ	_	Polarity=Pos	37	cc	_	_
 36	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	37	expl	_	_
@@ -3018,12 +3018,12 @@
 # text = as fosta profa de romana would say “de frumoasa esti frumoasa si de desteapta esti frumoasa”
 # text_en = As my Romanian teacher would say, "You are beautiful in your beauty and intelligent in your beauty."
 # language_type = sexist reporting
-1	as	as	ADV	_	Foreign=Yes|PronType=Int,Rel	7	advmod	_	Lang=en
+1	as	as	ADV	_	Foreign=Yes	7	advmod	_	Lang=en
 2	fosta	fost	ADJ	_	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	profa	profesor	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	CorrectForm=profă
 4	de	de	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
 5	romana	română	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	CorrectForm=română
-6	would	be	AUX	_	Foreign=Yes|Number=Sing|Person=3	7	aux	_	Lang=en
+6	would	be	AUX	_	Number=Sing|Person=3	7	aux	_	Lang=en
 7	say	say	VERB	_	Foreign=Yes|Tense=Pres|VerbForm=Inf	0	root	_	Lang=en
 8	“	“	PUNCT	_	_	10	punct	_	SpaceAfter=No
 9	de	de	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
@@ -3096,7 +3096,7 @@
 19	"	"	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 148-1409266712973910016
-# text = In drum spre casa parca totul era gresit, numai barbati ciudati si masini care mergeau mega incet pe langa noi, am zis ca mor de inima. Intr un final am ajuns si la hotel adineauri, dar nici acum nu m am linistit sa moara masa, nu mai ies dupa 9 din incinta acestui hotel niciodata 
+# text = In drum spre casa parca totul era gresit, numai barbati ciudati si masini care mergeau mega incet pe langa noi, am zis ca mor de inima. Intr un final am ajuns si la hotel adineauri, dar nici acum nu m am linistit sa moara masa, nu mai ies dupa 9 din incinta acestui hotel niciodata
 # text_en = On the way home, it seemed like everything was wrong, only strange men and cars that were going super slow beside us, I thought I was going to have a heart attack. Eventually, we arrived at the hotel a little while ago, but even now I haven't calmed down, for heaven's sake, I will never leave this hotel building after 9 again.
 # language_type = sexist reporting
 1	In	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	2	case	_	CorrectForm=în
@@ -3106,7 +3106,7 @@
 5	parca	parcă	ADV	_	Degree=Pos|Typo=Yes	8	advmod	_	CorrectForm=parcă
 6	totul	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
 7	era	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
-8	gresit	greși	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Typo=Yes	0	root	_	CorrectForm=greșit|SpaceAfter=No
+8	gresit	greși	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	0	root	_	CorrectForm=greșit|SpaceAfter=No
 9	,	,	PUNCT	_	_	24	punct	_	_
 10	numai	numai	ADV	_	Degree=Pos	11	advmod	_	_
 11	barbati	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	24	nsubj	_	CorrectForm=bărbați
@@ -3142,7 +3142,7 @@
 41	nici	nici	ADV	_	PronType=Neg	42	advmod	_	_
 42	acum	acum	ADV	_	Degree=Pos	46	advmod	_	_
 43	nu	nu	PART	_	Polarity=Neg	46	advmod	_	_
-44	m	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	46	obj	_	CorrectForm=m-|SpaceAfter=No
+44	m	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	46	obj	_	CorrectForm=m-
 45	am	avea	AUX	_	Person=1	46	aux	_	_
 46	linistit	liniști	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	34	conj	_	CorrectForm=liniștit
 47	sa	să	PART	_	Mood=Sub|Typo=Yes	48	mark	_	CorrectForm=să
@@ -3991,7 +3991,7 @@
 23	'	'	PUNCT	_	_	26	punct	_	SpaceAfter=No
 24	I	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	26	iobj	_	SpaceAfter=No
 25	-AI	avea	AUX	_	Number=Sing|Person=2	26	aux	_	_
-26	PERMIS	permite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis 	_	_
+26	PERMIS	permite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis _	_
 27	SA	să	PART	_	Mood=Sub|Typo=Yes	29	mark	_	CorrectForm=să
 28	TE	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	29	obj	_	_
 29	BATA	bate	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	26	ccomp	_	CorrectForm=bată
@@ -4017,7 +4017,7 @@
 49	ACCEPTI	accepta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	53	advcl	_	CorrectForm=accepți
 50	LUCRURILE	lucru	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	49	obj	_	_
 51	ASTEA	acesta	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|Position=Postnom|PronType=Dem	50	det	_	_
-52	O	el	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	53	obj	_	_
+52	O	el	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	53	obj	_	_
 53	MERITI	merita	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	26	conj	_	CorrectForm=meriți
 54	CA	că	SCONJ	_	Polarity=Pos|Typo=Yes	55	mark	_	CorrectForm=că
 55	PERMITI	permite	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	53	ccomp	_	CorrectForm=permiți
