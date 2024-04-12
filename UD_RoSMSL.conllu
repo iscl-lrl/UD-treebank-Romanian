@@ -472,7 +472,7 @@
 15	să	să	PART	_	Mood=Sub	17	mark	_	_
 16	ne	eu	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	17	expl:pv	_	_
 17	simțim	simți	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
-18	amândoi	amândoi	NUM	_	Case=Acc,Nom|Gender=Masc|PronType=Tot|NumType=Card|Number=Plur	19	nummod	_	_
+18	amândoi	amândoi	NUM	_	Case=Acc,Nom|Gender=Masc|PronType=Tot|Number=Plur|NumType=Card	19	nummod	_	_
 19	bine	bine	ADV	_	Degree=Pos	17	advmod	_	SpaceAfter=No
 20	!	!	PUNCT	_	_	3	punct	_	_
 
@@ -503,7 +503,7 @@
 5	sexy	sexy	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 
 # sent_id = 30-1404411498533896193
-# text = Dacă cineva ți-ar da 200 € pentru că ești urâtă, i-ai lua?
+# text = Dacă cineva ți-ar da 200€ pentru că ești urâtă, i-ai lua?
 # text_en = If someone gave you 200€ because you're ugly, would you take it?
 # language_type = sexist direct
 1	Dacă	dacă	SCONJ	_	Polarity=Pos	5	mark	_	_
@@ -512,7 +512,7 @@
 4	ar	avea	AUX	_	Person=3	5	aux	_	_
 5	da	da	VERB	_	Tense=Pres|VerbForm=Inf	15	parataxis	_	_
 6	200	200	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
-7	€	euro	NOUN	_	Definite=Ind|Gender=Mas	5	obj	_	_
+7	€	€	SYM	_	_	5	obj	_	_
 8	pentru	pentru	ADP	_	AdpType=Prep|Case=Acc	11	mark	_	_
 9	că	că	SCONJ	_	Polarity=Pos	8	fixed	_	_
 10	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	_
@@ -635,14 +635,14 @@
 17	.	.	PUNCT	_	_	11	punct	_	_
 18	Văzusem	vedea	VERB	_	Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin	2	parataxis	_	_
 19	deși	deși	SCONJ	_	Polarity=Pos	22	mark	_	_
-20	că	că	PART	_	Polarity=Pos	22	mark	_	_
+20	că	că	SCONJ	_	Polarity=Pos	22	mark	_	_
 21	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	slăbuță	slab	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	ccomp	_	_
 23	într-	întru	ADP	_	AdpType=Prep|Case=Acc	25	case	_	SpaceAfter=No
 24	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
 25	poză	poză	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	obl	_	_
-26	😏	😏	SYM	_	_	2	discourse:emo	_	SpaceAfter=No
-27	🤫	🤫	SYM	_	_	2	discourse:emo	_	_
+26	😏	😏	SYM	_	_	2	discourse	_	SpaceAfter=No
+27	🤫	🤫	SYM	_	_	2	discourse	_	_
 
 # sent_id = 37-1410439705666146304
 # text = @Utilizator_fem AI OCHII FRUMOȘI ȘI SÂNII FRUMOȘI ȘI FUNDULET FRUMOS  ȘI BUZE FRUMOSE PUPICI DULCI ȘI TE ADOR PUPICI DULCI PUPICI DULCI
@@ -677,12 +677,12 @@
 # language_type = sexist direct
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
 2	FRUMOASA	frumos	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=frumoasă
-3	FOC	foc	ADJ	_	Degree=Sup	2	amod	_	_
+3	FOC	foc	ADJ	_	Definite=Ind|Degree=Sup|Gender=Fem|Number=Sing	2	amod	_	_
 4	ESTI	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	2	cop	_	CorrectForm=ești
-5	ȘI	și	CCONJ	_	Polarity=Pos	6	conj	_	_
+5	ȘI	și	CCONJ	_	Polarity=Pos	6	cc	_	_
 6	SEXSY	sexy	ADJ	_	Foreign=Yes|Gender=Fem|Number=Sing|Typo=Yes	2	conj	_	CorrectForm=sexy|Lang=en
 7	ȘI	și	CCONJ	_	Polarity=Pos	8	cc	_	_
-8	AI	avea	AUX	_	Number=Sing|Person=2	2	conj	_	_
+8	AI	avea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
 9	OCHII	ochi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	_
 10	FRUMOȘI	frumos	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
 11	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	8	conj	_	_
@@ -690,19 +690,19 @@
 13	ȘI	și	CCONJ	_	Polarity=Pos	15	cc	_	_
 14	TE	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	15	expl:pv	_	_
 15	ADOR	adora	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
-16	ALEXANDRA	ALEXANDRA	PROPN	_	_	15	nsubj	_	_
+16	ALEXANDRA	ALEXANDRA	PROPN	_	_	2	appos	_	_
 17	STAN	STAN	PROPN	_	_	16	flat	_	_
-18	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	appos	_	_
+18	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
 19	DULCI	dulce	ADJ	_	Definite=Ind|Gender=Masc|Number=Plur	18	amod	_	_
-20	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	appos	_	_
+20	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
 21	DULCI	dulce	ADJ	_	Definite=Ind|Gender=Masc|Number=Plur	20	amod	_	_
-22	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	appos	_	_
+22	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
 23	DULCI	dulce	ADJ	_	Definite=Ind|Gender=Masc|Number=Plur	22	amod	_	_
-24	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	appos	_	_
+24	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
 25	DULCI	dulce	ADJ	_	Definite=Ind|Gender=Masc|Number=Plur	24	amod	_	_
-26	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	appos	_	_
+26	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
 27	DULCI	dulce	ADJ	_	Definite=Ind|Gender=Masc|Number=Plur	26	amod	_	_
-28	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	appos	_	_
+28	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
 
 # sent_id = 39-1402167259423023105
 # text = @Utilizator_fem Hmmmm, aș vrea și eu un așa party cu o fată așa frumoasă.
