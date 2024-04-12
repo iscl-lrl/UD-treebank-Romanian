@@ -4984,7 +4984,7 @@
 40	asta	acesta	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem|Typo=Yes	36	obl	_	CorrectForm=ăsta
 41	degetele	deget	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	36	obj	_	_
 42	intre	între	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	43	case	_	CorrectForm=între
-43	usa	ușă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	36	obl	_	CorrectForm=ușă
+43	usa	ușă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	36	obl	_	CorrectForm=ușă|SpaceAfter=No
 44	,	,	PUNCT	_	_	36	punct	_	_
 45	tot	tot	ADV	_	_	46	advmod	_	_
 46	primesc	primi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5019,7 +5019,7 @@
 18	arta	artă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	11	conj	_	CorrectForm=artă
 
 # sent_id = 199-1404783548171706371
-# text = că ea îl iubește de fapt pe Irinel și că nu vrea să se despartă de el, Mirela Vaida spune: "Mașinăria contează, nu ce zice femeia" .   Irinel recunoaște într-un final că a amenințat-o atât pe femei, cât și pe copilul ei cu moartea.
+# text = că ea îl iubește de fapt pe Irinel și că nu vrea să se despartă de el, Mirela Vaida spune: "Mașinăria contează, nu ce zice femeia". Irinel recunoaște într-un final că a amenințat-o atât pe femei, cât și pe copilul ei cu moartea.
 # text_en = that she actually loves Irinel and doesn't want to break up with him, Mirela Vaida says: "The machine matters, not what the woman says".   Irinel finally admits that he has threatened both the woman and her child with death.
 # language_type = sexist reporting
 1	că	că	SCONJ	_	Polarity=Pos	4	mark	_	_
@@ -5035,7 +5035,7 @@
 11	nu	nu	PART	_	Polarity=Neg	12	advmod	_	_
 12	vrea	vrea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
 13	să	să	PART	_	Mood=Sub	15	mark	_	_
-14	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak 	15	expl:pv	_	_
+14	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	15	expl:pv	_	_
 15	despartă	despărți	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
 16	de	de	ADP	_	AdpType=Prep|Case=Acc	17	case	_	_
 17	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	15	obl:pmod	_	SpaceAfter=No
@@ -5098,8 +5098,8 @@
 5	,	,	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	am	avea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 7	carucior	cărucior	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	6	obj	_	CorrectForm=cărucior|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	_
-9	vad	vedea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Typo=Yes	0	root	_	CorrectForm=văd
+8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	vad	vedea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=văd
 10	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	13	mark	_	CorrectForm=că
 11	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	barbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	13	nsubj	_	CorrectForm=bărbat
@@ -5131,21 +5131,21 @@
 38	strain	străin	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	36	iobj	_	CorrectForm=străin
 39	fiind	fi	AUX	_	VerbForm=Ger	40	cop	_	_
 40	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	34	nsubj	_	SpaceAfter=No
-41	.	.	PUNCT	_	_	29	punct	_	_
+41	.	.	PUNCT	_	_	29	punct	_	SpaceAfter=No
 42	boul	bou	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	43	nsubj	_	_
 43	ia	lua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 44	caruciorul	cărucior	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Typo=Yes	43	obj	_	CorrectForm=căruciorul|SpaceAfter=No
 45	,	,	PUNCT	_	_	54	punct	_	_
 46	nici	nici	ADV	_	PronType=Neg	48	advmod	_	_
 47	buna	bună	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	48	amod	_	CorrectForm=bună
-48	ziua	zi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	54	obj	_	_
+48	ziua	zi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	54	obj	_	SpaceAfter=No
 49	nici	nici	ADV	_	PronType=Neg	50	advmod	_	_
 50	multumesc	mulțumesc	INTJ	Typo=Yes	_	54	obj	_	CorrectForm=mulțumesc
 51	nu	nu	PART	_	Polarity=Neg	54	advmod	_	_
 52	mi-	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	54	iobj	_	SpaceAfter=No
 53	a	avea	AUX	_	Number=Sing|Person=3	54	aux	_	_
 54	zis	zice	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	43	conj	_	_
-55	si	și	CCONJ	_	Polarity=Pos	56	cc	_	_
+55	si	și	CCONJ	_	Polarity=Pos	56	cc	_	CorrectForm=și
 56	pleaca	pleca	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	54	conj	_	CorrectForm=pleacă|SpaceAfter=No
 57	.	.	PUNCT	_	_	43	punct	_	_
 
@@ -5186,7 +5186,7 @@
 7	unu	unul	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind|Typo=Yes	6	nsubj	_	CorrectForm=unul
 8	la	la	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
 9	tine	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	obl	_	_
-10	să	să	PART	_	Mood=Sub	12	mark	_	SpaceAfter=No
+10	să	să	PART	_	Mood=Sub	12	mark	_	_
 11	ti	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	12	iobj	_	CorrectForm=-ți
 12	zică	zice	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
@@ -5260,7 +5260,7 @@
 39	stradă	stradă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
 40	.	.	PUNCT	_	_	30	punct	_	_
 41	Nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	47	nsubj	_	_
-42	ostentativ	ostentativ	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing 	41	amod	_	_
+42	ostentativ	ostentativ	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
 43	și	și	CCONJ	_	_	47	cc	_	_
 44	nimeni	nimeni	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	47	nsubj	_	_
 45	nu	nu	PART	_	Polarity=Neg	47	advmod	_	_
