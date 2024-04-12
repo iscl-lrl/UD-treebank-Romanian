@@ -4949,7 +4949,7 @@
 5	putza	puță	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	3	nmod	_	CorrectForm=puța
 6	mica	mic	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	5	amod	_	CorrectForm=mică
 7	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	_
-8	injura	înjura	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Typo=Yes	3	acl	_	CorrectForm=înjură
+8	injura	înjura	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	acl	_	CorrectForm=înjură
 9	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	_
 10	daca	dacă	SCONJ	_	Polarity=Pos|Typo=Yes	13	mark	_	CorrectForm=dacă
 11	nu	nu	PART	_	Polarity=Neg	13	advmod	_	_
