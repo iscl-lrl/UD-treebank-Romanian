@@ -5205,7 +5205,7 @@
 26	mai	mai	ADV	_	_	27	advmod	_	_
 27	criticați	critica	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	_
 28	fetele	fată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	27	obj	_	_
-29	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	31	mark	_	CorrectForm=că|SpaceAfter=No
+29	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	31	mark	_	CorrectForm=că
 30	s	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|Variant=Short|VerbForm=Fin	31	cop	_	CorrectForm=-s
 31	feministe	feminist	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	27	advcl	_	_
 32	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	33	mark	_	CorrectForm=că
@@ -5264,7 +5264,7 @@
 43	și	și	CCONJ	_	_	47	cc	_	_
 44	nimeni	nimeni	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	47	nsubj	_	_
 45	nu	nu	PART	_	Polarity=Neg	47	advmod	_	_
-46	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak 	47	expl:pv	_	_
+46	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	47	expl:pv	_	_
 47	holba	holba	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	47	punct	_	_
 49	Nu	nu	PART	_	Polarity=Neg	50	advmod	_	_
@@ -5291,7 +5291,7 @@
 5	la	la	ADP	_	AdpType=Prep|Case=Acc	4	fixed	_	_
 6	rapel	rapel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
 7	a	avea	AUX	_	Number=Sing|Person=3	11	aux	_	_
-8	fost	fi	AUX	_	Gender=Fem|Number=Sing|VerbForm=Part	11	cop	_	_
+8	fost	fi	AUX	_	Number=Sing|VerbForm=Part	11	cop	_	_
 9	asa	așa	ADV	_	Degree=Pos|Typo=Yes	11	advmod	_	CorrectForm=așa
 10	de	de	ADP	_	AdpType=Prep|Case=Acc	11	case	_	_
 11	atentă	atent	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
@@ -5334,7 +5334,7 @@
 7	Gheorghidiu	Gheorghidiu	PROPN	_	_	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	_
 9	propune	propune	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-10	imaginea	imagine 	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	_
+10	imaginea	imagine	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	_
 11	unei	un	DET	_	Case=Dat,Gen|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
 12	fiinţe	fiinţă	NOUN	_	Case=Dat,Gen|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
 13	slabe	slab	ADJ	_	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
@@ -5348,7 +5348,7 @@
 21	admiraţie	admiraţie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	conj	_	_
 22	faţă	faţă	ADV	_	_	24	advmod	_	_
 23	de	de	ADP	_	AdpType=Prep|Case=Acc	22	fixed	_	_
-24	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+24	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	_
 25	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
 26	bagamias	băga	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	9	conj	_	CorrectForm=băga-mi-aş
 
