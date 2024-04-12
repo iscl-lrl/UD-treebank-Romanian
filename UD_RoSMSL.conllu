@@ -1556,7 +1556,7 @@
 13	Ca	ca	ADV	_	_	16	mark	_	_
 14	să	să	PART	_	Mood=Sub	16	mark	_	_
 15	nu	nu	PART	_	Polarity=Neg	16	advmod	_	_
-16	pară	părea	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	pară	părea	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 17	disperate	disperat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	16	xcomp	_	SpaceAfter=No
 18	..	.	PUNCT	_	_	16	punct	_	_
 
@@ -1610,7 +1610,7 @@
 12	i	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	15	iobj	_	_
 13	fii	fi	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	SpaceAfter=No
 14	:	:	PUNCT	_	_	15	punct	_	_
-15	prieten	prieten	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
+15	prieten	prieten	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	csubj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	partener	partener	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
@@ -1749,7 +1749,7 @@
 16	kile	kil	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	13	nmod	_	_
 17	fara	fără	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	18	case	_	CorrectForm=fără
 18	țațe	țâță	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur|Typo=Yes	13	nmod	_	CorrectForm=țâțe
-19	-	-	PUNCT	_	_	20	cc	_	SpaceAfter=No
+19	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
 20	fără	fără	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
 21	cur	cur	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	13	conj	_	_
 22	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
@@ -1871,7 +1871,7 @@
 9	cu	cu	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
 10	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	obl	_	_
 11	și	și	CCONJ	_	Polarity=Pos	7	cc	_	_
-12	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	nsubj	_	_
+12	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	expl	_	_
 13	cu	cu	ADP	_	AdpType=Prep|Case=Acc	15	case	_	_
 14	încă	încă	ADV	_	Degree=Pos	15	advmod	_	_
 15	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	7	obl	_	_
@@ -1951,16 +1951,16 @@
 7	stereotip	stereotip	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
 8	al	al	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	_
 9	femeilor	femeie	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	7	nmod	_	_
-10	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	SpaceAfter=No
+10	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	17	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	13	expl:pv	_	_
-13	cred	crede	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
+13	cred	crede	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	parataxis	_	_
 14	ele	el	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Strong	13	nsubj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	13	punct	_	_
-16	că	că	SCONJ	_	Polarity=Pos	19	mark	_	_
-17	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+16	că	că	SCONJ	_	Polarity=Pos	17	mark	_	_
+17	sunt	fi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
 18	de	de	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
-19	succes	succes	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	9	acl	_	SpaceAfter=No
+19	succes	succes	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 21	Machiate	machiat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	1	parataxis	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	_
