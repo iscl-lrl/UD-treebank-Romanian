@@ -3598,7 +3598,7 @@
 19	...	...	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 161-1403717482951720960
-# text = @Utilizator_fem Așa este. Nici nu știu cum să mă exprim când aud la știri despre cazuri cu femei omorâte de perechea lor . Azi au dat alt caz de o femeie ucisă ,au ajuns la 20 de la începutul anului. 😡  Mare parte din vină o are justiția .
+# text = @Utilizator_fem Așa este. Nici nu știu cum să mă exprim când aud la știri despre cazuri cu femei omorâte de perechea lor. Azi au dat alt caz de o femeie ucisă, au ajuns la 20 de la începutul anului. 😡 Mare parte din vină o are justiția.
 # text_en = @User_fem That's right. I don't even know how to express myself when I hear on the news about cases of women being killed by their partners. Today they gave another case of a murdered woman, they have reached 20 since the beginning of the year. 😡 Much of the blame lies with the judiciary.
 # language_type = sexist reporting
 1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
@@ -3651,7 +3651,7 @@
 48	vină	vină	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	46	nmod	_	_
 49	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	50	expl	_	_
 50	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-51	justiția	justiție	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	50	nsubj	_	_
+51	justiția	justiție	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	50	nsubj	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	50	punct	_	_
 
 # sent_id = 162-1408534879873155072
@@ -3675,7 +3675,7 @@
 15	sa	să	PART	_	Mood=Sub|Typo=Yes	16	mark	_	CorrectForm=să
 16	aiba	avea	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=aibă
 17	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	obj	_	_
-18	as	as	ADP	_	AdpType=Prep|Case=Acc|Foreign=Yes	21	mark	_	Lang=en
+18	as	as	SCONJ	_	Foreign=Yes	21	mark	_	Lang=en
 19	if	if	ADV	_	Degree=Pos|Foreign=Yes	21	advmod	_	Lang=en
 20	i	I	PRON	_	Foreign=Yes|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Lang=en
 21	cared	care	VERB	_	Foreign=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	Lang=en
