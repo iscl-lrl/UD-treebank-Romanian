@@ -797,7 +797,7 @@
 35	fumezi	fuma	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	32	ccomp	_	_
 36	tig	țigară	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	35	obj	_	CorrectForm=țigara
 37	de	de	ADP	_	AdpType=Prep|Case=Acc	38	case	_	_
-38	dupa	după	ADV	_	AdpType=Prep|Case=Acc|Typo=Yes	36	advmod	_	CorrectForm=după
+38	dupa	după	ADV	_	Typo=Yes	36	advmod	_	CorrectForm=după
 
 # sent_id = 43-1395996421208297472
 # text = @Utilizator_fem Eu o am, tu ești uda?
