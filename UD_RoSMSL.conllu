@@ -337,7 +337,7 @@
 10	magie	magie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
 11	faci	face	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	_
-13	de	de	ADP	_	AdpType=Prep|Case=Ac	14	case	_	_
+13	de	de	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	unde	unde	ADV	_	PronType=Int,Rel	16	advmod	_	_
 15	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	16	obj	_	_
 16	scoți	scoate	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
