@@ -3226,7 +3226,7 @@
 60	nasoale	nasol	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	56	xcomp	_	_
 
 # sent_id = 150-1403361326412484611
-# text = O femeie a plecat de la soțul ei cu cei doi copii , fiindcă era agresată de soț. Justiția a condamnat-o pe femeie la 2,5ani de închisoare și 12000euro amendă ,pentru răpirea propriilor copii. Azi a intrat în închisoare .
+# text = O femeie a plecat de la soțul ei cu cei doi copii, fiindcă era agresată de soț. Justiția a condamnat-o pe femeie la 2,5ani de închisoare și 12000euro amendă, pentru răpirea propriilor copii. Azi a intrat în închisoare.
 # text_en = A woman left her husband's house with her two children because she was being assaulted by her husband. The court sentenced the woman to 2.5 years in prison and a €12,000 fine for kidnapping her children. Today she went to prison.
 # language_type = sexist reporting
 1	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
@@ -3239,7 +3239,7 @@
 8	ei	lui	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	obl	_	_
 9	cu	cu	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
 10	cei	cel	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
-11	doi	doi	NUM	_	Gender=Masc|NumForm=Word|NumType=Card|Number=Plur	12	nummod	_	_
+11	doi	doi	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
 12	copii	copil	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	_
 14	fiindcă	fiindcă	SCONJ	_	Polarity=Pos	16	mark	_	_
