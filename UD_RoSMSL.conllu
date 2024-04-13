@@ -3018,7 +3018,7 @@
 # text = as fosta profa de romana would say “de frumoasa esti frumoasa si de desteapta esti frumoasa”
 # text_en = As my Romanian teacher would say, "You are beautiful in your beauty and intelligent in your beauty."
 # language_type = sexist reporting
-1	as	as	ADV	_	Foreign=Yes	7	advmod	_	Lang=en
+1	as	as	ADV	_	_	7	advmod	_	Lang=en
 2	fosta	fost	ADJ	_	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	profa	profesor	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	CorrectForm=profă
 4	de	de	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
@@ -3161,7 +3161,7 @@
 60	niciodata	niciodată	ADV	_	Typo=Yes	53	advmod	_	CorrectForm=niciodată
 
 # sent_id = 149-1408388872577466375
-# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure, se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc, apoi sa imi lase comentarii pe aici nasoale
+# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure, se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc apoi sa imi lase comentarii pe aici nasoale
 # text_en = 🙄 god, beware of the one who subscribes to women just to swear at them, a fool subscribed yesterday who thinks that for $6 he also gets a blowjob, etc. and when I told him that "I DO NOT DO ESCORT SERVICES" he started harassing me curse etc., then leave me nasty comments here
 # language_type = sexist reporting
 1	🙄	🙄	SYM	_	_	3	discourse	_	_
@@ -3208,7 +3208,7 @@
 42	FAC	face	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	38	ccomp	_	_
 43	SERVICI	serviciu	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	42	obj	_	CorrectForm=serviciu
 44	DE	de	ADP	_	AdpType=Prep|Case=Acc	45	case	_	_
-45	ESCORTA	escortă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	43	nmod	_	CorrectForm=escortă
+45	ESCORTA	escortă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	43	nmod	_	CorrectForm=escortă|SpaceAfter=No
 46	”	”	PUNCT	_	_	42	punct	_	SpaceAfter=No
 47	Incepuse	începe	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|Typo=Yes|VerbForm=Fin	38	ccomp	_	CorrectForm=începuse
 48	sa	să	PART	_	Mood=Sub|Typo=Yes	50	mark	_	CorrectForm=să
