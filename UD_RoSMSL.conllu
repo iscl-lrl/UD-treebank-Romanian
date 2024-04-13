@@ -2002,22 +2002,22 @@
 58	.	.	PUNCT	_	_	49	punct	_	_
 
 # sent_id = 102-1398562091569659911
-# text = ce ușor e sa fii fată , tot ce trebuie să faci e să îți pui gene, unghii și să te superi din orice
+# text = ce ușor e sa fii fată, tot ce trebuie să faci e să îți pui gene, unghii și să te superi din orice
 # text_en = How easy it is to be a girl, all you have to do is put on eyelashes, nails, and get upset over anything
 # language_type = sexist descriptive
-1	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	nsubj	_	_
-2	ușor	ușor	ADV	_	Degree=Pos	13	csubj	_	_
+1	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	advmod	_	_
+2	ușor	ușor	ADV	_	Degree=Pos	0	root	_	_
 3	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	sa	să	PART	_	Mood=Sub	6	mark	_	CorrectForm=să
 5	fii	fi	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	fată	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
+6	fată	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	csubj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	tot	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_
-9	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	_
+8	tot	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	appos	_	_
+9	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	obj	_	_
 10	trebuie	trebuie	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
 11	să	să	PART	_	Mood=Sub	12	mark	_	_
 12	faci	face	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	csubj	_	_
-13	e	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	e	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 14	să	să	PART	_	Mood=Sub	16	mark	_	_
 15	îți	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	16	expl:poss	_	_
 16	pui	pune	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	xcomp	_	_
