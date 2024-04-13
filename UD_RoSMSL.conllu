@@ -3161,7 +3161,7 @@
 60	niciodata	niciodată	ADV	_	Typo=Yes	53	advmod	_	CorrectForm=niciodată
 
 # sent_id = 149-1408388872577466375
-# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure, se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc apoi sa imi lase comentarii pe aici nasoale
+# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure, se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc, apoi sa imi lase comentarii pe aici nasoale
 # text_en = 🙄 god, beware of the one who subscribes to women just to swear at them, a fool subscribed yesterday who thinks that for $6 he also gets a blowjob, etc. and when I told him that "I DO NOT DO ESCORT SERVICES" he started harassing me curse etc., then leave me nasty comments here
 # language_type = sexist reporting
 1	🙄	🙄	SYM	_	_	3	discourse	_	_
@@ -3209,7 +3209,7 @@
 43	SERVICI	serviciu	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	42	obj	_	CorrectForm=serviciu
 44	DE	de	ADP	_	AdpType=Prep|Case=Acc	45	case	_	_
 45	ESCORTA	escortă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	43	nmod	_	CorrectForm=escortă|SpaceAfter=No
-46	”	”	PUNCT	_	_	42	punct	_	SpaceAfter=No
+46	”	”	PUNCT	_	_	42	punct	_	_
 47	Incepuse	începe	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|Typo=Yes|VerbForm=Fin	38	ccomp	_	CorrectForm=începuse
 48	sa	să	PART	_	Mood=Sub|Typo=Yes	50	mark	_	CorrectForm=să
 49	ma	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Typo=Yes	50	obj	_	CorrectForm=mă
@@ -3255,7 +3255,7 @@
 24	pe	pe	ADP	_	AdpType=Prep|Case=Acc	25	case	_	_
 25	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	22	obj	_	_
 26	la	la	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
-27	2,5	2.5	NUM	_	Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	28	nummod	_	CorrectForm=2.5
+27	2,5	2.5	NUM	_	Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	28	nummod	_	CorrectForm=2.5|SpaceAfter=No
 28	ani	an	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	22	obl	_	_
 29	de	de	ADP	_	AdpType=Prep|Case=Acc	30	case	_	_
 30	închisoare	închisoare	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	28	nmod	_	_
@@ -3376,7 +3376,7 @@
 # language_type = sexist reporting
 1	Ce	ce	ADV	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	advmod	_	_
 2	ușor	ușor	ADV	_	Degree=Pos	0	root	_	_
-3	e	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+3	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	să	să	PART	_	Mood=Sub	5	mark	_	_
 5	zici	zice	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 6	că	că	SCONJ	_	Polarity=Pos	10	mark	_	_
@@ -3474,7 +3474,7 @@
 14	considera	considera	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	11	acl	_	CorrectForm=consideră
 15	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	18	mark	_	CorrectForm=că
 16	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	18	nsubj	_	_
-17	n	nu	PART	_	Polarity=Neg|Typo=Yes|Variant=Short	18	advmod	_	CorrectForm=n-|SpaceAfter=No
+17	n	nu	PART	_	Polarity=Neg|Typo=Yes|Variant=Short	18	advmod	_	CorrectForm=n-
 18	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 19	niciun	nici_un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Neg	20	det	_	_
 20	fel	fel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	_
@@ -3539,13 +3539,13 @@
 3	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	adolescentă	adolescent	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 5	a	avea	AUX	_	Number=Sing|Person=3	7	aux	_	_
-6	fost	fi	AUX	_	Gender=Fem|Number=Sing|VerbForm=Part	7	aux:pas	_	_
-7	violată	violat 	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	parataxis	_	_
+6	fost	fi	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	7	aux:pass	_	_
+7	violată	violat	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	parataxis	_	_
 8	de	de	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
 9	toți	tot	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	10	det	_	_
 10	bărbații	bărbat	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	obl:agent	_	_
 11	prezenți	prezent	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
-12	la	la	ADP	_	AdpType=Prep|Case=Ac	14	case	_	_
+12	la	la	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 13	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
 14	petrecere	petrecere	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	_
 15	în	în	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
@@ -3675,9 +3675,9 @@
 15	sa	să	PART	_	Mood=Sub|Typo=Yes	16	mark	_	CorrectForm=să
 16	aiba	avea	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=aibă
 17	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	16	obj	_	_
-18	as	as	SCONJ	_	Foreign=Yes	21	mark	_	Lang=en
-19	if	if	ADV	_	Foreign=Yes	21	advmod	_	Lang=en
-20	i	I	PRON	_	Foreign=Yes|Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Lang=en
+18	as	as	SCONJ	_	_	21	mark	_	Lang=en
+19	if	if	ADV	_	_	21	advmod	_	Lang=en
+20	i	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Lang=en
 21	cared	care	VERB	_	Foreign=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	17	advcl	_	Lang=en
 
 # sent_id = 163-1404704117415632896
@@ -3724,7 +3724,7 @@
 21	🤦	🤦	SYM	_	_	4	discourse	_	_
 
 # sent_id = 165-1408305140680036355
-# text = @Utilizator_fem1  @Utilizator_fem2 bărbați. Un judecător zicea :vulpea asta a venit bine pregătită ,curva vrea să divorțeze ,iar ceilalți râdeau. Și multe alte mizerii vorbeau și râdeau de femeie. Nici unul nu a pățit nimic. O justiție de rahat, câte cazuri injuste am văzut aici că nu mai cred in justiție.
+# text = @Utilizator_fem1  @Utilizator_fem2 bărbați. Un judecător zicea: vulpea asta a venit bine pregătită, curva vrea să divorțeze, iar ceilalți râdeau. Și multe alte mizerii vorbeau și râdeau de femeie. Nici unul nu a pățit nimic. O justiție de rahat, câte cazuri injuste am văzut aici că nu mai cred in justiție.
 # text_en = User_fem1 User_fem2 men. One judge said: this fox came well prepared, the bitch wants a divorce, and the others laughed. And a lot of other trash talking and laughing at the woman. Nobody got hurt. Shitty justice, how many unfair cases I have seen here that I don't believe in justice anymore.
 # language_type = sexist reporting
 1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	3	vocative	_	_
@@ -3917,7 +3917,7 @@
 6	pe	pe	ADP	_	AdpType=Prep|Case=Acc	7	case	_	_
 7	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	_
 8	la	la	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
-9	toate	tot	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	10	case	_	_
+9	toate	tot	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	10	det	_	_
 10	formele	formă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	_
 11	de	de	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
 12	violență	violență	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
@@ -3944,10 +3944,10 @@
 33	de	de	ADP	_	AdpType=Prep|Case=Acc	34	case	_	_
 34	comportament	comportament	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	32	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	39	punct	_	_
-36	povestirea	povestire	_	NOUN	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	39	obl	_	_
+36	povestirea	povestire	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	39	obl	_	_
 37	femeii	femeie	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	36	nmod	_	_
 38	fiind	fi	AUX	_	VerbForm=Ger	39	aux:pass	_	_
-39	oprită	opri	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	22	advcl	_	_
+39	oprita	opri	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	22	advcl	_	CorrectForm=oprită
 40	de	de	ADP	_	AdpType=Prep|Case=Acc	41	case	_	_
 41	Mirela	Mirela	PROPN	_	_	39	obl:agent	_	_
 42	Vaida	Vaida	PROPN	_	_	41	flat	_	_
