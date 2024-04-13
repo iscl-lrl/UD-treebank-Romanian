@@ -2257,7 +2257,7 @@
 7	pretext	pretext	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 8	sa	să	PART	_	Mood=Sub|Typo=Yes	10	mark	_	CorrectForm=să
 9	fii	fi	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	tarfa	târfă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	7	csubj	_	CorrectForm=târfă
+10	tarfa	târfă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	7	parataxis	_	CorrectForm=târfă
 
 # sent_id = 114-1395501300423475202
 # text = Nu ești bărbat dacă nu te uiți la fotbal/football !
@@ -2634,7 +2634,7 @@
 # text = Femeia trebuie să învețe mai întâi să fie femeie, și după aceea să devină Om...🧝
 # text_en = A woman must first learn to be a woman, and then to become a Human Being...🧝
 # language_type = sexist descriptive
-1	Femeia	femeie	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+1	Femeia	femeie	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 2	trebuie	trebui	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	să	să	PART	_	Mood=Sub	4	mark	_	_
 4	învețe	învăța	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
@@ -2642,16 +2642,16 @@
 6	întâi	întâi	ADV	_	Degree=Pos	4	advmod	_	_
 7	să	să	PART	_	Mood=Sub	9	mark	_	_
 8	fie	fi	AUX	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	ccomp	_	_
+9	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	ccomp	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	15	punct	_	_
 11	și	și	CCONJ	_	Polarity=Pos	15	cc	_	_
-12	după	după	ADP	_	AdpType=Prep|Case=Acc	15	advmod	_	_
-13	aceea	acel	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	12	fixed	_	_
+12	după	după	ADP	_	AdpType=Prep|Case=Acc	15	case	_	_
+13	aceea	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	obl	_	_
 14	să	să	PART	_	Mood=Sub	15	mark	_	_
 15	devină	deveni	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 16	Om	om	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
-17	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
-18	🧝	🧝	SYM	_	_	2	discourse	_	_
+17	...	...	PUNCT	_	_	4	punct	_	SpaceAfter=No
+18	🧝	🧝	SYM	_	_	4	discourse	_	_
 
 # sent_id = 131-1396567794024652801
 # text = Odată ce îl lași pe bărbat să îți vorbească cu "fă", te dezonorezi total ca femeie!
