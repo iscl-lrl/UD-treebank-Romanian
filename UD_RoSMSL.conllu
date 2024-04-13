@@ -3338,7 +3338,7 @@
 27	dreptate	dreptate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No
 29	”	”	PUNCT	_	_	25	punct	_	_
-30	Find	fi	VERB	_	Typo=Yes|VerbForm=Ger	31	cop	_	CorrectForm=fiind
+30	Find	fi	AUX	_	Typo=Yes|VerbForm=Ger	31	cop	_	CorrectForm=fiind
 31	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	35	advcl	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	31	punct	_	_
 33	i-	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	35	iobj	_	SpaceAfter=No
@@ -3348,7 +3348,7 @@
 37	“	“	PUNCT	_	_	42	punct	_	SpaceAfter=No
 38	când	când	ADV	_	PronType=Int,Rel	42	advmod	_	_
 39	sunteți	fi	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	42	cop	_	_
-40	fără	fără	ADV	_	AdpType=Prep|Case=Acc	41	case	_	_
+40	fără	fără	ADP	_	AdpType=Prep|Case=Acc	41	case	_	_
 41	sutien	sutien	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	42	obl	_	_
 42	aveți	avea	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	35	advcl	_	_
 43	întodeauna	întodeauna	ADV	_	Degree=Pos	42	advmod	_	_
@@ -3374,11 +3374,11 @@
 # text = Ce ușor e să zici că toți bărbații sunt mitocani și libidinoși. Pe lângă faptul că a generaliza e o MARE prostie, una n-ar spune și despre momentele alea în care tot un bărbat (da, șoc!) îți ține ușa, se oferă să te ajute dezinteresat sau îți face un compliment sincer. Of of.🙃
 # text_en = How easy it is to say that all men are mythicists and lechers. Aside from the fact that generalizing is a BIG dumb thing to say, one wouldn't say it about those moments when another man (yes, shock!) holds the door for you, offers to help you selflessly, or gives you a sincere compliment. Sigh.🙃
 # language_type = sexist reporting
-1	Ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	advmod	_	_
-2	ușor	ușor	ADV	_	Degree=Pos	3	advmod	_	_
-3	e	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Ce	ce	ADV	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	advmod	_	_
+2	ușor	ușor	ADV	_	Degree=Pos	0	root	_	_
+3	e	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	să	să	PART	_	Mood=Sub	5	mark	_	_
-5	zici	zice	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+5	zici	zice	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 6	că	că	SCONJ	_	Polarity=Pos	10	mark	_	_
 7	toți	tot	DET	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	8	det	_	_
 8	bărbații	bărbat	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	10	nsubj	_	_
@@ -3386,26 +3386,26 @@
 10	mitocani	mitocan	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	ccomp	_	_
 11	și	și	CCONJ	_	Polarity=Pos	12	cc	_	_
 12	libidinoși	libidinos	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
 14	Pe	pe	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
 15	lângă	lângă	ADP	_	AdpType=Prep|Case=Acc	14	fixed	_	_
-16	faptul	fapt	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	28	obl	_	_
+16	faptul	fapt	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	23	obl	_	_
 17	că	că	SCONJ	_	Polarity=Pos	19	mark	_	_
 18	a	avea	PART	_	PartType=Inf	19	mark	_	_
 19	generaliza	generaliza	VERB	_	Tense=Pres|VerbForm=Inf	16	acl	_	_
 20	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 21	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	23	det	_	_
 22	MARE	mare	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	23	amod	_	_
-23	prostie	prostie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	parataxis	_	SpaceAfter=No
+23	prostie	prostie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	28	advcl	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	28	punct	_	_
 25	una	unul	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	28	nsubj	_	_
-26	n-	nu	PART	_	Polarity=Neg|Variant=Short	28	mark	_	SpaceAfter=No
+26	n-	nu	PART	_	Polarity=Neg|Variant=Short	28	advmod	_	SpaceAfter=No
 27	ar	avea	AUX	_	Person=3	28	aux	_	_
-28	spune	spune	VERB	_	Tense=Pres|VerbForm=Inf	23	conj	_	_
+28	spune	spune	VERB	_	Tense=Pres|VerbForm=Inf	2	parataxis	_	_
 29	și	și	CCONJ	_	Polarity=Pos	31	advmod	_	_
 30	despre	despre	ADP	_	AdpType=Prep|Case=Acc	31	case	_	_
 31	momentele	moment	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	28	obl	_	_
-32	alea	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Postnom|PronType=Dem	31	det	_	_
+32	alea	acela	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|Position=Postnom|PronType=Dem	31	det	_	_
 33	în	în	ADP	_	AdpType=Prep|Case=Acc	34	case	_	_
 34	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	45	obl	_	_
 35	tot	tot	ADV	_	_	37	advmod	_	_
@@ -3434,10 +3434,10 @@
 58	compliment	compliment	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	56	obj	_	_
 59	sincer	sincer	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	58	amod	_	SpaceAfter=No
 60	.	.	PUNCT	_	_	28	punct	_	_
-61	Of	of	INTJ	_	_	28	discourse	_	_
-62	of	of	INTJ	_	_	28	discourse	_	SpaceAfter=No
-63	.	.	PUNCT	_	_	28	punct	_	SpaceAfter=No
-64	🙃	🙃	SYM	_	_	28	discourse	_	_
+61	Of	of	INTJ	_	_	2	parataxis	_	_
+62	of	of	INTJ	_	_	2	parataxis	_	SpaceAfter=No
+63	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+64	🙃	🙃	SYM	_	_	2	discourse	_	_
 
 # sent_id = 154-1405612464314765319
 # text = ești frumoasă și cuminte până îl refuzi pe prost…
