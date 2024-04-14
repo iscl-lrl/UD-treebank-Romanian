@@ -3747,7 +3747,7 @@
 18	să	să	PART	_	Mood=Sub	19	mark	_	_
 19	divorțeze	divorța	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
-21	iar	iar	ADV	_	_	23	punct	_	_
+21	iar	iar	CCONJ	_	Polarity=Pos	23	cc	_	_
 22	ceilalți	celălalt	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	23	nsubj	_	_
 23	râdeau	râde	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
