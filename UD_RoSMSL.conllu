@@ -4282,7 +4282,7 @@
 7	În	în	ADP	_	AdpType=Prep|Case=Acc	14	obl	_	_
 8	mod	mod	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	fixed	_	_
 9	clar	clar	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	fixed	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
 11	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	14	nsubj	_	_
 12	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
@@ -4337,7 +4337,7 @@
 39	😒	😒	SYM	_	_	35	discourse	_	_
 
 # sent_id = 179-1399443893507219466
-# text = Un proxenet român din Marea Britanie, prins de autorități după ce a făcut declarații șocante: „Trăiesc ca un lord din banii produşi de fete”...
+# text = Un proxenet român din Marea Britanie, prins de autorități după ce a făcut declarații șocante: „Trăiesc ca un lord din banii produşi de fete” ...
 # text_en = A Romanian pimp in the United Kingdom, caught by authorities after making shocking statements: 'I live like a lord from the money made by the girls'...
 # language_type = sexist reporting
 1	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
@@ -4367,7 +4367,7 @@
 25	produși	produce	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	_
 26	de	de	ADP	_	AdpType=Prep|Case=Acc	27	case	_	_
 27	fete	fată	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
-28	”	”	PUNCT	_	_	19	punct	_	SpaceAfter=No
+28	”	”	PUNCT	_	_	19	punct	_	_
 29	...	...	PUNCT	_	_	19	punct	_	_
 
 # sent_id = 180-1408815813453361157
