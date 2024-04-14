@@ -4364,7 +4364,7 @@
 22	lord	lord	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	_
 23	din	din	ADP	_	AdpType=Prep|Case=Acc	24	case	_	_
 24	banii	ban	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	22	nmod	_	_
-25	produși	produce	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	_
+25	produşi	produce	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	_
 26	de	de	ADP	_	AdpType=Prep|Case=Acc	27	case	_	_
 27	fete	fată	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
 28	”	”	PUNCT	_	_	19	punct	_	_
