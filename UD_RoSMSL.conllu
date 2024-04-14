@@ -4630,7 +4630,7 @@
 20	dormeau	dormi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_
 21	pe	pe	ADP	_	AdpType=Prep|Case=Acc	22	case	_	_
 22	jos	jos	ADV	_	Degree=Pos	20	advmod	_	SpaceAfter=No
-23	„	„	PUNCT	_	_	12	punct	_	SpaceAfter=No
+23	”	”	PUNCT	_	_	12	punct	_	SpaceAfter=No
 24	...	...	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 188-1397820080277311490
