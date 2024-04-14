@@ -4282,7 +4282,7 @@
 7	În	în	ADP	_	AdpType=Prep|Case=Acc	14	obl	_	_
 8	mod	mod	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	fixed	_	_
 9	clar	clar	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	fixed	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	8	punct	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
 11	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	14	nsubj	_	_
 12	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
