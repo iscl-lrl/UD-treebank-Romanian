@@ -4052,7 +4052,7 @@
 17	în	în	ADP	_	AdpType=Prep|Case=Acc	11	advmod	_	_
 18	comun	comun	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	23	punct	_	_
-20	după	după	ADV	_	AdpType=Prep|Case=Acc	23	mark	_	_
+20	după	după	ADP	_	AdpType=Prep|Case=Acc	23	mark	_	_
 21	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	20	fixed	_	_
 22	a	avea	AUX	_	Number=Sing|Person=3	23	aux	_	_
 23	pipăit	pipăi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
