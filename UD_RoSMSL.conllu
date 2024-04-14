@@ -4739,8 +4739,8 @@
 10	treiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	2	parataxis	_	CorrectForm=trăiesc
 11	chiar	chiar	ADV	_	Degree=Pos	12	advmod	_	_
 12	bine	bine	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	10	punct	_	_
-14	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 15	mai	mai	ADV	_	_	16	advmod	_	_
 16	multe	mult	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	17	amod	_	_
 17	drepturi	drept	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	14	obj	_	_
