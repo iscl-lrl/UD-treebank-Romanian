@@ -5126,11 +5126,11 @@
 33	cum	cum	ADV	_	PronType=Int,Rel	34	advmod	_	_
 34	indraznesc	îndrăzni	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	29	conj	_	CorrectForm=îndrăznesc
 35	sa	să	PART	_	Mood=Sub|Typo=Yes	36	mark	_	CorrectForm=să
-36	vorbesc	vorbi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	34	csubj	_	_
+36	vorbesc	vorbi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	34	ccomp	_	_
 37	unui	un	DET	_	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Ind	38	det	_	_
 38	strain	străin	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	36	iobj	_	CorrectForm=străin
 39	fiind	fi	AUX	_	VerbForm=Ger	40	cop	_	_
-40	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	34	nsubj	_	SpaceAfter=No
+40	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	29	advcl	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	29	punct	_	SpaceAfter=No
 42	boul	bou	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	43	nsubj	_	_
 43	ia	lua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
