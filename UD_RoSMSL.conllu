@@ -4733,7 +4733,7 @@
 4	România	România	PROPN	_	_	2	nmod	_	SpaceAfter=No
 5	:	:	PUNCT	_	_	2	punct	_	_
 6	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-7	În	în	DET	_	AdpType=Prep|Case=Acc	8	det	_	_
+7	În	în	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
 8	România	România	PROPN	_	_	10	obl	_	_
 9	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj	_	_
 10	treiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	2	parataxis	_	CorrectForm=trăiesc
@@ -5138,7 +5138,7 @@
 45	,	,	PUNCT	_	_	54	punct	_	_
 46	nici	nici	ADV	_	PronType=Neg	48	advmod	_	_
 47	buna	bună	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	48	amod	_	CorrectForm=bună
-48	ziua	zi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	54	obj	_	SpaceAfter=No
+48	ziua	zi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	54	obj	_	_
 49	nici	nici	ADV	_	PronType=Neg	50	advmod	_	_
 50	multumesc	mulțumesc	INTJ	Typo=Yes	_	54	obj	_	CorrectForm=mulțumesc
 51	nu	nu	PART	_	Polarity=Neg	54	advmod	_	_
