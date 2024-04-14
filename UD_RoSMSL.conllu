@@ -3991,7 +3991,7 @@
 23	'	'	PUNCT	_	_	26	punct	_	SpaceAfter=No
 24	I	el	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	26	iobj	_	SpaceAfter=No
 25	-AI	avea	AUX	_	Number=Sing|Person=2	26	aux	_	_
-26	PERMIS	permite	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis _	_
+26	PERMIS	permite	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	_
 27	SA	să	PART	_	Mood=Sub|Typo=Yes	29	mark	_	CorrectForm=să
 28	TE	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	29	obj	_	_
 29	BATA	bate	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	26	ccomp	_	CorrectForm=bată
