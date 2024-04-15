@@ -1,0 +1,683 @@
+# sent_id = 185-1411037037050929152
+14	din	din	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
+30	trei	trei	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	28	conj	_	_
+7	in	în	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
+3	bolid	bolid	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+12	întreții	întreține	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+37	și	și	CCONJ	_	Polarity=Pos	38	cc	_	_
+35	TE	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	36	expl:pv	_	_
+17	a	al	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	_
+39	fie	fi	AUX	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	41	cop	_	_
+14	la	la	ADP	_	AdpType=Prep|Case=Acc	15	case	_	_
+11	de	de	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
+56	ai	avea	AUX	_	Number=Sing|Person=2	58	aux	_	_
+22	medievala	medieval	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	21	amod	_	CorrectForm=medievală
+22	schițat	schița	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+23	Dacă	dacă	ADV	_	_	25	mark	_	_
+28	primeste	primi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	23	conj	_	CorrectForm=primește
+2	Femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
+23	NU	nu	PART	_	Polarity=Neg	24	advmod	_	_
+15	?	?	PUNCT	_	_	14	punct	_	_
+30	Intr	întru	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes|Variant=Short	32	case	_	CorrectForm=Într-
+8	ieșit	ieși	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+20	creierul	creier	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+# text_en = It's very easy to make a woman happy; you need to be for her: friend, partner, lover, brother, father, teacher, educator, chef, mechanic, electrician, sexologist, gynecologist, psychologist, therapist, and kind, friendly, athletic, loving, attentive, creative, sensitive, strong, understanding.
+17	asupra	asupra	ADP	_	AdpType=Prep|Case=Gen	18	case	_	_
+# text_en = Water doesn't boil in the engine like the woman boils when you don't answer her messages
+# sent_id = 154-1405612464314765319
+8	uleiul	ulei	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	_
+36	El	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	37	nsubj	_	_
+# language_type = sexist descriptive
+19	BITCH	bitch	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	24	vocative	_	Lang=en
+32	pățeau	păți	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative	_	_
+7	autobuz	autobuz	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
+5	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
+8	🤝	🤝	SYM	_	_	3	discourse	_	SpaceAfter=No
+29	zice	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	parataxis	_	_
+16	aiba	avea	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=aibă
+# language_type = sexist direct
+38	n-	nu	PART	_	Polarity=Neg|Variant=Short	40	advmod	_	SpaceAfter=No
+# text = @Utlizator_fem butelia se umple cu gaz si femeia cu pumni
+5	la	la	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
+16	curva	curvă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	conj	_	CorrectForm=curvă|SpaceAfter=No
+11	prezenți	prezent	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+12	că	că	SCONJ	_	Polarity=Pos	11	fixed	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
+# language_type = sexist direct
+10	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+7	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	_
+7	și	și	CCONJ	_	Polarity=Pos	13	cc	_	_
+50	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+30	impotriva	împotriva	ADP	_	AdpType=Prep|Case=Gen|Typo=Yes	31	case	_	CorrectForm=împotriva
+# text = faptul ca toate fetele o sa purtam fusta maine e asa comunist
+1	era	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	Odată	odată	ADV	_	Degree=Pos	6	advmod	_	_
+# language_type = sexist reporting
+7	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	SpaceAfter=No
+6	din	din	ADP	_	AdpType=Prep|Case=Acc	7	case	_	_
+1	Bea	bea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# sent_id = 169-1401299942690508804
+# text = @Utilizator_fem Ahhhhh ce bună ești drăguța 💋 💋 👅👅🔥🔥😍😍
+
+9	.	.	PUNCT	_	_	1	punct	_	_
+6	acasă	acasă	ADV	_	Degree=Pos	3	advmod	_	_
+33	🤮	🤮	SYM	_	_	1	discourse	_	_
+4	sa	să	PART	_	Mood=Sub|Typo=Yes	8	mark	_	CorrectForm=să
+32	îndrăgostită	îndrăgostit	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	31	obj	_	SpaceAfter=No
+9	ar	avea	AUX	_	Number=Sing|Person=3	10	aux	_	_
+# text = vă plângeți că toate fetele sunt pe interes de parcă voi ați avea bani
+7	.	.	PUNCT	_	_	1	punct	_	_
+15	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	_
+7	Diletta	Diletta	PROPN	_	_	3	obj	_	SpaceAfter=No
+3	ciudat	ciudat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+6	în	în	ADP	_	AdpType=Prep|Case=Acc	7	case	_	_
+10	parcă	parcă	ADV	_	Degree=Pos	13	advmod	_	_
+
+1	Laptele	lapte	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
+16	ieftină	ieftin	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+20	Mentalitate	mentalitate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	_	_
+# language_type = sexist direct
+
+9	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
+9	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+3	iarna	iarnă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=iarnă
+13	a	avea	AUX	_	Number=Sing|Person=3	14	aux	_	_
+2	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
+# text = @Utilizator_fem Ahhhh ce mă excită iubire ai sânii superbii sa sug sfarcuriile tale 💋😍♥️😘
+22	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	nsubj	_	_
+35	gaură	gaură	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	36	obj	_	_
+2	boul	bou	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
+# sent_id = 3-1395482269750632451
+15	de	de	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
+# text_en = Potatoes are planted in the ground, and men in the grave.
+# sent_id = 50-1406510781282152449
+7	doar	doar	ADV	_	Degree=Pos	9	advmod	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+7	tot	tot	ADV	_	_	8	advmod	_	_
+1	Femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	fug	fugi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+31	aș	avea	AUX	_	Number=Sing|Person=1	32	aux	_	_
+6	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+12	jos	jos	ADV	_	Degree=Pos	11	advmod	_	_
+13	soției	soț	NOUN	_	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
+4	ca	ca	SCONJ	_	Polarity=Pos	7	mark	_	_
+36	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	parataxis	_	_
+# text_en = Come on, you poor, show me what magic you do! Where do you get it from? From the bottom? Vibes.
+# text = @Utilizator_fem Apetisant fund, irezistibil
+17	.	.	PUNCT	_	_	9	punct	_	_
+11	topit	topi	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+# text_en = A strange trial in France. A woman kills a man and claims she's innocent. Supported by feminist extremists. I hope the court will only consider the material evidence available in the file. A politicised justice system is nothing but fascist or communist.
+16	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
+42	aveți	avea	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+
+15	pietonii	pieton	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	17	nsubj	_	_
+8	cu	cu	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
+1	Bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+# sent_id = 49-1402070535425740814
+# sent_id = 134-1406643135044853763
+# text = încep să mă topesc după tine, cum s-a topit butter într-o oră
+# text = @Utilizator_fem   Wow ce superbă ești 😘
+28	cere	cere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	_
+27	de	de	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
+11	să	să	PART	_	Mood=Sub	16	mark	_	SpaceAfter=No
+27	...	...	PUNCT	_	_	9	punct	_	_
+1	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	obj	_	CorrectForm=ce-
+16	sex	sex	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	_
+48	apărarea	apărare	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	47	obj	_	_
+2	sa	să	PART	_	Mood=Sub|Typo=Yes	3	mark	_	CorrectForm=să
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
+29	fetele	fătă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	28	appos	_	_
+26	PUPICI	pupic	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	16	flat	_	_
+7	iau	lua	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+13	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+# text_en = @User_fem You are gorgeous, I miss you, I lick your sexy and appetizing ass, I eat your mouth
+22	în	în	ADP	_	AdpType=Prep|Case=Acc	23	case	_	_
+45	tine	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	43	obj	_	_
+
+# sent_id = 36-1403544239825379331
+2	Mmm	mmm	INTJ	_	_	4	discourse	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+# text_en = The female boss is tougher than the male boss.
+2	ai	avea	VERB	_	Number=Sing|Person=2	0	root	_	_
+# text = La început "- ești zâna mea.esti mândria mea!" In timpul relației "nu mă mai f*te la creieri! Lasă-mă în p*la mea"  Și tot femeia este aia ciudată....🙄😒
+2	că	că	SCONJ	_	Polarity=Pos	3	mark	_	_
+49	Nu	nu	PART	_	Polarity=Neg	50	advmod	_	_
+29	și	și	CCONJ	_	Polarity=Pos	31	advmod	_	_
+20	toate	tot	DET	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	21	det	_	_
+14	petrecere	petrecere	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	_
+15	Lumea	lume	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
+1	Neața	dimineață	NOUN	_	Abbr=Yes|Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+13	aceea	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	obl	_	_
+15	,	,	PUNCT	_	_	13	punct	_	_
+14	fiindcă	fiindcă	SCONJ	_	Polarity=Pos	16	mark	_	_
+1	Mărturie	mărturie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+7	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+# text = 🙄 doamne fereste de aia care se aboneaza la femei doar ca sa le injure, se abonase ieri un handicapat care crede ca in 6$ primeste si o muie finalizare etc si cand i-am zis ca “NU FAC SERVICI DE ESCORTA” Incepuse sa ma injure etc, apoi sa imi lase comentarii pe aici nasoale
+8	te-	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	10	obj	_	SpaceAfter=No
+12	iubire	iubire	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+9	ling	linge	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+# sent_id = 179-1399443893507219466
+23	vrem	vrea	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	ccomp	_	SpaceAfter=No
+10	mingea	minge	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	_
+10	multe	mult	DET	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	11	det	_	_
+6	apa	apă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
+16	ALEXANDRA	ALEXANDRA	PROPN	_	_	2	appos	_	_
+11	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
+13	de	de	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
+# text_en = @User_fem Mmm, how good you are to be loved 😉
+27	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	26	fixed	_	_
+9	♥️	♥️	SYM	_	_	4	discourse	_	SpaceAfter=No
+11	tau	tău	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	10	det	_	CorrectForm=tău
+6	😍	😍	SYM	_	_	2	discourse	_	SpaceAfter=No
+4	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+
+32	de	de	ADP	_	AdpType=Prep|Case=Acc	33	case	_	_
+54	zis	zice	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	43	conj	_	_
+47	holba	holba	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
+1	acum	acum	ADV	_	Degree=Pos	3	advmod	_	_
+2	mai	mai	ADV	_	_	3	advmod	_	_
+43	Nici	nici	ADV	_	PronType=Neg	45	advmod	_	_
+1	Practic	practic	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	39	punct	_	_
+13	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	5	obl	_	_
+4	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	6	nsubj	_	_
+11	😗	😗	SYM	_	_	4	discourse	_	SpaceAfter=No
+11	cu	cu	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
+8	corpul	corp	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
+
+9	când	când	ADV	_	PronType=Int,Rel	12	advmod	_	_
+33	euro	euro	NOUN	_	Definite=Ind|Gender=Masc	28	conj	_	_
+56	atâta	atât	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	55	obj	_	_
+# language_type = sexist reporting
+11	sunt	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+# text = Eu știu cel puțin 3 feministe care asculta Future si totusi el e cel mai misogin rapper/personalitate
+10	'	'	PUNCT	_	_	7	punct	_	SpaceAfter=No
+8	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	conj	_	_
+15	si	și	CCONJ	_	Polarity=Pos|Typo=Yes	16	cc	_	CorrectForm=în
+10	formele	formă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	_
+9	superbii	superb	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Typo=Yes	8	amod	_	CorrectForm=superbi
+# language_type = sexist reporting
+7	vor	vrea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	xcomp	_	_
+# text_en = @User_fem Your breasts don't need such things 😍 they are perfect 🍒😋♥️
+31	sa	să	PART	_	Mood=Sub|Typo=Yes	32	mark	_	CorrectForm=să
+# language_type = sexist reporting
+16	Noi	eu	PRON	_	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Strength=Strong	25	nsubj	_	SpaceAfter=No
+# language_type = sexist direct
+8	bogați	bogat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+14	auzi	auzi	VERB	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+17	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	18	aux	_	CorrectForm=aș
+7	7	7	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
+54	,	,	PUNCT	_	_	49	punct	_	_
+10	…	…	PUNCT	_	_	2	punct	_	_
+2	în	în	ADP	_	AdpType=Prep|Case=Acc	3	case	_	_
+2	va	tu	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	1	expl:poss	_	CorrectForm=-vă
+3	,	,	PUNCT	_	_	1	punct	_	_
+11	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	nsubj	_	_
+# text_en = Why are these people on Instagram so upset that a Roma woman won on 'Chefi la cuțite'? Oh right, I forgot what Romanians are like.
+16	bine	bine	ADJ	_	Degree=Pos	6	advmod	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+
+26	și	și	CCONJ	_	Polarity=Pos	27	cc	_	_
+# text_en = @Userr_fem the classic answer is another: "Thank you, God, for making me a man, and I am not obliged to approach a hairy bottom... (every evening)."
+11	barbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	9	obj	_	CorrectForm=bărbat
+# sent_id = 153-1397207780206039055
+11	.	.	PUNCT	_	_	3	punct	_	_
+24	Mouse	Mouse	PROPN	_	_	23	flat	_	_
+17	nu	nu	PART	_	Polarity=Neg	19	advmod	_	_
+23	UE	Uniunea_Europeană	PROPN	_	_	21	nmod	_	SpaceAfter=No
+42	intre	între	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	43	case	_	CorrectForm=între
+4	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel|Typo=Yes	3	fixed	_	CorrectForm=ce-și
+18	au	avea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+4	sexuale	sexual	ADJ	_	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+11	știi	ști	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+12	picioarele	picior	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	10	obj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+4	caca	căca	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	25	advcl	_	CorrectForm=cacă
+13	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+45	Preotul	preot	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	47	nsubj	_	_
+# language_type = sexist direct
+35	și	și	CCONJ	_	Polarity=Pos	37	cc	_	_
+9	tău	tău	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
+30	Find	fi	AUX	_	Typo=Yes|VerbForm=Ger	31	cop	_	CorrectForm=fiind
+4	urâtă	urât	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+28	bucătărie	bucătărie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	26	obl	_	_
+# language_type = sexist descriptive
+6	fată	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	csubj	_	SpaceAfter=No
+# text_en = Basically, the booster shots nurse was so attentive and sympathetic that I didn't hold back and said: if I need more, I can do a few more boosters.
+21	obligat	obliga	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	15	conj	_	_
+# text = @Utilizator_fem Odată de mi-l bag in tine, o să-ți fie și mai bine 😘😁😁
+# text_en = Your sister had a spinal strain; she was overworked by many.
+13	Marin	Marin	PROPN	_	_	12	flat	_	SpaceAfter=No
+14	de	de	ADP	_	AdpType=Prep|Case=Acc	16	case	_	_
+13	organul	organ	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	_
+10	de	de	ADP	_	AdpType=Prep|Case=Acc	12	case	_	_
+27	DAU	da	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	ccomp	_	_
+12	fă	fă	INTJ	_	_	9	obl	_	SpaceAfter=No
+16	😂	😂	SYM	_	_	4	discourse	_	SpaceAfter=No
+40	facut	face	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	2	parataxis	_	CorrectForm=făcut
+14	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
+14	așa	așa	ADJ	_	Degree=Pos	15	amod	_	_
+5	televizor	televizor	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
+# text = de ce se caca asa tare pe ei astia pe instagram ca a castigat o femeie de etnie roma la chefi la cutite, ah da uitasem ce fel sunt romanii
+# text_en = I'm coming out of the supermarket, I have my shopping cart. I see a man reaching into his wallet for a coin. I say to him: this shopping cart has no coin. He made a face, how dare I speak to a stranger being a woman. The idiot takes the shopping cart, neither hello nor thank you did he say, and leaves.
+31	muie	muie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	28	obj	_	_
+22	.	.	PUNCT	_	_	18	punct	_	_
+7	zicea	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
+33	a	avea	AUX	_	Number=Sing|Person=3	34	aux	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative	_	_
+# sent_id = 37-1410439705666146304
+17	.	.	PUNCT	_	_	11	punct	_	_
+23	că	că	SCONJ	_	Polarity=Pos	24	mark	_	_
+7	pe	pe	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
+
+60	AGRESEZE	agresa	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	55	ccomp	_	_
+# text = @Utilizator_fem Ești ceea ce și dorește orice bărbat!
+31	muzica	muzică	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	30	obj	_	CorrectForm=muzică
+14	mesaje	mesaj	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	12	obl	_	_
+# sent_id = 7-1407351009127632896
+
+7	tine	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	4	obl	_	SpaceAfter=No
+30	fata	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	24	obj	_	CorrectForm=fată|SpaceAfter=No
+12	cu	cu	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
+1	Bărbatul	bărbat	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	să	să	PART	_	Mood=Sub	6	mark	_	_
+10	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	8	obl	_	_
+38	.	.	PUNCT	_	_	29	punct	_	_
+# text = @Utilizator_x1 @Utilizator_x2 Sa vina Alaltaieri unu cu drujba i-a tăiat capul soției așa ca toporul este arta
+14	ne-futută	fute	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	7	advcl	_	CorrectForm=nefutută
+1	Tineti	ține	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=Țineți
+# language_type = sexist direct
+24	zis	zice	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	conj	_	_
+8	😉	😉	SYM	_	_	4	discourse	_	_
+22	sa	să	PART	_	Mood=Sub|Typo=Yes	24	mark	_	CorrectForm=să
+55	imi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Typo=Yes	56	iobj	_	CorrectForm=îmi
+41	-o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	40	expl	_	_
+# language_type = sexist descriptive
+# text = Jurnalista pe care premierul țării a făcut-o „prostituată” luptă pentru a demasca presiunile asupra presei într-o țară membră UE...
+8	rochii	rochie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	7	obj	_	_
+24	mergeam	merge	VERB	_	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	29	advcl	_	_
+18	incet	încet	ADV	_	Degree=Pos|Typo=Yes	16	advmod	_	CorrectForm=încet
+9	trăiesc	trăi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+15	zică	zice	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	SpaceAfter=No
+# language_type = sexist descriptive 
+# language_type = sexist reporting
+# text_en = @User_fem I really want to be your slave and fuck me in the anus with your rubber toy! I love you very much beautiful lady
+2	zicea	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	când	când	ADV	_	PronType=Int,Rel	11	advmod	_	_
+46	ușa	ușă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	45	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+8	vezi	vedea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	csubj	_	_
+4	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	expl:pv	_	_
+# language_type = sexist descriptive
+15	frumoasă	frumoasă	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	4	vocative	_	_
+# language_type = sexist direct
+38	tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs|Strength=Strong	39	nsubj	_	_
+13	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+# text = Săptămâna asta eu cu câteva colege am ieșit afară în pauză să ne luăm mâncare (pentru că era pauză) și cum mergeam noi pe stradă am auzit unu' în spatele nostru zicând "mamă ce bulane"
+6	întindere	întindere	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	_
+6	tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	nsubj	_	_
+10	decolteu	decolteu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
+18	cruce	cruce	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	6	vocative	_	_
+29	”	”	PUNCT	_	_	25	punct	_	_
+10	„	„	PUNCT	_	_	12	punct	_	SpaceAfter=No
+# sent_id = 194-1400131157015072768
+24	picioarele	picior	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	22	obl	_	_
+# text_en = I can't fathom how much cynicism it takes to call an abusive relationship in which a woman is traumatized "love". How can I not even understand what can be "superb" about an individual who beats his concubine.
+18	,	,	PUNCT	_	_	19	punct	_	_
+# language_type = sexist direct
+# text_en = Cursed be the Romanian women
+10	cunosc	cunoaște	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+25	de	de	ADP	_	AdpType=Prep|Case=Acc	26	case	_	_
+1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative	_	_
+3	infernul	infern	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
+# text_en = A boss sexually abuses a female employee, and the woman cuts off his sexual organ. You've got his dick! 🤣🤦
+# sent_id = 59-1409038176790925320
+6	unu	unul	PRON	_	Abbr=Yes|Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	CorrectForm=unul
+6	opinia	opinie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	_
+30	,	,	PUNCT	_	_	34	punct	_	_
+8	de	de	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
+33	,	,	PUNCT	_	_	32	punct	_	_
+41	.	.	PUNCT	_	_	29	punct	_	SpaceAfter=No
+6	de	de	ADP	_	AdpType=Prep|Case=Acc	7	case	_	_
+31	barbati	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Typo=Yes	29	obl:agent	_	CorrectForm=bărbați|SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+1	@Utlizator_x	@Utlizator_x	PROPN	_	_	2	vocative	_	_
+16	șocante	șocant	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	SpaceAfter=No
+5	tricoul	tricou	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
+# language_type = sexist descriptive
+4	.	.	PUNCT	_	_	3	punct	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+7	și	și	CCONJ	_	Polarity=Pos	9	cc	_	_
+24	😐	😐	SYM	_	_	14	discourse	_	_
+41	Nimic	nimic	PRON	_	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	47	nsubj	_	_
+39	le	el	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	40	iobj	_	_
+5	tin	țin	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	1	conj	_	CorrectForm=ține
+7	cu	cu	ADP	_	AdpType=Prep|Case=Acc	8	case	_	_
+# sent_id = 113-1399639885749891072
+6	Ştefan	Ştefan	PROPN	_	_	4	obl:agent	_	_
+5	în	în	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
+31	.	.	PUNCT	_	_	20	punct	_	_
+9	gunoi	gunoi	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	orphan	_	SpaceAfter=No
+
+12	după	după	ADP	_	AdpType=Prep|Case=Acc	15	case	_	_
+8	uda	ud	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	4	conj	_	CorrectForm=udă|SpaceAfter=No
+37	hotel	hotel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	34	obl	_	_
+8	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	_
+48	ziua	zi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	54	obj	_	_
+31	trista	trist	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	30	amod	_	CorrectForm=tristă
+35	nici	nici	ADV	_	PronType=Neg	37	advmod	_	_
+19	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	17	nmod	_	_
+24	.	.	PUNCT	_	_	7	punct	_	_
+# text_en = After a horrible day, someone comes up to you and says "hey, you're beautiful but too bad you don't have tits" 😐 stop criticising girls for being feminists because they know what they know💗
+
+19	adolescenta	adolescență	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	17	obl	_	CorrectForm=adolescență|SpaceAfter=No
+40	de	de	ADP	_	AdpType=Prep|Case=Acc	41	case	_	_
+4	sunat	suna	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+15	tiktok	TikTok	PROPN	_	Foreign=Yes	13	nmod	_	Lang=en
+3	cum	cum	ADV	_	PronType=Int,Rel	4	advmod	_	_
+3	volan	volan	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	_
+12	de	de	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
+4	fată	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
+26	mai	mai	ADV	_	_	27	advmod	_	_
+21	că	că	SCONJ	_	Polarity=Pos	23	mark	_	_
+5	în	în	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
+2	WoW	wow	INTJ	_	_	0	root	_	Lang=en
+3	aud	auzi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	advcl	_	_
+8	gresit	greși	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part	0	root	_	CorrectForm=greșit|SpaceAfter=No
+2	urez	ura	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	femeile	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj	_	_
+34	,	,	PUNCT	_	_	37	punct	_	SpaceAfter=No
+7	Zice	zice	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+8	de	de	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
+# sent_id = 79-1398129380593917953
+24	emisiune	emisiune	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	conj	_	_
+9	avea	avea	VERB	_	Tense=Pres|VerbForm=Inf	8	ccomp	_	_
+
+21	medievală	medievală	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
+5	secsi	sexy	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Fem|Number=Sing	4	obj	_	CorrectForm=sexy|SpaceAfter=No|Lang=en
+# text = @Utilizator_fem Eu iubita mea te pup dulce la păsărica vrei
+# text = Nu fierbe apa în motor cum fierbe femeia când nu îi răspunzi la telefon.
+7	considerate	considera	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	2	csubj	_	_
+17	măcar	măcar	ADV	_	Degree=Pos	16	fixed	_	_
+39	crezi	crede	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	33	advcl	_	_
+3	bar	bar	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	_
+16	vrăjeală	vrăjeală	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	ccomp	_	_
+13	s-	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	15	expl:pv	_	SpaceAfter=No
+16	iubire	iubire	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	14	xcomp	_	SpaceAfter=No
+4	bună	bun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
+2	bețive	bețiv	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	1	amod	_	_
+18	noapte	noapte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	16	conj	_	_
+15	afaceri	afacere	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	13	obj	_	_
+60	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	59	obj	_	Lang=en
+42	mentalitate	mentalitate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	39	nmod	_	_
+
+# text_en = Drink some water because you're a bit hot
+13	trofeu	trofeu	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+47	și	și	CCONJ	_	Polarity=Pos	46	fixed	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+2	fierbe	fierbe	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text_en = A childish girl is also a troubled one.
+# text = Nu pot să îmi dau seama de cât cinism e nevoie pentru a numi "iubire" o relație abuzivă în care o femeie e traumatizată. Cum nu pot să îmi dau seama nici ce poate să fie "superb" la un individ care își bate concubina.
+60	niciodata	niciodată	ADV	_	Typo=Yes	53	advmod	_	CorrectForm=niciodată
+4	să	să	PART	_	Mood=Sub	5	mark	_	_
+4	să	să	PART	_	Mood=Sub	5	mark	_	_
+42	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	43	det	_	_
+11	cu	cu	ADP	_	AdpType=Prep|Case=Acc	13	case	_	_
+19	personalitate	personalitate	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	conj	_	_
+15	10	10	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	16	nummod	_	_
+
+3	aș	avea	AUX	_	Number=Sing|Person=1	4	aux	_	_
+30	sau	sau	CCONJ	_	Polarity=Pos	32	cc	_	_
+# sent_id = 44-1405240906358341641
+5	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+34	la	la	ADP	_	AdpType=Prep|Case=Acc	35	case	_	_
+# language_type = sexist descriptive
+16	soțul	soț	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	toată	tot	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	15	det	_	_
+24	cu	cu	ADP	_	AdpType=Prep|Case=Acc	25	case	_	_
+37	....	....	PUNCT	_	_	35	punct	_	SpaceAfter=No
+8	Disciplina	disciplină	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	_
+4	cur	cur	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+20	EU	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	24	nsubj	_	_
+# text = @Utilizator_fem Ahh ce senzuală ești iubire 😋💋♥️😘😗😍💓
+# text = Ești frumoasă ca o zi de luni
+4	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+7	dar	dar	CCONJ	_	Polarity=Pos	16	cc	_	_
+19	asta	acesta	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Postnom|PronType=Dem	18	det	_	SpaceAfter=No
+22	misogini	misogin	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	19	obj	_	_
+50	ei	lui	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	49	det	_	_
+32	,	,	PUNCT	_	_	31	punct	_	_
+54	sau	sau	CCONJ	_	Polarity=Pos	56	cc	_	_
+# text_en = Oops... women in the Norwegian army sleep with their male colleagues. That's as a result of feminism...
+5	există	exista	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+
+15	să	să	PART	_	Mood=Sub	17	mark	_	_
+15	neajutorate	neajutorat	ADJ	_	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+7	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	11	mark	_	CorrectForm=că
+# text_en = @User_fem Ahhhh what excites me love your gorgeous breasts to suck your nipples 💋😍♥️😘
+5	nu	nu	PART	_	Polarity=Neg	8	advmod	_	_
+# sent_id = 131-1396567794024652801
+8	bărbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+18	🥰	🥰	SYM	_	_	2	discourse	_	_
+2	început	început	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	_
+29	.	.	PUNCT	_	_	8	punct	_	_
+4	știi	ști	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+38	unalive	live	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing|Typo=Yes	36	obj	_	CorrectForm=live|Lang=en
+# sent_id = 111-1404057051916087300
+45	PLECI	pleca	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	43	csubj	_	_
+# sent_id = 210-1406251775565369345
+5	ca	ca	SCONJ	_	Polarity=Pos	8	mark	_	_
+9	,	,	PUNCT	_	_	5	punct	_	_
+# language_type = sexist reporting
+8	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	10	nsubj	_	_
+9	tine	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	obl	_	_
+14	astepți	aștepta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=aștepți|SpaceAfter=No
+# sent_id = 120-1408874624079826955
+30	fericire	fericire	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	28	xcomp	_	SpaceAfter=No
+42	atât	atât	ADV	_	Degree=Pos	40	cc:preconj	_	_
+13	această	acest	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	14	det	_	_
+5	la	la	ADP	_	AdpType=Prep|Case=Acc	4	fixed	_	_
+
+9	la	la	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
+# language_type = sexist descriptive
+
+22	clar	clar	ADV	_	Degree=Pos	0	root	_	_
+36	ciudată	ciudat	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+14	să	să	PART	_	Mood=Sub	16	mark	_	_
+21	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	23	det	_	_
+8	la	la	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
+11	el	el	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	14	nsubj	_	_
+# text = Dau la schimb prietenă frumoasa pe 7 cămile
+4	misogin	misogin	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+# sent_id = 25-1408189290572652546
+34	o	vrea	AUX	_	Number=Sing|Person=3	36	aux	_	_
+# text = @Utilizator_fem Oooooo, sa ne si dam drumul pe sanii tai!
+4	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	5	case	_	CorrectForm=în
+# text = O fată drăguță e roșie în obraji nu în genunchi
+2	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+25	scurte	scurt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	24	amod	_	_
+25	DULCI	dulce	ADJ	_	Definite=Ind|Gender=Masc|Number=Plur	24	amod	_	_
+1	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+# language_type = sexist descriptive
+# sent_id = 74-1405853560647061516
+2	Alex	Alex	PROPN	_	_	4	vocative	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+# text_en = Don't consider yourself sexy anymore; after 30, you're worn out.
+# language_type = sexist descriptive
+4	,	,	PUNCT	_	_	1	punct	_	_
+18	din	din	ADP	_	AdpType=Prep|Case=Acc	19	case	_	_
+4	iubește	iubi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+8	tale	tău	PRON	_	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+3	soare	soare	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	5	nsubj	_	_
+# language_type = sexist reporting
+13	💓	💓	SYM	_	_	4	discourse	_	_
+8	sfinții	sfânt	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	obl	_	_
+4	a	al	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	_
+42	Vaida	Vaida	PROPN	_	_	41	flat	_	_
+5	Nici	nici	ADV	_	PronType=Neg	7	advmod	_	_
+16	găsești	găsi	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	xcomp	_	SpaceAfter=No
+10	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+# text = Cu o femeie ce nu-i impresionată de bani, puțini bărbați știu ce să facă. 🙂
+7	seturi	set	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	_
+28	care	care	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	32	obl	_	_
+20	la	la	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
+6	în	în	ADP	_	AdpType=Prep|Case=Acc	4	advmod	_	_
+26	zis	zice	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	conj	_	_
+4	de	de	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
+44	de	de	ADP	_	AdpType=Prep|Case=Acc	45	case	_	_
+5	:	:	PUNCT	_	_	2	punct	_	_
+11	mulți	mult	DET	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	12	det	_	_
+
+12	''	''	PUNCT	_	_	11	punct	_	SpaceAfter=No
+9	opiniile	opinie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	obj	_	_
+# language_type = sexist descriptive
+10	,	,	PUNCT	_	_	14	punct	_	_
+1	Într-	întru	ADP	_	AdpType=Prep|Case=Acc|Variant=Short	3	case	_	SpaceAfter=No
+4	crede	crede	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+48	sa	să	PART	_	Mood=Sub|Typo=Yes	50	mark	_	CorrectForm=să
+18	trepte	treaptă	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	16	obj	_	_
+16	Om	om	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+56	UNUI	un	DET	_	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Ind	57	det	_	_
+34	,	,	PUNCT	_	_	41	punct	_	_
+37	ginecolog	ginecolog	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	15	list	_	SpaceAfter=No
+40	MANA	mână	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	36	conj	_	CorrectForm=mână
+8	piersicuta	piersicuta	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	7	obj	_	CorrectForm=piersicuța|SpaceAfter=No
+
+26	fisa	fisă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	19	parataxis	_	CorrectForm=fisă|SpaceAfter=No
+# text_en = A criminal, out of his mind, Look at the circus, Women in chains, Your garden is big, God, This dick was stuck to the poor.
+33	vin	vin	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+7	arata	arata	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	ccomp	_	CorrectForm=arată
+51	femeie	femeie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	49	obj	_	_
+# language_type = sexist direct
+1	Africa	Africa	PROPN	_	_	4	nsubj	_	_
+# sent_id = 127-1397221142910443520
+35	,	,	PUNCT	_	_	37	punct	_	_
+11	doar	doar	ADV	_	Degree=Pos	15	advmod	_	_
+# sent_id = 168-1404820962558763017
+4	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
+14	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	15	nummod	_	_
+# text = Bărbatul are pretenția ca femeia să vorbească doar cu el și el cu încă 10
+4	FRUMOȘI	frumos	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
+12	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	14	nsubj	_	_
+2	și	și	CCONJ	_	Polarity=Pos	3	cc	_	_
+41	DE	de	ADP	_	AdpType=Prep|Case=Acc	42	case	_	_
+20	langa	lângă	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	19	fixed	_	CorrectForm=lângă
+7	,	,	PUNCT	_	_	10	punct	_	_
+20	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
+19	din	din	ADP	_	AdpType=Prep|Case=Acc	21	case	_	_
+6	și	și	CCONJ	_	Polarity=Pos	7	cc	_	_
+7	..	.	PUNCT	_	_	4	punct	_	_
+1	O	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+21	am	avea	AUX	_	Number=Sing|Person=1	22	aux	_	_
+38	ESTI	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	40	cop	_	CorrectForm=ești
+38	doar	doar	ADV	_	Degree=Pos	40	advmod	_	_
+15	mai	mai	ADV	_	_	16	advmod	_	_
+# language_type = sexist reporting
+20	mine	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	18	obl	_	_
+30	de	de	ADP	_	AdpType=Prep|Case=Acc	31	case	_	_
+# text_en = @User_fem What a whore you are
+22	MACAR	măcar	ADV	_	Degree=Pos|Typo=Yes	21	fixed	_	CorrectForm=măcar
+18	de	de	ADP	_	AdpType=Prep|Case=Acc	20	case	_	_
+21	Machiate	machiat	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	1	parataxis	_	SpaceAfter=No
+# sent_id = 20-1396438291545735177
+5	armata	armată	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
+19	câmpuri	câmp	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+19	că	că	SCONJ	_	Polarity=Pos	29	mark	_	_
+38	heroină	heroină	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
+19	am	avea	AUX	_	Number=Plur|Person=1	20	aux	_	_
+28	am	avea	AUX	_	Person=1	29	aux	_	_
+7	refuzi	refuza	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+42	a	avea	AUX	_	Number=Sing|Person=3	43	aux	_	_
+14	:	:	PUNCT	_	_	15	punct	_	_
+41	șoc	șoc	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	39	conj	_	SpaceAfter=No
+35	tot	tot	ADV	_	_	37	advmod	_	_
+15	-o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	14	obj	_	_
+20	lui	lui	PRON	_	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	19	iobj	_	SpaceAfter=No
+2	minte	minte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	_
+# text_en = @User_fem You kiss Diletta's ass, a cheap and two-bit woman, a whore, a prostitute, you would like to be close to Diletta, you miserable.
+12	crizare	crizare	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
+# sent_id = 15-1407633182879531021
+55	🤮	🤮	SYM	_	_	2	discourse	_	_
+13	cu	cu	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
+# text = Există în România un soi de stereotip al femeilor care, se cred ele, că sunt de succes. Machiate, vopsite la păr, țâțe puse, gene artificiale. Pula mea, sunt sigur că le vedeți și voi. Rar spre foarte rar mai vezi o femeie naturală, chiar și pe stradă.
+8	că	că	SCONJ	_	Polarity=Pos	11	mark	_	_
+14	făcut	face	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
+27	de	de	ADP	_	AdpType=Prep|Case=Acc	28	case	_	_
+1	Există	exista	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	noi	eu	PRON	_	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Strength=Strong	16	obl	_	SpaceAfter=No
+8	la	la	ADP	_	AdpType=Prep|Case=Acc	9	case	_	_
+38	pe	pe	ADP	_	AdpType=Prep|Case=Acc	39	case	_	_
+
+15	mai	mai	ADV	_	_	16	advmod	_	_
+6	frumoasă	regină	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+3	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	4	expl	_	_
+21	🤣	🤣	SYM	_	_	16	discourse	_	SpaceAfter=No
+1	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	_
+6	de	de	ADP	_	AdpType=Prep|Case=Acc	11	mark	_	_
+46	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	47	expl:pv	_	_
+7	dar	dar	CCONJ	_	Polarity=Pos	10	cc	_	_
+37	am	avea	AUX	_	Person=1	38	aux	_	_
+8	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	obj	_	_
+11	totusi	totuși	ADV	_	Degree=Pos|Typo=Yes	17	advmod	_	CorrectForm=totuși
+
+16	misogin	misogin	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+# sent_id = 107-1398507121008955394
+8	urâtă	urâtă	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	_
+# sent_id = 170-1395651468154314752
+2	Eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	6	nsubj	_	_
+35	te-	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	37	obj	_	SpaceAfter=No
+16	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Typo=Yes|Variant=Short	18	obj	_	CorrectForm=te-
+21	PUPICI	pupic	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	18	obj	_	_
+5	în	în	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
+12	decolteu	decolteu	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	9	conj	_	_
+46	parte	parte	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	50	obj	_	_
+30	despre	despre	ADP	_	AdpType=Prep|Case=Acc	31	case	_	_
+10	băieți	băiat	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+11	pauză	pauză	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	_
+40	amenințat	amenința	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	34	ccomp	_	SpaceAfter=No
+3	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	4	aux	_	CorrectForm=aș
+12	la	la	ADP	_	AdpType=Prep|Case=Acc	11	fixed	_	_
+25	produşi	produce	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	_
+6	seama	seamă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	fixed	_	_
+14	batut	bate	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Part	10	advcl	_	CorrectForm=bătut|SpaceAfter=No
+12	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	13	nummod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+3	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+21	chefi	chef	PROPN	_	Foreign=Yes	14	obl	_	Lang=en
+2	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	fixed	_	_
+6	💋	💋	SYM	_	_	2	discourse	_	SpaceAfter=No
+19	sutien	sutien	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	_
+5	Marea	mare	PROPN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
+52	aia	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	54	obj	_	_
+7	văd	vedea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+# text = Bea puțină apă că ești cam hot
+6	una	unul	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	4	obl	_	_
+
+3	că	că	SCONJ	_	Polarity=Pos	5	mark	_	_
+10	mă	mă	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	11	expl:pv	_	_
+2	Arăți	arăta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Ai	avea	VERB	_	Number=Sing|Person=2	0	root	_	_
+26	,	,	PUNCT	_	_	27	punct	_	_
+18	duce	duce	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+5	cât	cât	ADV	_	PronType=Int,Rel	7	advmod	_	_
+45	barbat	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Typo=Yes	39	ccomp	_	CorrectForm=bărbat|SpaceAfter=No
+7	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
+37	💗	💗	SYM	_	_	27	discourse	_	_
+# text = Într-un bar avea reclama, servim bere rece, dar nu așa de rece ca îmbrățișarea soacrei.🤣🤦
+3	mai	mai	ADV	_	_	4	advmod	_	_
+6	sa	să	PART	_	Mood=Sub|Typo=Yes	7	mark	_	CorrectForm=să
+11	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	obj	_	_
+35	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	37	punct	_	_
+58	ceasul	ceas	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	55	obl	_	_
+18	uita	uita	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	advcl	_	CorrectForm=uită
+14	.	.	PUNCT	_	_	9	punct	_	_
