@@ -52,7 +52,7 @@
 # text = @Utilizator_fem  Aoleu ce bună ești 😍😍💋💋💋💋
 # text_en = @User_fem  Wow, you're so beautiful 😍😍💋💋💋💋
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	_	_
 2	Aoleu	aoleu	INTJ	_	_	0	root	_	_
 3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 4	bună	bun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	_
@@ -68,7 +68,7 @@
 # text = @Utilizator_fem   Wow ce superbă ești 😘
 # text_en = @User_fem   Wow, how beautiful you are 😘
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Wow	wow	INTJ	_	_	0	root	_	Lang=en
 3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 4	superbă	superb	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	_
@@ -79,8 +79,8 @@
 # text = @Utilizator_fem1 @Utilizator_fem2  Îmi doresc să fiu violat de tine frumoasă doamnă cu această jucărie de cauciuc.
 # text_en = @User_fem1 @User_fem2  I wish to be raped by you, beautiful lady, with this rubber toy.
 # language_type = sexist direct
-1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	4	vocative:mention	_	_
-2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem1	@Utilizator_fem1	SYM	_	_	4	vocative:mention	_	_
+2	@Utilizator_fem2	@Utilizator_fem2	SYM	_	_	4	vocative:mention	_	_
 3	Îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	iobj	_	_
 4	doresc	dori	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	să	să	PART	_	Mood=Sub	7	mark	_	_
@@ -101,9 +101,9 @@
 # text = @Utilizator_fem1  @Utilizator_fem2  @Utilizator_fem3  Așa regină frumoasă și suavă mai rar îți e dat să vezi 😏🥰👏🏻
 # text_en = @User_fem1  @User_fem2  @User_fem3  Such a beautiful and graceful queen, it is rare to see 😏🥰👏🏻
 # language_type = sexist direct
-1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	13	vocative:mention	_	_
-2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	13	vocative:mention	_	_
-3	@Utilizator_fem3	@Utilizator_fem3	PROPN	_	_	13	vocative:mention	_	_
+1	@Utilizator_fem1	@Utilizator_fem1	SYM	_	_	13	vocative:mention	_	_
+2	@Utilizator_fem2	@Utilizator_fem2	SYM	_	_	13	vocative:mention	_	_
+3	@Utilizator_fem3	@Utilizator_fem3	SYM	_	_	13	vocative:mention	_	_
 4	Așa	așa	ADV	_	Degree=Pos	5	advmod	_	_
 5	regină	regină	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	13	xcomp	_	_
 6	frumoasă	regină	NOUN	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
@@ -124,7 +124,7 @@
 # text = @Utilizator_fem Îmi doresc foarte mult să fiu sclavul tău și să mă fuți în anus cu jucăria ta de cauciuc !
 # text_en = @User_fem I really want to be your slave and fuck me in the anus with your rubber toy! I love you very much beautiful lady
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	obj	_	_
 3	doresc	dori	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	foarte	foarte	ADV	_	_	5	advmod	_	_
@@ -150,7 +150,7 @@
 # text = @Utilizator_fem  Ești o dulce la păsărică.
 # text_en = @User_fem  You're sweet down there. 
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	o	un	DET	_	Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	dulce	dulce	ADJ	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
@@ -175,7 +175,7 @@
 # text = @Utilizator_fem Arăți super sexy frumușico 💋☺️😱
 # text_en = @User_fem You look super sexy, cutie 💋☺️😱
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Arăți	arăta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	super	super	ADV	_	Degree=Pos	4	advmod	_	_
 4	sexy	sexy	ADJ	_	Degree=Pos|Foreign=Yes|Gender=Fem|Number=Sing	2	obj	_	Lang=en
@@ -208,7 +208,7 @@
 # text = @Utilizator_fem Ziua că bună ești.
 # text_en = @User_fem Afternoon because good you are.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Ziua	zi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 3	că	că	SCONJ	_	Polarity=Pos	4	mark	_	_
 4	bună	bun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	acl	_	_
@@ -219,7 +219,7 @@
 # text = @Utilizator_fem Odată de mi-l bag in tine, o să-ți fie și mai bine 😘😁😁
 # text_en = @User_fem Once I put it in you, you'll feel even better 😘😁😁
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	6	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	6	vocative:mention	_	_
 2	Odată	odată	ADV	_	Degree=Pos	6	advmod	_	_
 3	de	de	ADP	_	AdpType=Prep|Case=Acc	2	fixed	_	_
 4	mi-	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	6	iobj	_	SpaceAfter=No
@@ -260,7 +260,7 @@
 # text = @Utilizator_fem Eu iubita mea te pup dulce la păsărica vrei
 # text_en = @User_fem I, my beloved, sweetly kiss your little pussy. Do you want it?
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	6	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	6	vocative:mention	_	_
 2	Eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	6	nsubj	_	_
 3	iubita	iubit	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	appos	_	_
 4	mea	meu	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
@@ -275,7 +275,7 @@
 # text = @Utilizator_fem Apetisant fund, irezistibil
 # text_en = @User_fem Appealing bottom, irresistible
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Apetisant	apetisant	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	fund	fund	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
@@ -285,7 +285,7 @@
 # text = @Utilizator_fem Asa de urâtă ești în Realitate !
 # text_en = @User_fem You are so ugly in Reality
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Asa	așa	ADV	_	Degree=Pos|Typo=Yes	4	advmod	_	CorrectForm=Yes
 3	de	de	ADP	_	AdpType=Prep|Case=Acc	2	case	_	_
 4	urâtă	urât	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
@@ -298,7 +298,7 @@
 # text = @Utilizator_fem Mmm ce bună  ești de iubit 😉
 # text_en = @User_fem Mmm, how good you are to be loved 😉
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Mmm	mmm	INTJ	_	_	4	discourse	_	_
 3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 4	bună	bun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
@@ -311,7 +311,7 @@
 # text = @Utilizator_fem Înseamnă că faci cu mine un 69.
 # text_en = @User_fem It means you're doing a 69 with me.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Înseamnă	însemna	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	că	că	SCONJ	_	Polarity=Pos	4	mark	_	_
 4	faci	face	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	csubj	_	_
@@ -326,7 +326,7 @@
 # text_en = Come on, you poor, show me what magic you do! Where do you get it from? From the bottom? Vibes.
 # language_type = sexist direct
 1	ia	lua	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	vocative:mention	_	_
+2	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	vocative	_	_
 3	sărăci	sărăcie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
 4	-o	ea	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
@@ -371,7 +371,7 @@
 # text = @Utilizator_fem Unde vrei pupicii, vreau să dau mulți
 # text_en = @User_fem Where do you want the little kisses, I want to give many.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Unde	unde	ADV	_	PronType=Int,Rel	3	advmod	_	_
 3	vrei	vrea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 4	pupicii	pupic	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
@@ -408,7 +408,7 @@
 # text = @Utilizator_fem Te pup dulce frumusețe
 # text_en = @User_fem I sweetly kiss you, beauty.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	3	obj	_	_
 3	pup	pupa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dulce	dulce	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	xcomp	_	_
@@ -418,7 +418,7 @@
 # text = @Utilizator_fem O pupi în fund pe Diletta, femeie ieftină și de doi banii, curva, prostituată, ai vrea tu să fii ca degetul mic al Dilettei, prăpădito.
 # text_en = @User_fem You kiss Diletta's ass, a cheap and two-bit woman, a whore, a prostitute, you would like to be close to Diletta, you miserable.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	O	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	3	expl	_	_
 3	pupi	pupa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	în	în	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
@@ -455,7 +455,7 @@
 # text = @Utilizator_fem Ești superbă și arăți minunat, te-aș vrea o noapte lângă mine să ne simțim amândoi bine!
 # text_en = @User_fem You're beautiful, and you look wonderful! I'd like you for a night by my side so we can both feel good!
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	superbă	superb	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 4	și	și	CCONJ	_	Polarity=Pos	5	cc	_	_
@@ -496,7 +496,7 @@
 # text = @Utilizator_fem, ești foarte sexy
 # text_en = @User_fem, you are very sexy.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative:mention	_	SpaceAfter=No
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	5	vocative:mention	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	5	punct	_	_
 3	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	foarte	foarte	ADV	_	_	5	advmod	_	_
@@ -527,7 +527,7 @@
 # text = @Utilizator_fem Ah, pune-mi-o pe față sa ii simt gustul
 # text_en = @User_fem Ah, put it on my face so I can taste it.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Ah	ah	INTJ	_	_	4	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	pune	pune	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -544,7 +544,7 @@
 # text = @Utilizator_fem Ce aș gusta puțin din tine😘😊
 # text_en = @User_fem What I would taste a bit of you 😘😊
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	0	root	_	_
 2	Ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 3	aș	avea	AUX	_	Number=Sing|Person=1	4	aux	_	_
 4	gusta	gusta	VERB	_	Tense=Pres|VerbForm=Inf	1	acl	_	_
@@ -558,7 +558,7 @@
 # text = @Utilizator_fem Ahhhhh ce bună ești drăguța 💋 💋 👅👅🔥🔥😍😍
 # text_en = @User_fem Ahhhhh, you're so good, cutie 💋 💋 👅👅🔥🔥😍😍
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Ahhhhh	Ah	INTJ	_	_	0	root	_	_
 3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 4	bună	bun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	_
@@ -577,7 +577,7 @@
 # text = @Utilizator_fem Sânii tăi nu au nevoie de așa ceva 😍 sunt perfecți 🍒😋♥️
 # text_en = @User_fem Your breasts don't need such things 😍 they are perfect 🍒😋♥️
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	5	vocative:mention	_	_
 2	Sânii	sâni	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
 3	tăi	tu	DET	_	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 4	nu	nu	PART	_	Polarity=Neg	5	advmod	_	_
@@ -616,7 +616,7 @@
 # text = @Utilizator_fem Greu de determinat având în vedere că nu îți pot măsura formele din nicio poză. Văzusem deși că ești slăbuță într-o poză 😏🤫
 # text_en = @User_fem Difficult to determine, considering I can't measure your shapes from any picture. However, I had seen that you're slim in one picture 😏🤫
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Greu	greu	ADV	_	Degree=Pos	0	root	_	_
 3	de	de	ADP	_	AdpType=Prep|Case=Acc	4	case	_	_
 4	determinat	determina	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	csubj	_	_
@@ -648,7 +648,7 @@
 # text = @Utilizator_fem AI OCHII FRUMOȘI ȘI SÂNII FRUMOȘI ȘI FUNDULET FRUMOS  ȘI BUZE FRUMOSE PUPICI DULCI ȘI TE ADOR PUPICI DULCI PUPICI DULCI
 # text_en = @User_fem YOU HAVE BEAUTIFUL EYES AND BEAUTIFUL BREASTS AND BEAUTIFUL BUTT AND BEAUTIFUL LIPS SWEET KISSES AND I LOVE YOU SWEET KISSES SWEET KISSES
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	AI	avea	AUX	_	Number=Sing|Person=2	0	root	_	_
 3	OCHII	ochi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	_
 4	FRUMOȘI	frumos	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
@@ -675,7 +675,7 @@
 # text = @Utilizator_fem FRUMOASA FOC ESTI ȘI SEXSY ȘI AI OCHII FRUMOȘI PUPICI DULCI ȘI TE ADOR ALEXANDRA STAN PUPICI DULCI PUPICI DULCI PUPICI DULCI PUPICI DULCI PUPICI DULCI PUPICI
 # text_en = @User_fem YOU HAVE BEAUTIFUL EYES AND BEAUTIFUL BREASTS AND BEAUTIFUL BUTTOCKS AND BEAUTIFUL LIPS SWEET KISSES AND I ADORE YOU SWEET KISSES SWEET KISSES
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	FRUMOASA	frumos	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=frumoasă
 3	FOC	foc	ADJ	_	Definite=Ind|Degree=Sup|Gender=Fem|Number=Sing	2	amod	_	_
 4	ESTI	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	2	cop	_	CorrectForm=ești
@@ -708,7 +708,7 @@
 # text = @Utilizator_fem Hmmmm, aș vrea și eu un așa party cu o fată așa frumoasă.
 # text_en = @User_fem Hmmmm, I would like to have such a party with such a beautiful girl.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	5	vocative:mention	_	_
 2	Hmmmm	hm	INTJ	_	_	1	parataxis	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	aș	avea	AUX	_	Number=Sing|Person=1	5	aux	_	_
@@ -729,7 +729,7 @@
 # text = @Utilizator_fem chiar ești o vampă
 # text_en = @User_fem, you really are a whore
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	5	vocative:mention	_	_
 2	chiar	chiar	ADV	_	Degree=Pos	5	advmod	_	_
 3	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
@@ -739,7 +739,7 @@
 # text = @Utilizator_fem Superba esti îmi este dor de tine ling curul tau sexy și apetisanta mânca gurita
 # text_en = @User_fem You are gorgeous, I miss you, I lick your sexy and appetizing ass, I eat your mouth
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Superba	superb	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	CorrectForm=superbă
 3	esti	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	CorrectForm=ești
 4	îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	iobj	_	_
@@ -760,7 +760,7 @@
 # text = @Utilizator_fem 2 ore in care ti as face toate placerile, 2 ore in care te as tine numai in pula si excitata, 2 ore in care nu te as lasa nici sa fumezi tig de dupa
 # text_en = @User_fem 2 hours in which I would give you all the pleasures, 2 hours in which I would hold you only in the dick and excited, 2 hours in which I would not even let you smoke the after cigarette
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	0	root	_	_
 2	2	2	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	3	nummod	_	_
 3	ore	oră	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	obl	_	_
 4	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	5	case	_	CorrectForm=în
@@ -803,7 +803,7 @@
 # text = @Utilizator_fem Eu o am, tu ești uda?
 # text_en = @User_fem Mine is, is yours wet?
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	4	nsubj	_	_
 3	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	4	expl	_	_
 4	am	avea	VERB	_	Number=Sing|Person=1	0	root	_	SpaceAfter=No
@@ -817,7 +817,7 @@
 # text = @Utilizator_fem WoW e spart de curând acest fund!
 # text_en = @User_fem WoW This ass has beeen recently broken!
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	WoW	wow	INTJ	_	_	0	root	_	Lang=en
 3	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	spart	sparge	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	_
@@ -831,7 +831,7 @@
 # text = @Utilizator_fem Superb fund ai dulceață
 # text_en = @User_fem Superb ass you have sweetie
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Superb	superb	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	fund	fund	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
 4	ai	avea	AUX	_	Number=Sing|Person=2	0	root	_	_
@@ -841,7 +841,7 @@
 # text = @Utilizator_fem Ce nebună ești mami m-aș băga tot în tine
 # text_en = @User_fem You're crazy, mommy, I'd be all over you
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	8	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	8	vocative:mention	_	_
 2	Ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
 3	nebună	nebun	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	acl	_	_
 4	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -857,7 +857,7 @@
 # text = @Utilizator_fem Îmi place această imagine a picioarelor tale frumoase perfecte și sunt dependentă de ea pentru că silueta perfectă, degetele de la picioare și talpa acestui picior de formă divin frumos mă fascinează și El poate doar să adore, te ador pe tine Maica Ezada Sinn
 # text_en = @User_fem I like this picture of your beautiful perfect feet, and I'm addicted to it because the perfect silhouette, the toes, and the sole of this divinely beautiful foot fascinate me, and He can only worship, I adore you, Mother Ezada Sinn.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Îmi	eu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	iobj	_	_
 3	place	plăcea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	această	acest	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	det	_	_
@@ -910,7 +910,7 @@
 # text = @Utilizator_fem Simona ești  cea mai frumoasă și sexy
 # text_en = @User_fem Simona, you are the most beautiful and sexy
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	6	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	6	vocative:mention	_	_
 2	Simona	Simona	PROPN	_	_	6	vocative	_	_
 3	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	cea	cel	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
@@ -923,7 +923,7 @@
 # text = @Utilizator_fem Ai un cur bun îmi place vrei sa  vb în privat de unde esti baby🥰🥰
 # text_en = @User_fem You have a nice ass, I like it, do you want to see me in private, where are you from, baby?
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Ai	avea	VERB	_	Number=Sing|Person=2	0	root	_	_
 3	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
 4	cur	cur	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
@@ -946,7 +946,7 @@
 # text = @Utilizator_fem Ahhhh ce mă excită iubire ai sânii superbii sa sug sfarcuriile tale 💋😍♥️😘
 # text_en = @User_fem Ahhhh what excites me love your gorgeous breasts to suck your nipples 💋😍♥️😘
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Ahhhh	ah	INTJ	_	_	0	root	_	_
 3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	_
 4	mă	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	5	expl:pv	_	_
@@ -968,7 +968,7 @@
 # text = @Utilizator_fem ce tarfa ești
 # text_en = @User_fem What a whore you are
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
 3	tarfa	târfa	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=târfă
 4	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -1000,7 +1000,7 @@
 # text = @Utilizator_fem Păcat că iar te distrezi cu naivitatea bărbaților.
 # text_en = @User_fem It's a pity that you're having fun with the naivety of men.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Păcat	păcat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 3	că	că	SCONJ	_	Polarity=Pos	6	mark	_	_
 4	iar	iar	ADV	_	_	6	cc	_	_
@@ -1015,7 +1015,7 @@
 # text = @Utilizator_fem Ești ceea ce și dorește orice bărbat!
 # text_en = @User_fem You are what every man desires!
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Ești	fi	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ceea	acela	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	obj	_	_
 4	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel|Typo=Yes	3	fixed	_	CorrectForm=ce-și
@@ -1029,7 +1029,7 @@
 # text = @Utilizator_fem Oooooo, sa ne si dam drumul pe sanii tai!
 # text_en = @User_fem Oooooo, let's also cum on your breasts!
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Oooooo	Oooooo	INTJ	_	_	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
 4	sa	să	PART	_	Mood=Sub|Typo=Yes	7	mark	_	CorrectForm=să
@@ -1073,8 +1073,8 @@
 # text = @Utilizator_fem1 @Utilizator_fem2 Să știi că și în poza ta de profil iubitul tău arată mai bine ca tine.
 # text_en = @User_fem1 @User_fem2 Just so you know, even in your profile picture, your boyfriend looks better than you.
 # language_type = sexist direct
-1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	4	vocative:mention	_	_
-2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem1	@Utilizator_fem1	SYM	_	_	4	vocative:mention	_	_
+2	@Utilizator_fem2	@Utilizator_fem2	SYM	_	_	4	vocative:mention	_	_
 3	Să	să	PART	_	Mood=Sub	4	mark	_	_
 4	știi	ști	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	că	că	SCONJ	_	Polarity=Pos	14	mark	_	_
@@ -1111,7 +1111,7 @@
 # text = @Utilizator_fem Ahh ce senzuală ești iubire 😋💋♥️😘😗😍💓
 # text_en = @User_fem Ahh, how sensual you are, my love 😋💋♥️😘😗😍💓
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Ahh	ah	INTJ	_	_	1	discourse	_	_
 3	ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	_
 4	senzuală	senzual	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
@@ -1177,7 +1177,7 @@
 # text = @Utilizator_fem Frumoasă rochie și ce ascunde ea
 # text_en = @User_fem Beautiful dress and what it hides
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Frumoasă	frumos	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	rochie	rochie	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 4	și	și	CCONJ	_	Polarity=Pos	6	cc	_	_
@@ -1189,7 +1189,7 @@
 # text = @Utilizator_fem Ce provocatoare ești
 # text_en = @User_fem How provocative you are.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
 3	provocatoare	provocator	ADJ	_	Definite=Ind|Degree=Pos|Gender=Fem	0	root	_	_
 4	ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -1261,7 +1261,7 @@
 # text = @Utilizator_fem Banii se bagă la aparate și femeia la produs
 # text_en = @User_fem Money goes into machines, and women are for prostitution.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Banii	ban	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
 3	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
 4	bagă	băga	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1276,7 +1276,7 @@
 # text = @Utilizator_fem Ești băiat sau fată că, se vede părul pe burtă
 # text_en = @User_fem Are you a boy or a girl because, the hair on your belly is showing
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Ești	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	băiat	băiat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	sau	sau	CCONJ	_	Polarity=Pos	5	cc	_	_
@@ -1323,7 +1323,7 @@
 # text = @Utilizator_fem Ce simplu pare. E destul s-o asculți ce are să-ți zică, să fii atent, eventual să răspunzi cu ceva relevant și deja e pe jumătate îndrăgostită?
 # text_en = @User_fem How simple it seems. It's enough to listen to what she has to say, to pay attention, maybe respond with something relevant, and she's already half in love?
 # language_type = sexist descriptive
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Ce	ce	PRON	_	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	_
 3	simplu	simplu	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	advmod	_	_
 4	pare	părea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -1469,8 +1469,8 @@
 # text = @Utilizator_fem1 @Utilizator_fem2 Cât de superb este să vezi o femeie frumoasă făcută sandviș!
 # text_en = @User_fem1 @User_fem2 How wonderful it is to see a beautiful woman turned into a sandwich!
 # language_type = sexist descriptive
-1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	5	vocative:mention	_	_
-2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	5	vocative:mention	_	_
+1	@Utilizator_fem1	@Utilizator_fem1	SYM	_	_	5	vocative:mention	_	_
+2	@Utilizator_fem2	@Utilizator_fem2	SYM	_	_	5	vocative:mention	_	_
 3	Cât	cât	ADV	_	PronType=Int,Rel	5	advmod	_	_
 4	de	de	ADP	_	AdpType=Prep|Case=Acc	3	case	_	_
 5	superb	suberb	ADV	_	Degree=Pos	0	root	_	_
@@ -1805,8 +1805,8 @@
 # text = @Utilizator_fem1 @Utilizator_fem2 Dacă a fost curvă și a facut vaccinul.. ce te astepți? Încet se duce si creierul.
 # text_en = @User_fem1 @User_fem2 If she was a whore and got the vaccine... what do you expect? Slowly, even her brain goes away.
 # language_type = sexist descriptive
-1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	14	vocative:mention	_	_
-2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	14	vocative:mention	_	_
+1	@Utilizator_fem1	@Utilizator_fem1	SYM	_	_	14	vocative:mention	_	_
+2	@Utilizator_fem2	@Utilizator_fem2	SYM	_	_	14	vocative:mention	_	_
 3	Dacă	dacă	SCONJ	_	Polarity=Pos	6	mark	_	_
 4	a	avea	AUX	_	Number=Sing|Person=3	6	aux	_	_
 5	fost	fi	AUX	_	Number=Sing|VerbForm=Part	6	cop	_	_
@@ -2084,7 +2084,7 @@
 # text = @Utilizator_fem Femeia nu are nimic, vine la ginecolog doar pentru că este ne-futută !!😚😘
 # text_en = @User_fem The woman has nothing, she goes to the gynecologist only because she's not getting laid!! 😚😘
 # language_type = sexist descriptive
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	nu	nu	PART	_	Polarity=Neg	4	advmod	_	_
 4	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2107,7 +2107,7 @@
 # text = @Utilizator_fem Plus ca e mai cuminte și cu minte să nu contrazici femeile... :D
 # text_en = @User_fem Plus, it's wiser and smarter not to contradict women... :D"
 # language_type = sexist descriptive
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Plus	plus	ADV	_	Degree=Pos	0	root	_	_
 3	ca	că	SCONJ	_	Polarity=Pos|Typo=Yes	6	mark	_	CorrectForm=că
 4	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -2127,7 +2127,7 @@
 # text = @Utilizator_fem Puține femei mai sunt care vor dragoste și sex strict din plăcere.
 # text_en = @User_fem There are few women left who want love and sex strictly for pleasure.
 # language_type = sexist descriptive
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	5	vocative:mention	_	_
 2	Puține	puțin	DET	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	3	det	_	_
 3	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	_	_
 4	mai	mai	ADV	_	_	5	advmod	_	_
@@ -2204,7 +2204,7 @@
 # text = @Utilizator_fem Nu contează vârsta. Obligatoriu are copil. Cu cât mai mulți copii, cu atât e mai MILFă. :p
 # text_en = @User_fem Age doesn't matter. She must have a child. The more children she has, the more MILFy she is. :p
 # language_type = sexist descriptive
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Nu	nu	PART	_	Polarity=Neg	3	advmod	_	_
 3	contează	conta	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	vârsta	vârstă	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
@@ -2343,7 +2343,7 @@
 # text = @Utilizator_fem Uite aşa aflăm şi de ce femeile trăiesc mai mult ca bărbaţii. Diavolul se ascunde în detalii :))
 # text_en = @User_fem That's how we find out why women live longer than men. The devil is in the details :))
 # language_type = sexist descriptive
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Uite	uita	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	aşa	aşa	ADV	_	PronType=Int,Rel	4	advmod	_	_
 4	aflăm	afla	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -2735,7 +2735,7 @@
 # text = @Utlizator_fem butelia se umple cu gaz si femeia cu pumni
 # text_en = @User_fem a gas cylinder gets filled with gas, while a woman gets filled with fists
 # language_type = sexist descriptive
-1	@Utlizator_fem	@Utlizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utlizator_fem	@Utlizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	butelia	butelie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
 4	umple	umple	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2867,7 +2867,7 @@
 # text = @Utlizator_fem raspunsul clasic e altul: "Multumesc, Doamne, ca m-ai facut barbat, si nu sunt obligat sa ma apropii de un fund paros... (in fiecare seara)."
 # text_en = @Userr_fem the classic answer is another: "Thank you, God, for making me a man, and I am not obliged to approach a hairy bottom... (every evening)."
 # language_type = sexist reporting
-1	@Utlizator_fem	@Utlizator_fem	PROPN	_	_	5	vocative:mention	_	_
+1	@Utlizator_fem	@Utlizator_fem	SYM	_	_	5	vocative:mention	_	_
 2	raspunsul	răspuns	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Typo=Yes	5	nsubj	_	CorrectForm=răspunsul
 3	clasic	clasic	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 4	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -3075,7 +3075,7 @@
 # text = @Utilizator_x stiau cei de la parazitii cand au spus "idealul meu in viata e femeia cu mustata"
 # text_en = @User_x those from Paraziții knew when they said "my ideal in life is a woman with a mustache"
 # language_type = sexist reporting
-1	@Utilizator_x	@Utilizator_x	PROPN	_	_	2	vocative:mention	_	_
+1	@Utilizator_x	@Utilizator_x	SYM	_	_	2	vocative:mention	_	_
 2	stiau	ști	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=știau
 3	cei	acela	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	2	nsubj	_	_
 4	de	de	ADP	_	AdpType=Prep|Case=Acc	6	case	_	_
@@ -3458,7 +3458,7 @@
 # text = @Utilizator_fem efectiv m-am saturat sa tot aud opiniile unor bărbați care încă considera ca femeile n au niciun fel de drepturi și locul lor e in bucătărie și partea trista e ca majoritatea bărbaților din romania au genu asta de mentalitate
 # text_en = @User_fem actually I'm tired of hearing the opinions of men who still believe that women have no rights and their place is in the kitchen and the sad part is that most men in Romania have this mentality.
 # language_type = sexist reporting
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	5	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	5	vocative:mention	_	_
 2	efectiv	efectiv	ADV	_	Degree=Pos	5	advmod	_	_
 3	m-	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	5	expl:pv	_	SpaceAfter=No
 4	am	avea	AUX	_	Person=1	5	aux	_	_
@@ -3727,8 +3727,8 @@
 # text = @Utilizator_fem1  @Utilizator_fem2 bărbați. Un judecător zicea: vulpea asta a venit bine pregătită, curva vrea să divorțeze, iar ceilalți râdeau. Și multe alte mizerii vorbeau și râdeau de femeie. Nici unul nu a pățit nimic. O justiție de rahat, câte cazuri injuste am văzut aici că nu mai cred in justiție.
 # text_en = User_fem1 User_fem2 men. One judge said: this fox came well prepared, the bitch wants a divorce, and the others laughed. And a lot of other trash talking and laughing at the woman. Nobody got hurt. Shitty justice, how many unfair cases I have seen here that I don't believe in justice anymore.
 # language_type = sexist reporting
-1	@Utilizator_fem1	@Utilizator_fem1	PROPN	_	_	3	vocative:mention	_	_
-2	@Utilizator_fem2	@Utilizator_fem2	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem1	@Utilizator_fem1	SYM	_	_	3	vocative:mention	_	_
+2	@Utilizator_fem2	@Utilizator_fem2	SYM	_	_	3	vocative:mention	_	_
 3	bărbați	bărbat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 5	Un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
@@ -3966,7 +3966,7 @@
 # text = @Utlizator_x Este acum la televizor o femeie care a venit pentru ca a batut-o soțul și a sărit ea ca arsa 'I-AI PERMIS SA TE BATA CA E VINA TA CA TE VICTIMIZEZI, ESTI O MANA DE OM TREBUIA SA PLECI SI DACA TU ACCEPTI LUCRURILE ASTEA O MERITI CA PERMITI UNUI BARBAT SA TE AGRESEZE ASA'
 # text_en = @User_x, there is now a woman on television who came because her husband beat her, and she jumped in, saying 'You allowed him to hit you because it's your fault that you victimize yourself, you're a wretch, you should have left, and if you accept these things, you deserve it for allowing a man to assault you like that'.
 # language_type = sexist reporting
-1	@Utlizator_x	@Utlizator_x	PROPN	_	_	2	vocative:mention	_	_
+1	@Utlizator_x	@Utlizator_x	SYM	_	_	2	vocative:mention	_	_
 2	Este	fi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	acum	acum	ADV	_	Degree=Pos	2	advmod	_	_
 4	la	la	ADP	_	AdpType=Prep|Case=Acc	5	case	_	_
@@ -4065,7 +4065,7 @@
 # text = @Utlizator_x De acord, dar să zici că toți bărbații sunt libidinoși e ca și cum ai afirma că toate femeile care poartă fuste scurte și tocuri sunt curve.
 # text_en = @User_x Agreed, but to say that all men are lecherous is like claiming that all women who wear short skirts and heels are promiscuous.
 # language_type = sexist reporting
-1	@Utlizator_x	@Utlizator_x	PROPN	_	_	7	vocative:mention	_	_
+1	@Utlizator_x	@Utlizator_x	SYM	_	_	7	vocative:mention	_	_
 2	De	de	ADP	_	AdpType=Prep|Case=Acc	3	case	_	_
 3	acord	acord	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
@@ -4148,7 +4148,7 @@
 # text = @Utilizator_fem in ăsta urla misoginismul si lipsa de sex si de asta face pe interesantul. nu mai traim in era medievala cand femeia era tratata ca o mizerie de barbati, treziti va in plm daca tu crezi ca esti mai putin “barbat” dupa ce tratezi o femeie cu egalitate, nu ai fost niciodata trust me
 # text_en = @User_fem in this one screams misogyny and lack of sex, and that's why he's trying to act interesting. We no longer live in the medieval era when women were treated like trash by men, wake the fuck up! If you think you're less of a "man" after treating a woman with equality, you've never been one, trust me.
 # language_type = sexist reporting
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	3	case	_	CorrectForm=în
 3	ăsta	acesta	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obl	_	_
 4	urla	urlă	VERB	_	Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=urlă
@@ -4426,8 +4426,8 @@
 # text = @Utilizator_x1 Utilizator_x2 Îs misogini doar cu femeile, vorba lui @Utilizator_x3
 # text_en = @User_x1 @User_x2 IThey are misogynistic only towards women, as @User_x3 said.
 # language_type = sexist reporting
-1	@Utilizator_x1	@Utilizator_x1	PROPN	_	_	4	vocative:mention	_	_
-2	Utilizator_x2	Utilizator_x2	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_x1	@Utilizator_x1	SYM	_	_	4	vocative:mention	_	_
+2	Utilizator_x2	Utilizator_x2	SYM	_	_	4	vocative:mention	_	_
 3	Îs	fi	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	misogini	misogin	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 5	doar	doar	ADV	_	Degree=Pos	7	advmod	_	_
@@ -4521,7 +4521,7 @@
 # text = @Utilizator_fem Ala a spus despre una ca e "foarte draguta''. Ce dracu e sexist? Ne-am dilit toti?😅
 # text_en = @User_fem. That one said about a girl that she's "very cute". What the hell is sexist? Have we all gone crazy? 😅
 # language_type = sexist reporting
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	4	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Ala	ăla	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem|Typo=Yes	4	nsubj	_	CorrectForm=Ăla
 3	a	avea	AUX	_	Number=Sing|Person=3	4	aux	_	_
 4	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
@@ -4999,8 +4999,8 @@
 # text = @Utilizator_x1 @Utilizator_x2 Sa vina Alaltaieri unu cu drujba i-a tăiat capul soției așa ca toporul este arta
 # text_en = @User_x1 @User_x2 Come the day before yesterday, one with a chainsaw chopped off his wife's head like an axe, it's art
 # language_type = sexist reporting
-1	@Utilizator_x1	@Utilizator_x1	PROPN	_	_	11	vocative:mention	_	_
-2	@Utilizator_x2	@Utilizator_x2	PROPN	_	_	11	vocative:mention	_	_
+1	@Utilizator_x1	@Utilizator_x1	SYM	_	_	11	vocative:mention	_	_
+2	@Utilizator_x2	@Utilizator_x2	SYM	_	_	11	vocative:mention	_	_
 3	Sa	să	PART	_	Mood=Sub|Typo=Yes	4	mark	_	CorrectForm=Să
 4	vina	veni	VERB	_	Mood=Sub|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	11	advcl	_	CorrectForm=vină
 5	Alaltaieri	alaltăieri	ADV	_	Degree=Pos|Typo=Yes	4	advmod	_	CorrectForm=alaltăieri
@@ -5080,7 +5080,7 @@
 # text = @Utilizator_fem Își bate dracu' nevasta 😂
 # text_en = @User_fem He beats the hell out of his wife 😂
 # language_type = sexist reporting
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	3	vocative:mention	_	_
 2	Își	sine	PRON	_	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:poss	_	_
 3	bate	bate	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dracu'	dracu	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -5219,7 +5219,7 @@
 # text = @Utilzator_x 😀😀 Dar eu n-am înțeles de ce atâta crizare și futere de mamă pe tema asta. Care-i baiul? În Franța și Germania am văzut mămici alăptând în parcuri, magazine, pe stradă. Nimic ostentativ și nimeni nu se holba. Nu știu de ce noi ne dăm atâta de ceasul morții.
 # text_en = @User_x 😀😀 But I didn't understand why all the crying and motherfucking over this. What's the big deal? In France and Germany I've seen mums breastfeeding in parks, shops, on the street. Nothing ostentatious and no one was staring. I don't know why we give ourselves such a death watch.
 # language_type = sexist reporting
-1	@Utilzator_x	@Utilzator_x	PROPN	_	_	8	vocative:mention	_	_
+1	@Utilzator_x	@Utilzator_x	SYM	_	_	8	vocative:mention	_	_
 2	😀	😀	SYM	_	_	8	discourse	_	SpaceAfter=No
 3	😀	😀	SYM	_	_	8	discourse	_	_
 4	Dar	dar	CCONJ	_	Polarity=Pos	8	cc	_	_
@@ -5385,7 +5385,7 @@
 # text = @Utilizator_x era iarna și aveam hanorac și geaca pe mine și mergeam către stația de autobus și unu o trecut pe lângă mine și a zis "vai ce te-aș f*te între tâțe"...
 # text_en = User_x it was winter and I had my hoodie and jacket on and I was walking to the bus stop and a guy walked past me and said "oh I'd fuck you between the tits"....
 # language_type = sexist reporting
-1	@Utilizator_x	@Utilizator_x	PROPN	_	_	3	vocative:mention	_	_
+1	@Utilizator_x	@Utilizator_x	SYM	_	_	3	vocative:mention	_	_
 2	era	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
 3	iarna	iarnă	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=iarnă
 4	și	și	CCONJ	_	Polarity=Pos	5	cc	_	_
