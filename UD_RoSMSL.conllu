@@ -2897,7 +2897,7 @@
 28	paros	păros	ADJ	_	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Typo=Yes	27	amod	_	CorrectForm=păros|SpaceAfter=No
 29	...	...	PUNCT	_	_	24	punct	_	_
 30	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No
-31	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	33	advmod:tmod	_	CorrectForm=în
+31	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	33	case	_	CorrectForm=în
 32	fiecare	fiecare	DET	_	Case=Acc,Nom|Number=Sing|Person=3|Position=Prenom|PronType=Ind	33	det	_	_
 33	seara	seară	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	24	parataxis	_	CorrectForm=seară|SpaceAfter=No
 34	)	)	PUNCT	_	_	33	punct	_	SpaceAfter=No
@@ -3085,9 +3085,9 @@
 8	au	avea	AUX	_	Number=Plur|Person=3	9	aux	_	_
 9	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl:tcl	_	_
 10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	idealul	ideal	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
+11	idealul	ideal	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nsubj	_	_
 12	meu	meu	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
-13	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	14	case	_	CorrectForm=în
+13	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	11	advmod	_	CorrectForm=în
 14	viata	viață	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	13	fixed	_	CorrectForm=viață
 15	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	ccomp	_	_
