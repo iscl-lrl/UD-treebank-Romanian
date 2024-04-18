@@ -3087,10 +3087,10 @@
 10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
 11	idealul	ideal	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nsubj	_	_
 12	meu	meu	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
-13	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	11	advmod	_	CorrectForm=în
-14	viata	viață	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	13	fixed	_	CorrectForm=viață
+13	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	14	case	_	CorrectForm=în
+14	viata	viață	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	11	nmod	_	CorrectForm=viață
 15	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
-16	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	ccomp	_	_
+16	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing		_	_
 17	cu	cu	ADP	_	AdpType=Prep|Case=Acc	18	case	_	_
 18	mustata	mustață	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	16	nmod	_	CorrectForm=mustață|SpaceAfter=No
 19	"	"	PUNCT	_	_	2	punct	_	_
