@@ -4439,7 +4439,7 @@
 11	@Utilizator_x3	@Utilizator_x3	PROPN	_	_	9	nmod	_	_
 
 # sent_id = 182-1406546739142795265
-# text = Spuneti nu educației sexuale în școli. Disciplina asta se predă de când haul în Ro, pe câmpuri, prin boscheti și de obicei se numește #viol  sau "Fă, ce te-as fute!"
+# text = Spuneti nu educației sexuale în școli. Disciplina asta se predă de când haul în Ro, pe câmpuri, prin boscheti și de obicei se numește #viol sau "Fă, ce te-as fute!"
 # text_en = Say no to sex education in schools. This discipline has been taught since the dawn of time in Romania, in fields, bushes, and is usually called #rape or "Hey, I would fuck you!"
 # language_type = sexist reporting
 1	Spuneti	spune	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=Spuneți
