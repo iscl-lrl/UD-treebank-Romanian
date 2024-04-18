@@ -1575,7 +1575,7 @@
 9	când	când	ADV	_	PronType=Int,Rel	12	advmod:tmod	_	_
 10	nu	nu	PART	_	Polarity=Neg	12	advmod	_	_
 11	îi	el	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	12	iobj	_	_
-12	răspunzi	răspunde	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl:tlc	_	_
+12	răspunzi	răspunde	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl:tcl	_	_
 13	la	la	ADP	_	AdpType=Prep|Case=Acc	14	case	_	_
 14	telefon	telefon	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	_
