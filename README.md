@@ -1,7 +1,8 @@
 # UD-treebank-Romanian
 
-### Notes before submission:
+### Notes for submission in documentation:
 - Unknown DEPREL label: 'vocative:mention'
+- Unknown DEPREL label: 'discourse:emo'
 
 ### UD_RoSMSL (Romanian Social Media Sexist Language)
 
