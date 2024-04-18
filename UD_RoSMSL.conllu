@@ -365,7 +365,7 @@
 12	butter	butter	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	11	nsubj	_	Lang=en
 13	într-	întru	ADP	_	AdpType=Prep|Case=Acc|Variant=Short	15	case	_	SpaceAfter=No
 14	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
-15	oră	ora	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	_
+15	oră	ora	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl:tmod	_	_
 
 # sent_id = 23-1408279285631262720
 # text = @Utilizator_fem Unde vrei pupicii, vreau să dau mulți
