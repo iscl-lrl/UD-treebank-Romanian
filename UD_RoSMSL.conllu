@@ -162,10 +162,10 @@
 # text = @Utilizator_fem  Și cum facem să îți văd corpul
 # text_en = @User_fem  And how can I see your body?
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Și	și	CCONJ	_	Polarity=Pos	4	cc	_	_
 3	cum	cum	ADV	_	PronType=Int,Rel	4	advmod	_	_
-4	facem	face	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	facem	face	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	conj	_	_
 5	să	să	PART	_	Mood=Sub	7	mark	_	_
 6	îți	tu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	7	expl:poss	_	_
 7	văd	vedea	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
@@ -977,10 +977,10 @@
 # text = @Utilizator_fem Cat as vrea sa te pisi în gura mea și sa te ling sa curat tot.
 # text_en = @User_fem How I would like you to piss in my mouth and lick you clean.
 # language_type = sexist direct
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	4	vocative:mention	_	_
 2	Cat	cât	ADV	_	PronType=Int,Rel|Typo=Yes	4	advmod	_	CorrectForm=cât
 3	as	avea	AUX	_	Number=Sing|Person=1|Typo=Yes	4	aux	_	CorrectForm=aș
-4	vrea	vrea	VERB	_	Tense=Pres|VerbForm=Inf	1	acl	_	_
+4	vrea	vrea	VERB	_	Tense=Pres|VerbForm=Inf	0	root	_	_
 5	sa	să	PART	_	Mood=Sub|Typo=Yes	7	mark	_	CorrectForm=să
 6	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	7	expl:pv	_	_
 7	pisi	pișa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	4	ccomp	_	CorrectForm=piși
@@ -993,8 +993,8 @@
 14	ling	linge	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
 15	sa	să	PART	_	Mood=Sub|Typo=Yes	16	mark	_	CorrectForm=să
 16	curat	curăța	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	14	ccomp:pmod	_	CorrectForm=curăț
-17	tot	tot	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	obj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	1	punct	_	_
+17	tot	tot	ADV	_	Degree=Pos	16	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 53-1403724884002447361
 # text = @Utilizator_fem Păcat că iar te distrezi cu naivitatea bărbaților.
@@ -3601,13 +3601,13 @@
 # text = @Utilizator_fem Așa este. Nici nu știu cum să mă exprim când aud la știri despre cazuri cu femei omorâte de perechea lor. Azi au dat alt caz de o femeie ucisă, au ajuns la 20 de la începutul anului. 😡 Mare parte din vină o are justiția.
 # text_en = @User_fem That's right. I don't even know how to express myself when I hear on the news about cases of women being killed by their partners. Today they gave another case of a murdered woman, they have reached 20 since the beginning of the year. 😡 Much of the blame lies with the judiciary.
 # language_type = sexist reporting
-1	@Utilizator_fem	@Utilizator_fem	PROPN	_	_	0	root	_	_
-2	Așa	așa	ADV	_	Degree=Pos	1	appos	_	_
+1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
+2	Așa	așa	ADV	_	Degree=Pos	0	root	_	_
 3	este	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
 5	Nici	nici	ADV	_	PronType=Neg	7	advmod	_	_
 6	nu	nu	PART	_	Polarity=Neg	7	advmod	_	_
-7	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+7	știu	ști	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 8	cum	cum	ADV	_	PronType=Int,Rel	11	advmod	_	_
 9	să	să	PART	_	Mood=Sub	11	mark	_	_
 10	mă	mă	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	11	expl:pv	_	_
@@ -3627,7 +3627,7 @@
 24	.	.	PUNCT	_	_	7	punct	_	_
 25	Azi	azi	ADV	_	Degree=Pos	27	advmod	_	_
 26	au	avea	AUX	_	Number=Plur|Person=3	27	aux	_	_
-27	dat	da	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	_
+27	dat	da	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	_
 28	alt	alt	DET	_	Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Ind	29	det	_	_
 29	caz	caz	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	27	obj	_	_
 30	de	de	ADP	_	AdpType=Prep|Case=Acc	32	case	_	_
@@ -3650,7 +3650,7 @@
 47	din	din	ADP	_	AdpType=Prep|Case=Acc	48	case	_	_
 48	vină	vină	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	46	nmod	_	_
 49	o	el	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	50	expl	_	_
-50	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+50	are	avea	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 51	justiția	justiție	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	50	nsubj	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	50	punct	_	_
 
