@@ -7,7 +7,7 @@
 #### Tasks
 - [x] Annotation of 210 samples (source: git: [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf) - paper:  [CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets](https://aclanthology.org/2022.lrec-1.243/))
 - [x] Added two deprel labels non-existing in the Romanian language, i.e, *vocative:mention* and *discourse:emo*,  which results in Syntax errors: 182(*** FAILED *** with 182 errors)
-- [x] Without the new labels upon validation, validation is successful :tada:
+- [x] Without the new labels validation is successful :tada:
 - [ ] Adding the new Unknown DEPREL label in the documentation upon submission:
 - Unknown DEPREL label: 'vocative:mention'
 - Unknown DEPREL label: 'discourse:emo'
