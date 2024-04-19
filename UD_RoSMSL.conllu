@@ -3093,7 +3093,7 @@
 16	femeia	femeie	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	advcl	_	_
 17	cu	cu	ADP	_	AdpType=Prep|Case=Acc	18	case	_	_
 18	mustata	mustață	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|Typo=Yes	16	nmod	_	CorrectForm=mustață|SpaceAfter=No
-19	"	"	PUNCT	_	PUNCT	_	_	16	punct	_	_
+19	"	"	PUNCT	_	_	16	punct	_	_
 
 # sent_id = 148-1409266712973910016
 # text = In drum spre casa parca totul era gresit, numai barbati ciudati si masini care mergeau mega incet pe langa noi, am zis ca mor de inima. Intr un final am ajuns si la hotel adineauri, dar nici acum nu m am linistit sa moara masa, nu mai ies dupa 9 din incinta acestui hotel niciodata
