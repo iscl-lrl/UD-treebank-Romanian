@@ -4111,7 +4111,7 @@
 9	se	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pv	_	_
 10	ținea	ține	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
 11	în	în	ADV	_	Degree=Pos|Typo=Yes	10	advmod	_	CorrectForm=încontinuu
-12	continuu	_	X	_	_	11	goeswith	_	_
+12	continuu	continuu	X	_	_	11	goeswith	_	_
 13	dupa	după	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	14	case	_	CorrectForm=după
 14	mine	eu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	10	obl	_	_
 
