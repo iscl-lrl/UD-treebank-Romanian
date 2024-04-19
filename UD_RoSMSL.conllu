@@ -3083,8 +3083,8 @@
 6	parazitii	Paraziții	PROPN	_	Typo=Yes	3	nmod	_	CorrectForm=Paraziții
 7	cand	când	SCONJ	_	Typo=Yes	9	mark	_	CorrectForm=când
 8	au	avea	AUX	_	Number=Plur|Person=3	9	aux	_	_
-9	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl:tcl	_	SpaceAfter=No
-10	"	"	PUNCT	_	_	16	punct	_	_
+9	spus	spune	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl:tcl	_	_
+10	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
 11	idealul	ideal	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nsubj	_	_
 12	meu	meu	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
 13	in	în	ADP	_	AdpType=Prep|Case=Acc|Typo=Yes	14	case	_	CorrectForm=în
