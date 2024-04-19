@@ -1,24 +1,17 @@
 # UD-treebank-Romanian
-
-### Notes for submission in documentation:
+### UD_RoSMSL (Romanian Social Media Sexist Language)
+### Summary
++ Genre: Social Media
++ Corpus size: 210 samples
++ The Romanian Social Media Sexist Language UD treebank (called UD_RoSMSL) is a reference treebank in UD format for Romanian sexist language.
+#### Tasks
+- [x] Annotation of 210 samples (source: git: [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf) - paper:  [CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets](https://aclanthology.org/2022.lrec-1.243/))
+- [x] Added two deprel labels non-existing in the Romanian language, i.e, *vocative:mention* and *discourse:emo*,  which results in Syntax errors: 182(*** FAILED *** with 182 errors)
+- [x] Without the new labels upon validation, annotation is successful :tada:
+- [ ] Adding the new Unknown DEPREL label in the documentation upon submission:
 - Unknown DEPREL label: 'vocative:mention'
 - Unknown DEPREL label: 'discourse:emo'
-
-### UD_RoSMSL (Romanian Social Media Sexist Language)
-
-### Summary
-Genre: Social Media
-
-Corpus size: 210 samples
-
-The Romanian Social Media Sexist Language UD treebank (called UD_RoSMSL) is the reference treebank in UD format for Romanian sexist language.
-
-### Introduction
-
-Source: samples from CoRoSeOf
-git: [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf)
-paper: https://aclanthology.org/2022.lrec-1.243/ 
-
+      
 ### Data Splits
 
 The treebank will be divided into three parts: 
@@ -39,20 +32,15 @@ The split will be done done randomly. The corpus has been divided into documents
 
 ### Language Family
 
-Language: Romanian (code: ro) 
++ Language: Romanian (code: ro) 
++ Language family: Indo-European
 
-Language family: Indo-European
-
-                    Italic
-                    
-                      Latino-Faliscan
-                      
-                            Romance
-                            
-                              Eastern Romance
-                              
-                                Daco-Romance
-                                
-                                    Romanian
+                    - Italic
+                      - Latino-Faliscan
+                            - Romance
+                              - Eastern Romance
+                                - Daco-Romance
+                                    - Romanian
 
 
+&copy;
