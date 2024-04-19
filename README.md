@@ -21,14 +21,12 @@ The treebank will be divided into three parts:
 
 The split will be done done randomly. The corpus has been divided into documents containing instances of sexist language found in social media, from Twitter.  
 
-### Basic Statistics
+### Statistics of UD_RoSMSL
 
 - Tree count:  210
-- Word count:  
-- Token count: 
+- Word count:
+- Number of unique POS tags: 17 ('PROPN', 'CCONJ', 'VERB', 'X', 'AUX', 'ADJ', 'SCONJ', 'PRON', 'NOUN', 'DET', 'SYM', 'PART', 'PUNCT', 'NUM', 'INTJ', 'ADV', 'ADP')
 - Dep. relations: 
-- POS tags: 
-- Category=value feature pairs:
 
 ### Language Family
 
