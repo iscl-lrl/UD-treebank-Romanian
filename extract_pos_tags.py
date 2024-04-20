@@ -18,5 +18,6 @@ if __name__ == '__main__':
     
     filename = sys.argv[1]
     unique_pos_tags = extract_pos_tags(filename)
-    print("Unique POS tags:", unique_pos_tags)
-    print("Number of unique POS tags:", len(unique_pos_tags))
+    sorted_pos_tags = sorted(unique_pos_tags) 
+    print("Unique POS tags:", sorted_pos_tags)
+    print("Number of unique POS tags:", len(sorted_pos_tags))
