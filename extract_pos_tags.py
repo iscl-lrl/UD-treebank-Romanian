@@ -1,14 +1,14 @@
 import sys
 
 def extract_pos_tags(filename):
-    pos_tags = set()  # A set to store unique POS tags
+    pos_tags = set()  
     with open(filename, 'r') as file:
         for line in file:
-            if not line.startswith('#') and line.strip():  # Ignore comment lines and empty lines
-                parts = line.split('\t')  # Split the line into columns
-                if len(parts) > 3:  # Ensure there are enough parts
-                    pos_tag = parts[3]  # Get the POS tag from the fourth column
-                    pos_tags.add(pos_tag)  # Add the POS tag to the set
+            if not line.startswith('#') and line.strip():  
+                parts = line.split('\t') 
+                if len(parts) > 3: 
+                    pos_tag = parts[3]  
+                    pos_tags.add(pos_tag)  
     return pos_tags
 
 if __name__ == '__main__':
