@@ -29,7 +29,7 @@ The split will be done done randomly. The corpus has been divided into documents
 - Number of unique POS tags: 17
 - Unique POS tags: ['ADJ', 'ADP', 'ADV', 'AUX', 'CCONJ', 'DET', 'INTJ', 'NOUN', 'NUM', 'PART', 'PRON', 'PROPN', 'PUNCT', 'SCONJ', 'SYM', 'VERB', 'X']
 ##### RELATIONS
-- Dep. relations: 
+- Dep. relations:  X of 52 relations currently permitted in Romanian language 
 
 ### Language Family
 
