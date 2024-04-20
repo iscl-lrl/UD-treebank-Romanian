@@ -26,7 +26,7 @@ The split will be done done randomly. The corpus has been divided into documents
 - Tree count:  210
 - Word count:
 - Number of unique POS tags: 17
-- Unique POS tags: ('PROPN', 'CCONJ', 'VERB', 'X', 'AUX', 'ADJ', 'SCONJ', 'PRON', 'NOUN', 'DET', 'SYM', 'PART', 'PUNCT', 'NUM', 'INTJ', 'ADV', 'ADP')
+- Unique POS tags: ['ADJ', 'ADP', 'ADV', 'AUX', 'CCONJ', 'DET', 'INTJ', 'NOUN', 'NUM', 'PART', 'PRON', 'PROPN', 'PUNCT', 'SCONJ', 'SYM', 'VERB', 'X']
 - Dep. relations: 
 
 ### Language Family
