@@ -13,15 +13,20 @@
 - Unknown DEPREL label: 'discourse:emo'
 
 ### Statistics of UD_RoSMSL
-
 - Tree count:  210
-- Word count:
+
 ##### POS TAGS
 - Number of unique POS tags: 17
 - Unique POS tags: ['ADJ', 'ADP', 'ADV', 'AUX', 'CCONJ', 'DET', 'INTJ', 'NOUN', 'NUM', 'PART', 'PRON', 'PROPN', 'PUNCT', 'SCONJ', 'SYM', 'VERB', 'X']
-##### RELATIONS
+##### Relations
 - Number of unique dependency relations: 47 (+ 2 new ) out of 52 relations currently permitted in Romanian language 
 - - Unique deprels: ['acl', 'advcl', 'advcl:tcl', 'advmod', 'advmod:tmod', 'amod', 'appos', 'aux', 'aux:pass', 'case', 'cc', 'cc:preconj', 'ccomp', 'ccomp:pmod', 'compound', 'conj', 'cop', 'csubj', 'dep', 'det', 'discourse', 'discourse:emo', 'expl', 'expl:pass', 'expl:poss', 'expl:pv', 'fixed', 'flat', 'goeswith', 'iobj', 'list', 'mark', 'nmod', 'nsubj', 'nsubj:pass', 'nummod', 'obj', 'obl', 'obl:agent', 'obl:pmod', 'obl:tmod', 'orphan', 'parataxis', 'punct', 'reparandum', 'root', 'vocative', 'vocative:mention', 'xcomp']
+
+##### Tokenization and Word Segmentation
+
+- This corpus contains 210 sentences
+- Total number of tokens: 4417
+- Total number of unique tokens: 1692 
  
 ### Data Splits
 
