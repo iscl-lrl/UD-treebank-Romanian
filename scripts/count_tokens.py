@@ -1,8 +1,8 @@
 import sys
 
 def count_tokens_and_unique_tokens(filename):
-    tokens = set()  # A set to store unique tokens
-    total_tokens = 0  # Counter for total number of tokens
+    tokens = set()  
+    total_tokens = 0  
     with open(filename, 'r') as file:
         for line in file:
             if not line.startswith('#') and line.strip():  
