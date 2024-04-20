@@ -11,15 +11,6 @@
 - [ ] Adding the new Unknown DEPREL label in the documentation upon submission:
 - Unknown DEPREL label: 'vocative:mention'
 - Unknown DEPREL label: 'discourse:emo'
-      
-### Data Splits
-
-The treebank will be divided into three parts: 
-- 12.5% for the test set (ro-ud-smsl-test.conllu)
-- 12.5% for the development set (ro-ud-smsl-dev.conllu)
-- 75% for the training set (ro-ud-smsl-train.conllu)
-
-The split will be done done randomly. The corpus has been divided into documents containing instances of sexist language found in social media, from Twitter.  
 
 ### Statistics of UD_RoSMSL
 
@@ -31,6 +22,16 @@ The split will be done done randomly. The corpus has been divided into documents
 ##### RELATIONS
 - Number of unique dependency relations: 47 (+ 2 new ) out of 52 relations currently permitted in Romanian language 
 - - Unique deprels: ['acl', 'advcl', 'advcl:tcl', 'advmod', 'advmod:tmod', 'amod', 'appos', 'aux', 'aux:pass', 'case', 'cc', 'cc:preconj', 'ccomp', 'ccomp:pmod', 'compound', 'conj', 'cop', 'csubj', 'dep', 'det', 'discourse', 'discourse:emo', 'expl', 'expl:pass', 'expl:poss', 'expl:pv', 'fixed', 'flat', 'goeswith', 'iobj', 'list', 'mark', 'nmod', 'nsubj', 'nsubj:pass', 'nummod', 'obj', 'obl', 'obl:agent', 'obl:pmod', 'obl:tmod', 'orphan', 'parataxis', 'punct', 'reparandum', 'root', 'vocative', 'vocative:mention', 'xcomp']
+ 
+### Data Splits
+
+The treebank will be divided into three parts: 
+- 12.5% for the test set (ro-ud-smsl-test.conllu)
+- 12.5% for the development set (ro-ud-smsl-dev.conllu)
+- 75% for the training set (ro-ud-smsl-train.conllu)
+
+The split will be done done randomly. The corpus has been divided into documents containing instances of sexist language found in social media, from Twitter.  
+
 ### Language Family
 
 + Language: Romanian (code: ro) 
