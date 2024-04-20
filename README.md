@@ -27,6 +27,9 @@
 - This corpus contains **210** sentences
 - Total number of tokens: **4417**
 - Total number of unique tokens: **1692**
+
+##### Mispellings
+- Total number of misspelled words: **451**
  
 ### Data Splits
 
