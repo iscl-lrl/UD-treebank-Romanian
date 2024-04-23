@@ -29,7 +29,7 @@
 - Total number of unique tokens: **1692**
 
 ##### Mispellings
-- Total number of misspelled words: **451**
+- Total number of misspelled words: **451** (documented in the misc column with the CorrectForm)
  
 ### Data Splits
 
