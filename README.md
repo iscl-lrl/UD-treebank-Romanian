@@ -1,5 +1,5 @@
 # UD-treebank-Romanian
-### UD_RoSMSL (Romanian Social Media Sexist Language)
+### UD_Romanian_SMSL (Romanian Social Media Sexist Language)
 ### Summary
 + Genre: Social Media
 + Corpus size: 210 samples
