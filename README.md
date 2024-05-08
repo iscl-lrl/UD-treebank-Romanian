@@ -12,7 +12,7 @@
  - Unknown DEPREL label: 'vocative:mention'
  - Unknown DEPREL label: 'discourse:emo'
 - [x] Updated README.md on: https://github.com/UniversalDependencies/UD_Romanian-TueCL and committed it on dev
-- [x] documentation added by @ccoltekin: two documentation pages:
+- [x] documentation added by @coltekin: two documentation pages:
  - https://universaldependencies.org/ro/dep/discourse-emo
  - https://universaldependencies.org/ro/dep/vocative-mention
 
