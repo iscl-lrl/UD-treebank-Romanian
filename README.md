@@ -8,9 +8,14 @@
 - [x] Annotation of 210 samples (source: git: [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf) - paper:  [CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets](https://aclanthology.org/2022.lrec-1.243/))
 - [x] Added 2 new deprel labels non-existing in the Romanian language, i.e, *vocative:mention* and *discourse:emo*,  which results in Syntax errors: 182(*** FAILED *** with 182 errors)
 - [x] Without the new labels validation is successful :tada:
-- [ ] TBA the new 2 Unknown DEPREL label in the documentation upon submission:
-- Unknown DEPREL label: 'vocative:mention'
-- Unknown DEPREL label: 'discourse:emo'
+- [x] TBA the new 2 Unknown DEPREL label in the documentation upon submission:
+ - Unknown DEPREL label: 'vocative:mention'
+ - Unknown DEPREL label: 'discourse:emo'
+- [x] Updated README.md on: https://github.com/UniversalDependencies/UD_Romanian-TueCL and committed it on dev
+- [x] documentation added by @ccoltekin: two documentation pages:
+ - https://universaldependencies.org/ro/dep/discourse-emo
+ - https://universaldependencies.org/ro/dep/vocative-mention
+
 
 ### Statistics of UD_RoSMSL
 - Tree count:  **210**
